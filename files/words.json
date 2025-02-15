@@ -1,0 +1,82 @@
+[
+    {
+        "dars": "portrait",
+        "so'zlar": [
+            {
+                "kana": "都合",
+                "jp": "つごう",
+                "uzb": "Holat, vaziyat"
+            },
+            {
+                "kana": "東京都",
+                "jp": "とうきょうと",
+                "uzb": "Tokyo prefekturasi"
+            },
+            {
+                "kana": "首都",
+                "jp": "しゅと",
+                "uzb": "Poytaxt"
+            },
+            {
+                "kana": "大都市",
+                "jp": "だいとし",
+                "uzb": "Metropolis shahar"
+            },
+            {
+                "kana": "都会",
+                "jp": "とかい",
+                "uzb": "Shahar"
+            },
+            {
+                "kana": "京都",
+                "jp": "きょうと",
+                "uzb": "Kyoto"
+            },
+            {
+                "kana": "上京する",
+                "jp": "じょうきょう する",
+                "uzb": "Tokyoga borish"
+            },
+            {
+                "kana": "秋田県",
+                "jp": "あきたけん",
+                "uzb": "Akita prefekturasi"
+            },
+            {
+                "kana": "県立",
+                "jp": "けんりつ",
+                "uzb": "Prefektura boshqaruvi"
+            },
+            {
+                "kana": "県庁",
+                "jp": "けんちょう",
+                "uzb": "Prefektura idorasi"
+            },
+            {
+                "kana": "市民",
+                "jp": "しみん",
+                "uzb": "Shahar aholisi"
+            },
+            {
+                "kana": "住民",
+                "jp": "じゅうみん",
+                "uzb": "Fuqaro"
+            },
+            {
+                "kana": "国民",
+                "jp": "こくみん",
+                "uzb": "Mamlakat fuqarolari"
+            },
+            {
+                "kana": "難民",
+                "jp": "なんみん",
+                "uzb": "Qochqin"
+            },
+            {
+                "kana": "同じ",
+                "jp": "おなじ",
+                "uzb": "Bir xil"
+            }
+        ]
+    }
+]
