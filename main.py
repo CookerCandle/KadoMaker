@@ -14,7 +14,6 @@ def create_flashcards_pdf(
     font_path_jp: str = "files/yumin.ttf",
     font_path_tr: str = "files/NotoSans.ttf",
     langs: list = ("uz", "en", "ru"),
-    color: str = "black",
     orientation: Literal["portrait", "landscape"] = "landscape",
 ) -> None:
     """
@@ -24,7 +23,6 @@ def create_flashcards_pdf(
     params: font_path_jp — путь к TTF-файлу с японским шрифтом,
     params: font_path_tr — путь к TTF-файлу с шрифтом для перевода,
     params: langs — список языков для перевода (ключи из JSON),
-    params: color — цвет текста (по умолчанию черный), 
     params: orientation — ориентация страниц (портрет или ландшафт).
     """
     if orientation == "portrait":
@@ -38,11 +36,12 @@ def create_flashcards_pdf(
     if not words:
         raise ValueError("No words found for the specified lessons.")
 
+    load_font("JapaneseFont", font_path_jp)
+    load_font("TranslateFont", font_path_tr)
+
     for lesson in lessons:
         pdf_filename = f"output/{lesson}-dars_{orientation}.pdf"
         c = canvas.Canvas(pdf_filename, pagesize=(width, height))
-        load_font("JapaneseFont", font_path_jp)
-        load_font("TranslateFont", font_path_tr)
         margin = 40
 
         match orientation:
@@ -88,7 +87,7 @@ def create_flashcards_pdf(
             c.setFont("JapaneseFont", font_size)
             c.drawCentredString(
                 x_pos + card_width / 2,
-                y_pos + card_height / 2,
+                y_pos + card_height / 2 - font_size / 4,
                 word["word"]
             )
 
@@ -114,8 +113,6 @@ def create_flashcards_pdf(
                 mirrored_page.extend(row_slice[::-1])
             kanji_positions_per_page.append(mirrored_page)
 
-        c.showPage()
-
         # --- Второй лист: чтение + перевод ---
         for page_positions in kanji_positions_per_page:
             for (x_pos, y_pos, word) in page_positions:
@@ -137,25 +134,26 @@ def create_flashcards_pdf(
                 # перевод (каждый язык с новой строки)
                 translations = list(word["translation"].values())
 
-                # подбираем шрифт так, чтобы влезло
-                font_size = 14
-                max_text_width = max(c.stringWidth(t, "TranslateFont", font_size) for t in translations)
-                while max_text_width > card_width - 10 and font_size > 8:
-                    font_size -= 1
+                if translations:
+                    # подбираем шрифт так, чтобы влезло
+                    font_size = 14
                     max_text_width = max(c.stringWidth(t, "TranslateFont", font_size) for t in translations)
+                    while max_text_width > card_width - 10 and font_size > 8:
+                        font_size -= 1
+                        max_text_width = max(c.stringWidth(t, "TranslateFont", font_size) for t in translations)
 
-                c.setFont("TranslateFont", font_size)
+                    c.setFont("TranslateFont", font_size)
 
-                # рассчитываем вертикальное выравнивание
-                total_height = len(translations) * (font_size + 2)
-                start_y = y_pos + card_height * 0.35 + total_height / 2
+                    # рассчитываем вертикальное выравнивание
+                    total_height = len(translations) * (font_size + 2)
+                    start_y = y_pos + card_height * 0.35 + total_height / 2
 
-                for i, line in enumerate(translations):
-                    c.drawCentredString(
-                        mirrored_x_pos + card_width / 2,
-                        start_y - i * (font_size + 2),
-                        line
-                    )
+                    for i, line in enumerate(translations):
+                        c.drawCentredString(
+                            mirrored_x_pos + card_width / 2,
+                            start_y - i * (font_size + 2),
+                            line
+                        )
 
             c.showPage()
 
