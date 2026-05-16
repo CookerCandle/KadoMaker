@@ -14,16 +14,12 @@
 ```sh
 git https://github.com/CookerCandle/KadoMaker.git
 cd kadomaker
-
-python -m venv .venv
-source venv/bin/activate  # Для macOS/Linux
-venv/scripts/activate    # Для Windows
 ```
 
 ### 2. Установка зависимостей
-Убедитесь, что у вас установлен Python (>=3.7), затем установите необходимые пакеты:
+Убедитесь, что у вас установлен [uv](https://docs.astral.sh/uv/). Затем установите зависимости:
 ```sh
-pip install -r requirements.txt
+uv sync
 ```
 
 ## 🚀 Использование
@@ -58,7 +54,7 @@ create_flashcards_pdf(
 - langs *принимает список по умолчанию uz en ru*
 - orentation *принимает либо portrait либо landscape по умодчанию landscape*
 ```sh
-python main.py 
+uv run main.py
 ```
 
 После успешного выполнения будет создан файл на папке output `output/{lesson}-dars_{orientation}.pdf`.
