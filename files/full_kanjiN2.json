@@ -1,0 +1,7685 @@
+[
+  {
+    "lesson": 1,
+    "data": [
+      {
+        "kanji": "行儀",
+        "jp": "ぎょうぎ",
+        "uz": "Odob-tarbiya, Madaniyat",
+        "en": "",
+        "ru": "манера, поведение",
+        "example": ""
+      },
+      {
+        "kanji": "作法",
+        "jp": "さほう",
+        "uz": "etiket, belgilangan madaniy",
+        "en": "",
+        "ru": "qoidalar",
+        "example": ""
+      },
+      {
+        "kanji": "優勝",
+        "jp": "ゆうしょう",
+        "uz": "G'alaba",
+        "en": "",
+        "ru": "победа",
+        "example": ""
+      },
+      {
+        "kanji": "一瞬",
+        "jp": "いっしゅん",
+        "uz": "Bir lahza",
+        "en": "",
+        "ru": "мгновение",
+        "example": ""
+      },
+      {
+        "kanji": "誘われる",
+        "jp": "さそわれる",
+        "uz": "Mahliyo bo'lmoq, uchmoq",
+        "en": "",
+        "ru": "быть соблазнённым",
+        "example": ""
+      },
+      {
+        "kanji": "物騒な",
+        "jp": "ぶっそうな",
+        "uz": "Xavfli, havotirli",
+        "en": "",
+        "ru": "опасный, тревожный",
+        "example": ""
+      },
+      {
+        "kanji": "事件",
+        "jp": "じけん",
+        "uz": "Hodisa, voqea",
+        "en": "",
+        "ru": "событие",
+        "example": ""
+      },
+      {
+        "kanji": "死亡率",
+        "jp": "しぼうりつ",
+        "uz": "O'limlar soni(foizi)",
+        "en": "",
+        "ru": "смертность",
+        "example": ""
+      },
+      {
+        "kanji": "衛生",
+        "jp": "えいせい",
+        "uz": "Gigiyena",
+        "en": "",
+        "ru": "гигиена",
+        "example": ""
+      },
+      {
+        "kanji": "飽きられる",
+        "jp": "あきられる",
+        "uz": "~dan charchamoq, jonga",
+        "en": "",
+        "ru": "tegmoq",
+        "example": ""
+      },
+      {
+        "kanji": "古典",
+        "jp": "こてん",
+        "uz": "Klassik, qadimgi",
+        "en": "",
+        "ru": "классика",
+        "example": ""
+      },
+      {
+        "kanji": "嘆く",
+        "jp": "なげく",
+        "uz": "Nolimoq",
+        "en": "",
+        "ru": "ныть",
+        "example": ""
+      },
+      {
+        "kanji": "激増",
+        "jp": "げきぞう",
+        "uz": "Keskin ko'payish",
+        "en": "",
+        "ru": "резкое увеличение",
+        "example": ""
+      },
+      {
+        "kanji": "うつ病",
+        "jp": "うつびょう",
+        "uz": "Depressiya",
+        "en": "",
+        "ru": "депрессия",
+        "example": ""
+      },
+      {
+        "kanji": "病む",
+        "jp": "やむ",
+        "uz": "Kasal bo'lmoq",
+        "en": "",
+        "ru": "болеть",
+        "example": ""
+      },
+      {
+        "kanji": "技術力",
+        "jp": "ぎじゅつりょく",
+        "uz": "Texnologiyalar kuchi",
+        "en": "",
+        "ru": "сила технологий",
+        "example": ""
+      },
+      {
+        "kanji": "淡水",
+        "jp": "たんすい",
+        "uz": "Chuchuk suv",
+        "en": "",
+        "ru": "пресная вода",
+        "example": ""
+      },
+      {
+        "kanji": "記憶力",
+        "jp": "きおくりょく",
+        "uz": "Xotira kuchi",
+        "en": "",
+        "ru": "сила памяти",
+        "example": ""
+      },
+      {
+        "kanji": "代表作",
+        "jp": "だいひょうさく",
+        "uz": "Mashhur asar, tanilgan asar",
+        "en": "",
+        "ru": "известное произведение",
+        "example": ""
+      },
+      {
+        "kanji": "代表者",
+        "jp": "だいひょうしゃ",
+        "uz": "Vakil",
+        "en": "",
+        "ru": "представитель",
+        "example": ""
+      },
+      {
+        "kanji": "保護区",
+        "jp": "ほごく",
+        "uz": "Muhofaza qilinadigan hudud,",
+        "en": "",
+        "ru": "qo'riqxona",
+        "example": ""
+      },
+      {
+        "kanji": "植物",
+        "jp": "しょくぶつ",
+        "uz": "O'simlik",
+        "en": "",
+        "ru": "растение",
+        "example": ""
+      },
+      {
+        "kanji": "野球",
+        "jp": "やきゅう",
+        "uz": "Beysbol",
+        "en": "",
+        "ru": "бейсбол",
+        "example": ""
+      },
+      {
+        "kanji": "公式戦",
+        "jp": "こうしきせん",
+        "uz": "Rasmiy o'yin",
+        "en": "",
+        "ru": "официальная игра",
+        "example": ""
+      },
+      {
+        "kanji": "胃を荒らす",
+        "jp": "いをあらす",
+        "uz": "Oshqozon ishlashini buzishi",
+        "en": "",
+        "ru": "расстройство желудка",
+        "example": ""
+      },
+      {
+        "kanji": "副作用",
+        "jp": "ふくさよう",
+        "uz": "Nojo'ya ta'sir",
+        "en": "",
+        "ru": "побочный эффект",
+        "example": ""
+      },
+      {
+        "kanji": "繰り返す",
+        "jp": "くりかえす",
+        "uz": "Qaytarilmoq",
+        "en": "",
+        "ru": "повторяться",
+        "example": ""
+      },
+      {
+        "kanji": "洗濯機",
+        "jp": "せんたくき",
+        "uz": "Kir yuvadigan mashina",
+        "en": "",
+        "ru": "стиральная машина",
+        "example": ""
+      },
+      {
+        "kanji": "故障",
+        "jp": "こしょう",
+        "uz": "Buzilish",
+        "en": "",
+        "ru": "сломаться",
+        "example": ""
+      },
+      {
+        "kanji": "滅多に～ない",
+        "jp": "めったに～ない",
+        "uz": "Kamdan-kam",
+        "en": "",
+        "ru": "редко",
+        "example": ""
+      },
+      {
+        "kanji": "しばしば",
+        "jp": "しばしば",
+        "uz": "Tez-tez, ko'p sodir bo'lish",
+        "en": "",
+        "ru": "часто",
+        "example": ""
+      },
+      {
+        "kanji": "地域",
+        "jp": "ちいき",
+        "uz": "Mintaqa",
+        "en": "",
+        "ru": "регион",
+        "example": ""
+      },
+      {
+        "kanji": "セキュリティー",
+        "jp": "セキュリティー",
+        "uz": "Xavfsizlik",
+        "en": "",
+        "ru": "безопасность",
+        "example": ""
+      },
+      {
+        "kanji": "舞台",
+        "jp": "ぶたい",
+        "uz": "Sahna",
+        "en": "",
+        "ru": "сцена",
+        "example": ""
+      },
+      {
+        "kanji": "独特な",
+        "jp": "どくとくな",
+        "uz": "O'ziga xos",
+        "en": "",
+        "ru": "особенный, своеобразный",
+        "example": ""
+      },
+      {
+        "kanji": "修繕",
+        "jp": "しゅうぜん",
+        "uz": "Tamirlash",
+        "en": "",
+        "ru": "ремонт",
+        "example": ""
+      },
+      {
+        "kanji": "切り抜き",
+        "jp": "きりぬき",
+        "uz": "Qirqib olingan qism",
+        "en": "",
+        "ru": "вырезка",
+        "example": ""
+      },
+      {
+        "kanji": "連絡する",
+        "jp": "れんらくする",
+        "uz": "Bog'lanish(temir yo'l)",
+        "en": "",
+        "ru": "соединять(жд)",
+        "example": ""
+      },
+      {
+        "kanji": "かえって",
+        "jp": "かえって",
+        "uz": "Teskarisiga, qaytangga",
+        "en": "",
+        "ru": "наоборот",
+        "example": ""
+      },
+      {
+        "kanji": "（予想が）当たる",
+        "jp": "(よそうが)あたる",
+        "uz": "(taxminga) mos tushmoq",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "（予想が）外れる",
+        "jp": "(よそうが)はずれる",
+        "uz": "(taxmindan) uzoqlashmoq,",
+        "en": "",
+        "ru": "noto'g'ri chiqmoq",
+        "example": ""
+      },
+      {
+        "kanji": "交差する",
+        "jp": "こうさする",
+        "uz": "Kesishmoq",
+        "en": "",
+        "ru": "пересекаться",
+        "example": ""
+      },
+      {
+        "kanji": "カバーする",
+        "jp": "カバーする",
+        "uz": "o'rnini bosmoq, aybini",
+        "en": "",
+        "ru": "to'g'irlash",
+        "example": ""
+      },
+      {
+        "kanji": "補う",
+        "jp": "おぎなう",
+        "uz": "O'rnini bosmoq, o'rnini",
+        "en": "",
+        "ru": "to'ldirmoq",
+        "example": ""
+      },
+      {
+        "kanji": "はっきり",
+        "jp": "はっきり",
+        "uz": "ochiq, oydin",
+        "en": "",
+        "ru": "ясно, прямо",
+        "example": ""
+      },
+      {
+        "kanji": "率直に",
+        "jp": "そっちょくに",
+        "uz": "ochiq, oydin",
+        "en": "",
+        "ru": "ясно, прямо",
+        "example": ""
+      },
+      {
+        "kanji": "通用する",
+        "jp": "つうようする",
+        "uz": "Ishlatilmoq",
+        "en": "",
+        "ru": "использоваться",
+        "example": ""
+      },
+      {
+        "kanji": "あらすじ",
+        "jp": "あらすじ",
+        "uz": "qisqa mazmuni",
+        "en": "",
+        "ru": "краткое содержание",
+        "example": ""
+      },
+      {
+        "kanji": "迷惑な",
+        "jp": "めいわくな",
+        "uz": "Halaqit beruvchi, noqulay,",
+        "en": "",
+        "ru": "bezovta",
+        "example": ""
+      },
+      {
+        "kanji": "売買",
+        "jp": "ばいばい",
+        "uz": "Oldi-sotdi",
+        "en": "",
+        "ru": "купля продажа",
+        "example": ""
+      },
+      {
+        "kanji": "不動産",
+        "jp": "ふどうさん",
+        "uz": "Ko'chmas mulk, rieltorlik faoliyati",
+        "en": "",
+        "ru": "недвижимость, риэлторская",
+        "example": ""
+      },
+      {
+        "kanji": "過半数",
+        "jp": "かはんすう",
+        "uz": "Yarmidan ko'pi",
+        "en": "",
+        "ru": "больше половины",
+        "example": ""
+      },
+      {
+        "kanji": "証拠",
+        "jp": "しょうこ",
+        "uz": "Dalil",
+        "en": "",
+        "ru": "доказательство, улика",
+        "example": ""
+      },
+      {
+        "kanji": "賛成",
+        "jp": "さんせい",
+        "uz": "Rozi",
+        "en": "",
+        "ru": "согласие, одобрение",
+        "example": ""
+      },
+      {
+        "kanji": "資格",
+        "jp": "しかく",
+        "uz": "Kvalifikasiya, malaka",
+        "en": "",
+        "ru": "квалификация, лицензия,",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 2,
+    "data": [
+      {
+        "kanji": "～に縛られる",
+        "jp": "～にしばられる",
+        "uz": "ga bog'langan bo'lmoq",
+        "en": "",
+        "ru": "быть связанным, быть",
+        "example": ""
+      },
+      {
+        "kanji": "環境",
+        "jp": "かんきょう",
+        "uz": "atrof-muhit, muhit",
+        "en": "",
+        "ru": "окружающая среда,",
+        "example": ""
+      },
+      {
+        "kanji": "整う",
+        "jp": "ととのう",
+        "uz": "tayyor bo'lish",
+        "en": "",
+        "ru": "быть подготовленным",
+        "example": ""
+      },
+      {
+        "kanji": "騒々しい",
+        "jp": "そうぞうしい",
+        "uz": "shovqinli",
+        "en": "",
+        "ru": "шумный, беспокойный",
+        "example": ""
+      },
+      {
+        "kanji": "面接",
+        "jp": "めんせつ",
+        "uz": "intervyu, suhbat",
+        "en": "",
+        "ru": "интервью",
+        "example": ""
+      },
+      {
+        "kanji": "知識",
+        "jp": "ちしき",
+        "uz": "bilim",
+        "en": "",
+        "ru": "знания",
+        "example": ""
+      },
+      {
+        "kanji": "採用する",
+        "jp": "さいようする",
+        "uz": "qabul qilish (ishga)",
+        "en": "",
+        "ru": "принимать",
+        "example": ""
+      },
+      {
+        "kanji": "重視（する）",
+        "jp": "じゅうし（する）",
+        "uz": "e'tibor qaratmoq",
+        "en": "",
+        "ru": "придавать большое",
+        "example": ""
+      },
+      {
+        "kanji": "交換",
+        "jp": "こうかん",
+        "uz": "almashish",
+        "en": "",
+        "ru": "обмен",
+        "example": ""
+      },
+      {
+        "kanji": "包装",
+        "jp": "ほうそう",
+        "uz": "qadoqlash",
+        "en": "",
+        "ru": "упаковка, обертка",
+        "example": ""
+      },
+      {
+        "kanji": "進む",
+        "jp": "すすむ",
+        "uz": "siljimoq, rivojlanmoq",
+        "en": "",
+        "ru": "продвигаться",
+        "example": ""
+      },
+      {
+        "kanji": "太陽",
+        "jp": "たいよう",
+        "uz": "quyosh",
+        "en": "",
+        "ru": "солнце",
+        "example": ""
+      },
+      {
+        "kanji": "暖房",
+        "jp": "だんぼう",
+        "uz": "isitish tizimi",
+        "en": "",
+        "ru": "отопление",
+        "example": ""
+      },
+      {
+        "kanji": "利用",
+        "jp": "りよう",
+        "uz": "foydalanish",
+        "en": "",
+        "ru": "использование",
+        "example": ""
+      },
+      {
+        "kanji": "勘違い",
+        "jp": "かんちがい",
+        "uz": "tushunmovchilik",
+        "en": "",
+        "ru": "недоразумение,",
+        "example": ""
+      },
+      {
+        "kanji": "（常識に）照らす",
+        "jp": "（じょうしきに）てらす",
+        "uz": "sog'lom fikr bilan nazar solmoq",
+        "en": "",
+        "ru": "смотреть с точки зрения",
+        "example": ""
+      },
+      {
+        "kanji": "地盤",
+        "jp": "じばん",
+        "uz": "poydevor, asos",
+        "en": "",
+        "ru": "фундамент, основание",
+        "example": ""
+      },
+      {
+        "kanji": "沈む",
+        "jp": "しずむ",
+        "uz": "botmoq, cho'kish",
+        "en": "",
+        "ru": "тонуть; сесть ; идти ко дну",
+        "example": ""
+      },
+      {
+        "kanji": "汚染",
+        "jp": "おせん",
+        "uz": "ifloslanish",
+        "en": "",
+        "ru": "загрязнение",
+        "example": ""
+      },
+      {
+        "kanji": "有害",
+        "jp": "ゆうがい",
+        "uz": "zararli",
+        "en": "",
+        "ru": "вредный, пагубный",
+        "example": ""
+      },
+      {
+        "kanji": "物質",
+        "jp": "ぶっしつ",
+        "uz": "materiya, modda",
+        "en": "",
+        "ru": "материя, вещество",
+        "example": ""
+      },
+      {
+        "kanji": "非暴力",
+        "jp": "ひぼうりょく",
+        "uz": "zo'ravonlikka qarshilik",
+        "en": "",
+        "ru": "против насилие",
+        "example": ""
+      },
+      {
+        "kanji": "信条",
+        "jp": "しんじょう",
+        "uz": "ishonch, aqida",
+        "en": "",
+        "ru": "вера",
+        "example": ""
+      },
+      {
+        "kanji": "独立",
+        "jp": "どくりつ",
+        "uz": "mustaqillik",
+        "en": "",
+        "ru": "независимость",
+        "example": ""
+      },
+      {
+        "kanji": "指導",
+        "jp": "しどう",
+        "uz": "yetakchilik, rahbarlik",
+        "en": "",
+        "ru": "возглавление,",
+        "example": ""
+      },
+      {
+        "kanji": "個性派",
+        "jp": "こせいは",
+        "uz": "yorqin shaxslar toifasi, o'ziga",
+        "en": "",
+        "ru": "xos insonlar toifasi",
+        "example": ""
+      },
+      {
+        "kanji": "俳優",
+        "jp": "はいゆう",
+        "uz": "aktyor",
+        "en": "",
+        "ru": "актер",
+        "example": ""
+      },
+      {
+        "kanji": "改善点",
+        "jp": "かいぜんてん",
+        "uz": "Yaxshilash kerak bo'lgan jihat",
+        "en": "",
+        "ru": "Аспекты требующие",
+        "example": ""
+      },
+      {
+        "kanji": "自然界",
+        "jp": "しぜんかい",
+        "uz": "tabiat",
+        "en": "",
+        "ru": "природа",
+        "example": ""
+      },
+      {
+        "kanji": "法則",
+        "jp": "ほうそく",
+        "uz": "qonun",
+        "en": "",
+        "ru": "закон",
+        "example": ""
+      },
+      {
+        "kanji": "逆らう",
+        "jp": "さからう",
+        "uz": "qarshilik ko'rsatmoq",
+        "en": "",
+        "ru": "противиться, идти против",
+        "example": ""
+      },
+      {
+        "kanji": "同年齢",
+        "jp": "どうねんれい",
+        "uz": "bir xil yoshda",
+        "en": "",
+        "ru": "одинакового возраста",
+        "example": ""
+      },
+      {
+        "kanji": "更新",
+        "jp": "こうしん",
+        "uz": "yangilash",
+        "en": "",
+        "ru": "обновление",
+        "example": ""
+      },
+      {
+        "kanji": "閉鎖",
+        "jp": "へいさ",
+        "uz": "yopiq",
+        "en": "",
+        "ru": "закрытие",
+        "example": ""
+      },
+      {
+        "kanji": "優秀な",
+        "jp": "ゆうしゅうな",
+        "uz": "a'lo, zo'r, iqtidorli",
+        "en": "",
+        "ru": "талантливый, превосходный,",
+        "example": ""
+      },
+      {
+        "kanji": "有効",
+        "jp": "ゆうこう",
+        "uz": "amaldagi",
+        "en": "",
+        "ru": "действующий",
+        "example": ""
+      },
+      {
+        "kanji": "刺激",
+        "jp": "しげき",
+        "uz": "ta'sir ko'rsatmoq",
+        "en": "",
+        "ru": "стимул",
+        "example": ""
+      },
+      {
+        "kanji": "次第に",
+        "jp": "しだいに",
+        "uz": "asta-sekin",
+        "en": "",
+        "ru": "постепенно",
+        "example": ""
+      },
+      {
+        "kanji": "いらいらする",
+        "jp": "いらいらする",
+        "uz": "asabiylashmoq",
+        "en": "",
+        "ru": "раздражаться, нервничать",
+        "example": ""
+      },
+      {
+        "kanji": "寿司",
+        "jp": "すし",
+        "uz": "sushi",
+        "en": "",
+        "ru": "суши",
+        "example": ""
+      },
+      {
+        "kanji": "洋風／和風",
+        "jp": "ようふう／わふう",
+        "uz": "g'arb uslubidagi/ yapon uslubidagi",
+        "en": "",
+        "ru": "западный стиль/японский стиль",
+        "example": ""
+      },
+      {
+        "kanji": "謙遜",
+        "jp": "けんそん",
+        "uz": "kamtarlik",
+        "en": "",
+        "ru": "смирение",
+        "example": ""
+      },
+      {
+        "kanji": "アレンジ",
+        "jp": "アレンジ",
+        "uz": "o'zgartirish, moslashtirish",
+        "en": "",
+        "ru": "адаптирование, переделка",
+        "example": ""
+      },
+      {
+        "kanji": "幸福",
+        "jp": "こうふく",
+        "uz": "baxt",
+        "en": "",
+        "ru": "счастье",
+        "example": ""
+      },
+      {
+        "kanji": "永遠",
+        "jp": "えいえん",
+        "uz": "cheksizlik",
+        "en": "",
+        "ru": "бесконечность, вечность",
+        "example": ""
+      },
+      {
+        "kanji": "遠慮",
+        "jp": "えんりょ",
+        "uz": "xijolat bo'lmoq",
+        "en": "",
+        "ru": "стесниться, воздержаться",
+        "example": ""
+      },
+      {
+        "kanji": "才能",
+        "jp": "さいのう",
+        "uz": "Iste'dod",
+        "en": "",
+        "ru": "талант",
+        "example": ""
+      },
+      {
+        "kanji": "悔しい",
+        "jp": "くやしい",
+        "uz": "alamli",
+        "en": "",
+        "ru": "досадный",
+        "example": ""
+      },
+      {
+        "kanji": "味わう",
+        "jp": "あじわう",
+        "uz": "ta'tib ko'rmoq",
+        "en": "",
+        "ru": "попробовать",
+        "example": ""
+      },
+      {
+        "kanji": "偶然",
+        "jp": "ぐうぜん",
+        "uz": "tasodifan",
+        "en": "",
+        "ru": "случайность",
+        "example": ""
+      },
+      {
+        "kanji": "単調な",
+        "jp": "たんちょうな",
+        "uz": "bir xillik, zerikarli, monoton",
+        "en": "",
+        "ru": "однообразный",
+        "example": ""
+      },
+      {
+        "kanji": "作業",
+        "jp": "さぎょう",
+        "uz": "Ish",
+        "en": "",
+        "ru": "работа",
+        "example": ""
+      },
+      {
+        "kanji": "強力な",
+        "jp": "きょうりょくな",
+        "uz": "kuchli",
+        "en": "",
+        "ru": "мощный",
+        "example": ""
+      },
+      {
+        "kanji": "バイリンガル",
+        "jp": "バイリンガル",
+        "uz": "ikki tilni biladigan odam",
+        "en": "",
+        "ru": "билингвист (человек,",
+        "example": ""
+      },
+      {
+        "kanji": "反映",
+        "jp": "はんえい",
+        "uz": "aks ettirish, ifodalash",
+        "en": "",
+        "ru": "отражение",
+        "example": ""
+      },
+      {
+        "kanji": "ためいき",
+        "jp": "ためいき",
+        "uz": "xo'rsinish",
+        "en": "",
+        "ru": "вздох",
+        "example": ""
+      },
+      {
+        "kanji": "特殊",
+        "jp": "とくしゅ",
+        "uz": "maxsus",
+        "en": "",
+        "ru": "особый",
+        "example": ""
+      },
+      {
+        "kanji": "加速度",
+        "jp": "かそくど",
+        "uz": "tezlik, tezlik darajasi",
+        "en": "",
+        "ru": "ускорение",
+        "example": ""
+      },
+      {
+        "kanji": "矛盾",
+        "jp": "むじゅん",
+        "uz": "qarama-qarshilik, mantiqqa",
+        "en": "",
+        "ru": "qarshi",
+        "example": ""
+      },
+      {
+        "kanji": "行政",
+        "jp": "ぎょうせい",
+        "uz": "ma'muriyat",
+        "en": "",
+        "ru": "администрация",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 3,
+    "data": [
+      {
+        "kanji": "ボランティア",
+        "jp": "ボランティア",
+        "uz": "Ko'lgilli",
+        "en": "",
+        "ru": "волонтёр",
+        "example": ""
+      },
+      {
+        "kanji": "選択する",
+        "jp": "せんたくする",
+        "uz": "Tanlamoq",
+        "en": "",
+        "ru": "выбирать",
+        "example": ""
+      },
+      {
+        "kanji": "科目",
+        "jp": "かもく",
+        "uz": "Fan",
+        "en": "",
+        "ru": "предмет",
+        "example": ""
+      },
+      {
+        "kanji": "飛行場",
+        "jp": "ひこうじょう",
+        "uz": "Aeroport",
+        "en": "",
+        "ru": "аэропорт",
+        "example": ""
+      },
+      {
+        "kanji": "建設",
+        "jp": "けんせつ",
+        "uz": "Qurilish",
+        "en": "",
+        "ru": "строительство",
+        "example": ""
+      },
+      {
+        "kanji": "費用",
+        "jp": "ひよう",
+        "uz": "Harajat",
+        "en": "",
+        "ru": "расходы",
+        "example": ""
+      },
+      {
+        "kanji": "膨大な",
+        "jp": "ぼうだいな",
+        "uz": "Ulkan, katta",
+        "en": "",
+        "ru": "большой",
+        "example": ""
+      },
+      {
+        "kanji": "冗談",
+        "jp": "じょうだん",
+        "uz": "Hazil",
+        "en": "",
+        "ru": "шутка",
+        "example": ""
+      },
+      {
+        "kanji": "傷つける",
+        "jp": "きずつける",
+        "uz": "Hafa qilmoq, zarar yetkazmoq",
+        "en": "",
+        "ru": "ранить; повреждать, портить",
+        "example": ""
+      },
+      {
+        "kanji": "増え続ける",
+        "jp": "ふえつづける",
+        "uz": "O'sishda davom etmoq",
+        "en": "",
+        "ru": "продолжать расти",
+        "example": ""
+      },
+      {
+        "kanji": "食糧",
+        "jp": "しょくりょう",
+        "uz": "Oziq-ovqat",
+        "en": "",
+        "ru": "пища, продукты питания",
+        "example": ""
+      },
+      {
+        "kanji": "奪い合い",
+        "jp": "うばいあい",
+        "uz": "talashmoq, tortishuv (narsa",
+        "en": "",
+        "ru": "tufayli)",
+        "example": ""
+      },
+      {
+        "kanji": "防犯",
+        "jp": "ぼうはん",
+        "uz": "Jinoyatni ogohlantirish",
+        "en": "",
+        "ru": "предупреждение",
+        "example": ""
+      },
+      {
+        "kanji": "性能",
+        "jp": "せいのう",
+        "uz": "Xususiyat, funksiya",
+        "en": "",
+        "ru": "Свойство, технические",
+        "example": ""
+      },
+      {
+        "kanji": "住宅を作る",
+        "jp": "じゅうたくをつくる",
+        "uz": "Turar-joy qurmoq",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "取り組み",
+        "jp": "とりくみ",
+        "uz": "sa'y-harakat, tashabbus, loyiha",
+        "en": "",
+        "ru": "усилие, инициатива",
+        "example": ""
+      },
+      {
+        "kanji": "引き出す",
+        "jp": "ひきだす",
+        "uz": "Yuzaga chiqarmoq, tortmoq",
+        "en": "",
+        "ru": "вытягивать, добиваться",
+        "example": ""
+      },
+      {
+        "kanji": "隠れた（才能）",
+        "jp": "かくれた（さいのう）",
+        "uz": "yashiringan iqtidor",
+        "en": "",
+        "ru": "скрытый талант",
+        "example": ""
+      },
+      {
+        "kanji": "火山灰",
+        "jp": "かざんばい",
+        "uz": "Vulqon kuli",
+        "en": "",
+        "ru": "Вылканический пепел",
+        "example": ""
+      },
+      {
+        "kanji": "系統",
+        "jp": "けいとう",
+        "uz": "sistema",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "誤作動を起こす",
+        "jp": "ごさどうをおこす",
+        "uz": "Noto'g'ri ishlamoq(texnika)",
+        "en": "",
+        "ru": "вызвать неисправность",
+        "example": ""
+      },
+      {
+        "kanji": "都市",
+        "jp": "とし",
+        "uz": "Katta Shahar",
+        "en": "",
+        "ru": "большой город",
+        "example": ""
+      },
+      {
+        "kanji": "建築物",
+        "jp": "けんせつぶつ",
+        "uz": "Bino",
+        "en": "",
+        "ru": "здание",
+        "example": ""
+      },
+      {
+        "kanji": "構想",
+        "jp": "こうそう",
+        "uz": "Идея",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "高層",
+        "jp": "こうそう",
+        "uz": "Ko'p qavatli, baland",
+        "en": "",
+        "ru": "высотные",
+        "example": ""
+      },
+      {
+        "kanji": "一生",
+        "jp": "いっしょう",
+        "uz": "Bir umr",
+        "en": "",
+        "ru": "всю жизнь",
+        "example": ""
+      },
+      {
+        "kanji": "悩む",
+        "jp": "なやむ",
+        "uz": "Ikkilanmoq, qiynalmoq",
+        "en": "",
+        "ru": "затрудняться",
+        "example": ""
+      },
+      {
+        "kanji": "解放される",
+        "jp": "かいほうされる",
+        "uz": "Qo'yib yuborilmoq",
+        "en": "",
+        "ru": "быть освобождённым",
+        "example": ""
+      },
+      {
+        "kanji": "野菜と果物",
+        "jp": "やさいとくだもの",
+        "uz": "Sabzavot va mevalar",
+        "en": "",
+        "ru": "овощи и фрукты",
+        "example": ""
+      },
+      {
+        "kanji": "栄養価",
+        "jp": "えいようか",
+        "uz": "Ozuqaviy qiymati",
+        "en": "",
+        "ru": "пищевая ценность,",
+        "example": ""
+      },
+      {
+        "kanji": "比べる",
+        "jp": "くらべる",
+        "uz": "solishtirmoq",
+        "en": "",
+        "ru": "сравнивать",
+        "example": ""
+      },
+      {
+        "kanji": "諸事情",
+        "jp": "しょじじょう",
+        "uz": "ba'zi holatlar",
+        "en": "",
+        "ru": "по определённым причинам",
+        "example": ""
+      },
+      {
+        "kanji": "日帰り旅行",
+        "jp": "ひがえりりょこう",
+        "uz": "Bir kunlik sayohat",
+        "en": "",
+        "ru": "одно дневное петешествие",
+        "example": ""
+      },
+      {
+        "kanji": "来年度",
+        "jp": "らいねんど",
+        "uz": "kelasi yil(gi galda)",
+        "en": "",
+        "ru": "в следующий год",
+        "example": ""
+      },
+      {
+        "kanji": "最新の機器",
+        "jp": "さいしんのきき",
+        "uz": "Eng yangi texnologiyalar",
+        "en": "",
+        "ru": "передовые технологии",
+        "example": ""
+      },
+      {
+        "kanji": "備える",
+        "jp": "そなえる",
+        "uz": "O'rnatmoq",
+        "en": "",
+        "ru": "устанавливать",
+        "example": ""
+      },
+      {
+        "kanji": "近代的",
+        "jp": "きんだいてき",
+        "uz": "zamonaviy",
+        "en": "",
+        "ru": "современный",
+        "example": ""
+      },
+      {
+        "kanji": "的確な",
+        "jp": "てきかくな",
+        "uz": "O'rinli (mavzuga doir)",
+        "en": "",
+        "ru": "меткий, попадающий в суть",
+        "example": ""
+      },
+      {
+        "kanji": "将来性がある",
+        "jp": "しょうらいせいがある",
+        "uz": "Kelajagi bor",
+        "en": "",
+        "ru": "быть перспективным",
+        "example": ""
+      },
+      {
+        "kanji": "せいぜい",
+        "jp": "せいぜい",
+        "uz": "Maksimum, ko'pi bilan",
+        "en": "",
+        "ru": "максилаьно, насколько",
+        "example": ""
+      },
+      {
+        "kanji": "そろそろ",
+        "jp": "そろそろ",
+        "uz": "Vaqt bo'ldi",
+        "en": "",
+        "ru": "пора",
+        "example": ""
+      },
+      {
+        "kanji": "まあまあ",
+        "jp": "まあまあ",
+        "uz": "o'rtacha",
+        "en": "",
+        "ru": "так себе",
+        "example": ""
+      },
+      {
+        "kanji": "比べる",
+        "jp": "くらべる",
+        "uz": "Solishtirmoq",
+        "en": "",
+        "ru": "сравнивать",
+        "example": ""
+      },
+      {
+        "kanji": "例える",
+        "jp": "たとえる",
+        "uz": "-ga ,solishtirmoq",
+        "en": "",
+        "ru": "уподоблять, сравнивать",
+        "example": ""
+      },
+      {
+        "kanji": "気まぐれな",
+        "jp": "きまぐれな",
+        "uz": "Erka, kayfiyati tez",
+        "en": "",
+        "ru": "o'zgaruvchan",
+        "example": ""
+      },
+      {
+        "kanji": "行動に移す",
+        "jp": "こうどうにうつす",
+        "uz": "Amalda qilishga o'tish",
+        "en": "",
+        "ru": "Переходить к действиям",
+        "example": ""
+      },
+      {
+        "kanji": "気が短い",
+        "jp": "きがみじかい",
+        "uz": "Besabr, tez jahli chiqadigan",
+        "en": "",
+        "ru": "вспыльчивый",
+        "example": ""
+      },
+      {
+        "kanji": "誤解される",
+        "jp": "ごかいされる",
+        "uz": "Noto'g'ri tushunilmoq",
+        "en": "",
+        "ru": "быть неправильно понятым",
+        "example": ""
+      },
+      {
+        "kanji": "評判",
+        "jp": "ひょうばん",
+        "uz": "Baholash, obro'li",
+        "en": "",
+        "ru": "оценка, репутация",
+        "example": ""
+      },
+      {
+        "kanji": "貴族",
+        "jp": "きぞく",
+        "uz": "Ziyoli",
+        "en": "",
+        "ru": "Аристократ, благородный",
+        "example": ""
+      },
+      {
+        "kanji": "まずしい",
+        "jp": "まずしい",
+        "uz": "Kambag'al",
+        "en": "",
+        "ru": "нищий",
+        "example": ""
+      },
+      {
+        "kanji": "粗末な",
+        "jp": "そまつな",
+        "uz": "nurab qolgan, eski",
+        "en": "",
+        "ru": "бедный, старый",
+        "example": ""
+      },
+      {
+        "kanji": "不幸",
+        "jp": "ふこう",
+        "uz": "Baxtsiz",
+        "en": "",
+        "ru": "несчастливый",
+        "example": ""
+      },
+      {
+        "kanji": "フレッシュ",
+        "jp": "フレッシュ",
+        "uz": "barra, yangi",
+        "en": "",
+        "ru": "свежий",
+        "example": ""
+      },
+      {
+        "kanji": "魅力",
+        "jp": "みりょく",
+        "uz": "Joziba",
+        "en": "",
+        "ru": "очерование",
+        "example": ""
+      },
+      {
+        "kanji": "あふれる",
+        "jp": "あふれる",
+        "uz": "To'lib toshmoq",
+        "en": "",
+        "ru": "переполняться",
+        "example": ""
+      },
+      {
+        "kanji": "兼ね備える",
+        "jp": "かねそなえる",
+        "uz": "o'z ichiga olmoq, mujassam",
+        "en": "",
+        "ru": "qilmoq",
+        "example": ""
+      },
+      {
+        "kanji": "商店街",
+        "jp": "しょうてんがい",
+        "uz": "Savdo rastalarilik ko'cha",
+        "en": "",
+        "ru": "торговая улица",
+        "example": ""
+      },
+      {
+        "kanji": "必需品",
+        "jp": "ひつじゅひん",
+        "uz": "kerakli maxsulotlar",
+        "en": "",
+        "ru": "Необходимые товары",
+        "example": ""
+      },
+      {
+        "kanji": "やたらに",
+        "jp": "やたらに",
+        "uz": "ortiqcha tarzda, me'yorsiz,",
+        "en": "",
+        "ru": "ortiqcha",
+        "example": ""
+      },
+      {
+        "kanji": "余裕",
+        "jp": "よゆう",
+        "uz": "Ortiqcha, bo'sh (vaqt)",
+        "en": "",
+        "ru": "избыток, излишек",
+        "example": ""
+      },
+      {
+        "kanji": "隙のない人",
+        "jp": "すきのないひと",
+        "uz": "Мukammal inson",
+        "en": "",
+        "ru": "идеальный человек",
+        "example": ""
+      },
+      {
+        "kanji": "油断する",
+        "jp": "ゆだんする",
+        "uz": "Beparvo bo'lmoq, xushyor",
+        "en": "",
+        "ru": "emas",
+        "example": ""
+      },
+      {
+        "kanji": "慎重",
+        "jp": "しんちょう",
+        "uz": "Jiddiy, yaxshilab",
+        "en": "",
+        "ru": "остарожно, тщательно",
+        "example": ""
+      },
+      {
+        "kanji": "叩かれる",
+        "jp": "たたかれる",
+        "uz": "Tanqid qilinmoq",
+        "en": "",
+        "ru": "быть критикованным",
+        "example": ""
+      },
+      {
+        "kanji": "限定生産",
+        "jp": "げんていせいさん",
+        "uz": "cheklangan ishlab chiqarish",
+        "en": "",
+        "ru": "Ограниченное производство",
+        "example": ""
+      },
+      {
+        "kanji": "レアな",
+        "jp": "レアな",
+        "uz": "Noyob",
+        "en": "",
+        "ru": "редкий",
+        "example": ""
+      },
+      {
+        "kanji": "恩恵",
+        "jp": "おんけい",
+        "uz": "Inoyat, ne'mat",
+        "en": "",
+        "ru": "милость, благосклонность",
+        "example": ""
+      },
+      {
+        "kanji": "素人",
+        "jp": "しろうと",
+        "uz": "Havaskor",
+        "en": "",
+        "ru": "любитель",
+        "example": ""
+      },
+      {
+        "kanji": "だらしない",
+        "jp": "だらしない",
+        "uz": "Dangasa",
+        "en": "",
+        "ru": "неряшливый, неопрятный,",
+        "example": ""
+      },
+      {
+        "kanji": "重点",
+        "jp": "じゅうてん",
+        "uz": "Urg'u; ahamiyat; ustuvorlik",
+        "en": "",
+        "ru": "акцент, важность, приоритет",
+        "example": ""
+      },
+      {
+        "kanji": "支給",
+        "jp": "しきゅう",
+        "uz": "ta'minlash; to'lash; nafaqa berish",
+        "en": "",
+        "ru": "обеспечение, предоставление;",
+        "example": ""
+      },
+      {
+        "kanji": "家族手当",
+        "jp": "かぞくてあて",
+        "uz": "Oila uchun nafaqa",
+        "en": "",
+        "ru": "семейное пособие",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 4,
+    "data": [
+      {
+        "kanji": "宇宙",
+        "jp": "うちゅう",
+        "uz": "Koinot, fazo",
+        "en": "",
+        "ru": "космос",
+        "example": ""
+      },
+      {
+        "kanji": "至る所",
+        "jp": "いたるところ",
+        "uz": "hamma joyda; har qadamda",
+        "en": "",
+        "ru": "Повсюду, везде, на каждом",
+        "example": ""
+      },
+      {
+        "kanji": "早期",
+        "jp": "そうき",
+        "uz": "Daslabki, erta",
+        "en": "",
+        "ru": "ранняя стадия/стадия",
+        "example": ""
+      },
+      {
+        "kanji": "割引",
+        "jp": "わりびき",
+        "uz": "Chegirma",
+        "en": "",
+        "ru": "скидка",
+        "example": ""
+      },
+      {
+        "kanji": "宿泊",
+        "jp": "しゅくはく",
+        "uz": "Tunamoq",
+        "en": "",
+        "ru": "проживание, начёвка,",
+        "example": ""
+      },
+      {
+        "kanji": "料金",
+        "jp": "りょうきん",
+        "uz": "To`lov",
+        "en": "",
+        "ru": "плата, тариф",
+        "example": ""
+      },
+      {
+        "kanji": "発想がわく",
+        "jp": "はっそうがわく",
+        "uz": "Idea/fikr/g'oya kelmoq",
+        "en": "",
+        "ru": "появиться идея",
+        "example": ""
+      },
+      {
+        "kanji": "金銭感覚",
+        "jp": "きんせんかんかく",
+        "uz": "Puldan foydalanish hissi",
+        "en": "",
+        "ru": "чувство денег (умение правильно",
+        "example": ""
+      },
+      {
+        "kanji": "苦労する",
+        "jp": "くろうする",
+        "uz": "Qiynalmoq",
+        "en": "",
+        "ru": "испытовать трудности",
+        "example": ""
+      },
+      {
+        "kanji": "慎重に",
+        "jp": "しんちょうに",
+        "uz": "Jiddiy, yaxshilab",
+        "en": "",
+        "ru": "остарожно, тщательно",
+        "example": ""
+      },
+      {
+        "kanji": "吸収する",
+        "jp": "きゅうしゅうする",
+        "uz": "O'ziga singdirish, ichiga tortib",
+        "en": "",
+        "ru": "olish",
+        "example": ""
+      },
+      {
+        "kanji": "長期滞在",
+        "jp": "ちょうきたいざい",
+        "uz": "Uzoq muddatli istiqomat",
+        "en": "",
+        "ru": "прибывание длительный",
+        "example": ""
+      },
+      {
+        "kanji": "食卓を囲む",
+        "jp": "しょくたくをかこむ",
+        "uz": "Dasturxon atrofida yig'ilmoq",
+        "en": "",
+        "ru": "собираться вокруг стола",
+        "example": ""
+      },
+      {
+        "kanji": "体験談",
+        "jp": "たいけんだん",
+        "uz": "Shaxsiy tajriba hikoyasi",
+        "en": "",
+        "ru": "Рассказ о личном опыте",
+        "example": ""
+      },
+      {
+        "kanji": "安易に",
+        "jp": "あんいに",
+        "uz": "Osongina",
+        "en": "",
+        "ru": "легко",
+        "example": ""
+      },
+      {
+        "kanji": "爆発物を嗅ぎ当てる",
+        "jp": "ばくはつぶつをかぎあてる",
+        "uz": "Portlovchi moddalarni hidlab topmoq",
+        "en": "",
+        "ru": "учуить, разнюхать взрывчатаи",
+        "example": ""
+      },
+      {
+        "kanji": "非常識",
+        "jp": "ひじょうしき",
+        "uz": "Aqlga to'gri kelmaydigan;",
+        "en": "",
+        "ru": "nosog'lom fikr",
+        "example": ""
+      },
+      {
+        "kanji": "不機嫌",
+        "jp": "ふきげん",
+        "uz": "Kayfiyati yoq",
+        "en": "",
+        "ru": "не в духе",
+        "example": ""
+      },
+      {
+        "kanji": "意見の対立",
+        "jp": "いけんのたいりつ",
+        "uz": "Fikrlar qarama-qarshiligi",
+        "en": "",
+        "ru": "противостаяние мнений",
+        "example": ""
+      },
+      {
+        "kanji": "表面化",
+        "jp": "ひょうめんか",
+        "uz": "Yuzaga chiqmoq, ko'rinmoq",
+        "en": "",
+        "ru": "выявляться, Вскрытие",
+        "example": ""
+      },
+      {
+        "kanji": "選挙の投票率",
+        "jp": "せんきょのとうひょうりつ",
+        "uz": "Saylovda ovoz berish foizi",
+        "en": "",
+        "ru": "процент голосов на выборах",
+        "example": ""
+      },
+      {
+        "kanji": "手料理",
+        "jp": "てりょうり",
+        "uz": "Uyda tayyorlangan ovqat",
+        "en": "",
+        "ru": "домашняя еда",
+        "example": ""
+      },
+      {
+        "kanji": "天然ガス",
+        "jp": "てんねんガス",
+        "uz": "Tabiiy gaz",
+        "en": "",
+        "ru": "природный газ",
+        "example": ""
+      },
+      {
+        "kanji": "展開",
+        "jp": "てんかい",
+        "uz": "Voqeaning rivojlanishi",
+        "en": "",
+        "ru": "развитие событий",
+        "example": ""
+      },
+      {
+        "kanji": "事情",
+        "jp": "じじょう",
+        "uz": "Vaziyat(sabab)",
+        "en": "",
+        "ru": "обстоятельства",
+        "example": ""
+      },
+      {
+        "kanji": "事態",
+        "jp": "じたい",
+        "uz": "Holat(ayni paytdagi)",
+        "en": "",
+        "ru": "ситуация",
+        "example": ""
+      },
+      {
+        "kanji": "体制",
+        "jp": "たいせい",
+        "uz": "Tizim, tartib",
+        "en": "",
+        "ru": "порядок; система",
+        "example": ""
+      },
+      {
+        "kanji": "小柄",
+        "jp": "こがら",
+        "uz": "Mayda, kichik",
+        "en": "",
+        "ru": "маленького размера, мелкий",
+        "example": ""
+      },
+      {
+        "kanji": "フィット",
+        "jp": "フィット",
+        "uz": "mos tushish",
+        "en": "",
+        "ru": "подходить, соответствовать",
+        "example": ""
+      },
+      {
+        "kanji": "探す",
+        "jp": "さがす",
+        "uz": "Qidirmoq",
+        "en": "",
+        "ru": "искать",
+        "example": ""
+      },
+      {
+        "kanji": "稼ぐ",
+        "jp": "かせぐ",
+        "uz": "Ishlab topmoq",
+        "en": "",
+        "ru": "зарабатывать",
+        "example": ""
+      },
+      {
+        "kanji": "耕す",
+        "jp": "たがやす",
+        "uz": "Yerga ishlov bermoq",
+        "en": "",
+        "ru": "возделывать землю",
+        "example": ""
+      },
+      {
+        "kanji": "命",
+        "jp": "いのちをあつかう",
+        "uz": "hayot bilan bog'liq bo'lmoq",
+        "en": "",
+        "ru": "быть связанным с жизнью",
+        "example": ""
+      },
+      {
+        "kanji": "あくまでも",
+        "jp": "あくまでも",
+        "uz": "Nima bo'lishidan qat'iy nazar",
+        "en": "",
+        "ru": "несмотря ни на что; упорно,",
+        "example": ""
+      },
+      {
+        "kanji": "おそらく",
+        "jp": "おそらく",
+        "uz": "Ehtimol",
+        "en": "",
+        "ru": "наверное, возможно",
+        "example": ""
+      },
+      {
+        "kanji": "いわゆる",
+        "jp": "いわゆる",
+        "uz": "Bir so'z bilan aytganda xuddi",
+        "en": "",
+        "ru": "так называемый",
+        "example": ""
+      },
+      {
+        "kanji": "援助",
+        "jp": "えんじょ",
+        "uz": "Yordam, qo'llab-quvvatlash",
+        "en": "",
+        "ru": "помощь, поддержка",
+        "example": ""
+      },
+      {
+        "kanji": "文句",
+        "jp": "もんく",
+        "uz": "Shikoyat",
+        "en": "",
+        "ru": "жалоба",
+        "example": ""
+      },
+      {
+        "kanji": "遠慮なく",
+        "jp": "えんりょなく",
+        "uz": "Uyalmasdan",
+        "en": "",
+        "ru": "без стеснения",
+        "example": ""
+      },
+      {
+        "kanji": "行列",
+        "jp": "ぎょうれつ",
+        "uz": "Navbat",
+        "en": "",
+        "ru": "очередь",
+        "example": ""
+      },
+      {
+        "kanji": "ずうずうしい",
+        "jp": "ずうずうしい",
+        "uz": "Odobsiz, surbet, bezbet",
+        "en": "",
+        "ru": "наглый",
+        "example": ""
+      },
+      {
+        "kanji": "くだらない",
+        "jp": "くだらない",
+        "uz": "Mayda gap, arzimaydigan",
+        "en": "",
+        "ru": "пустячный",
+        "example": ""
+      },
+      {
+        "kanji": "そそっかしい",
+        "jp": "そそっかしい",
+        "uz": "Bee'tibor",
+        "en": "",
+        "ru": "невнимательный,",
+        "example": ""
+      },
+      {
+        "kanji": "改正する",
+        "jp": "かいせいする",
+        "uz": "To'g'rilash",
+        "en": "",
+        "ru": "исправить",
+        "example": ""
+      },
+      {
+        "kanji": "痛い出費",
+        "jp": "いたいしゅっぴ",
+        "uz": "og'riqli harajat, chiqim",
+        "en": "",
+        "ru": "болезненные расходы",
+        "example": ""
+      },
+      {
+        "kanji": "予定が狂う",
+        "jp": "よていがくるう",
+        "uz": "Reja buzilib ketmoq",
+        "en": "",
+        "ru": "план сбиваться",
+        "example": ""
+      },
+      {
+        "kanji": "頭にくる",
+        "jp": "あたまにくる",
+        "uz": "Jahli chiqmoq",
+        "en": "",
+        "ru": "сердиться",
+        "example": ""
+      },
+      {
+        "kanji": "響く",
+        "jp": "ひびく",
+        "uz": "Uzoqdan eshitilmoq, ta'sir",
+        "en": "",
+        "ru": "qilmoq",
+        "example": ""
+      },
+      {
+        "kanji": "めいめいで",
+        "jp": "めいめいで",
+        "uz": "Alohida",
+        "en": "",
+        "ru": "каждый",
+        "example": ""
+      },
+      {
+        "kanji": "常に",
+        "jp": "つねに",
+        "uz": "Hardoim",
+        "en": "",
+        "ru": "всегда, обычно",
+        "example": ""
+      },
+      {
+        "kanji": "お互いに",
+        "jp": "おたがいに",
+        "uz": "O'zaro, bir-biriga",
+        "en": "",
+        "ru": "оба, друг другу",
+        "example": ""
+      },
+      {
+        "kanji": "各自",
+        "jp": "かくじ",
+        "uz": "Har bir inson",
+        "en": "",
+        "ru": "каждый",
+        "example": ""
+      },
+      {
+        "kanji": "子育て",
+        "jp": "こそだて",
+        "uz": "Bola tarbiyasi",
+        "en": "",
+        "ru": "воспитание ребенка",
+        "example": ""
+      },
+      {
+        "kanji": "壁",
+        "jp": "かべ",
+        "uz": "To`siq",
+        "en": "",
+        "ru": "помеха, припятствие",
+        "example": ""
+      },
+      {
+        "kanji": "障害",
+        "jp": "しょうがい",
+        "uz": "To`siq",
+        "en": "",
+        "ru": "помеха, припятствие",
+        "example": ""
+      },
+      {
+        "kanji": "社会進出",
+        "jp": "しゃかいしんしゅつ",
+        "uz": "Jamiyatga chiqish",
+        "en": "",
+        "ru": "выход в общество",
+        "example": ""
+      },
+      {
+        "kanji": "オフ",
+        "jp": "オフ",
+        "uz": "Dam olish kuni",
+        "en": "",
+        "ru": "выходной",
+        "example": ""
+      },
+      {
+        "kanji": "演説",
+        "jp": "えんぜつ",
+        "uz": "nutq",
+        "en": "",
+        "ru": "речь",
+        "example": ""
+      },
+      {
+        "kanji": "生まれがよい",
+        "jp": "うまれがよい",
+        "uz": "tug'ilib o'sgan joyi va oilasi yaxshi",
+        "en": "",
+        "ru": "(ziyoli)",
+        "example": ""
+      },
+      {
+        "kanji": "危うい",
+        "jp": "あやうい",
+        "uz": "Havfli",
+        "en": "",
+        "ru": "опасный",
+        "example": ""
+      },
+      {
+        "kanji": "うろつく",
+        "jp": "うろつく",
+        "uz": "Aylanib yurish, daydimoq",
+        "en": "",
+        "ru": "слоняться, шататься",
+        "example": ""
+      },
+      {
+        "kanji": "おぼれかける",
+        "jp": "おぼれかける",
+        "uz": "Cho'ka boshlamoq",
+        "en": "",
+        "ru": "тонуть",
+        "example": ""
+      },
+      {
+        "kanji": "実物",
+        "jp": "じつぶつ",
+        "uz": "Haqiqiy, asli",
+        "en": "",
+        "ru": "настоящий, оригинал",
+        "example": ""
+      },
+      {
+        "kanji": "腕前",
+        "jp": "うでまえ",
+        "uz": "Mohir,malakali",
+        "en": "",
+        "ru": "умелый",
+        "example": ""
+      },
+      {
+        "kanji": "予測",
+        "jp": "よそく",
+        "uz": "Taxmin, bashorat",
+        "en": "",
+        "ru": "прогноз",
+        "example": ""
+      },
+      {
+        "kanji": "異常に",
+        "jp": "いじょうに",
+        "uz": "Noodatiy; g'ayritabiiy",
+        "en": "",
+        "ru": "ненормально",
+        "example": ""
+      },
+      {
+        "kanji": "混乱",
+        "jp": "こんらん",
+        "uz": "Chalkashlik",
+        "en": "",
+        "ru": "путаница",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 5,
+    "data": [
+      {
+        "kanji": "進路",
+        "jp": "しんろ",
+        "uz": "Yo'l, yo'nalish, kurs",
+        "en": "",
+        "ru": "Путь, направление",
+        "example": ""
+      },
+      {
+        "kanji": "変更する",
+        "jp": "へんこうする",
+        "uz": "O'zgartirish",
+        "en": "",
+        "ru": "Изменяться",
+        "example": ""
+      },
+      {
+        "kanji": "種目",
+        "jp": "しゅもく",
+        "uz": "Xil, tur",
+        "en": "",
+        "ru": "Род, вид",
+        "example": ""
+      },
+      {
+        "kanji": "膨らむ",
+        "jp": "ふくらむ",
+        "uz": "Ishirmoq",
+        "en": "",
+        "ru": "Раздуваться",
+        "example": ""
+      },
+      {
+        "kanji": "概論",
+        "jp": "がいろん",
+        "uz": "Kirish; umumiy ko'rinish",
+        "en": "",
+        "ru": "Обзор, введение",
+        "example": ""
+      },
+      {
+        "kanji": "講座",
+        "jp": "こうざ",
+        "uz": "O'quv kursi, kafedra",
+        "en": "",
+        "ru": "Учебный курс, кафедра",
+        "example": ""
+      },
+      {
+        "kanji": "頂上",
+        "jp": "ちょうじょう",
+        "uz": "Cho'qqi",
+        "en": "",
+        "ru": "Вершина",
+        "example": ""
+      },
+      {
+        "kanji": "医療水準",
+        "jp": "いりょうすいじゅん",
+        "uz": "Tibbiyot (rivojlanish)darajasi",
+        "en": "",
+        "ru": "Уровень медецины",
+        "example": ""
+      },
+      {
+        "kanji": "向上を目指す",
+        "jp": "こうじょうをめざす",
+        "uz": "Yaxshilash/o'sishni ko'zlamoq",
+        "en": "",
+        "ru": "Стремиться улучшить",
+        "example": ""
+      },
+      {
+        "kanji": "立場",
+        "jp": "たちば",
+        "uz": "Pozitsiya",
+        "en": "",
+        "ru": "Позиция",
+        "example": ""
+      },
+      {
+        "kanji": "精神的な",
+        "jp": "せいしんてきな",
+        "uz": "Ruhiy",
+        "en": "",
+        "ru": "Моральный, духовный",
+        "example": ""
+      },
+      {
+        "kanji": "身体的な",
+        "jp": "しんたいてきな",
+        "uz": "Jismoniy",
+        "en": "",
+        "ru": "Физический",
+        "example": ""
+      },
+      {
+        "kanji": "苦痛を与える",
+        "jp": "くつうをあたえる",
+        "uz": "Tajovuz qilmoq",
+        "en": "",
+        "ru": "Причинять страдание, боль",
+        "example": ""
+      },
+      {
+        "kanji": "凍える",
+        "jp": "こごえる",
+        "uz": "Muzlamoq",
+        "en": "",
+        "ru": "Замерзать",
+        "example": ""
+      },
+      {
+        "kanji": "つかむ",
+        "jp": "つかむ",
+        "uz": "Ilg'amoq, ushlamoq",
+        "en": "",
+        "ru": "Ловить",
+        "example": ""
+      },
+      {
+        "kanji": "（弱点を）握る",
+        "jp": "（じゃくてんを）にぎる",
+        "uz": "(kamchilikni)bilib olmoq",
+        "en": "",
+        "ru": "узнать слабую сторону",
+        "example": ""
+      },
+      {
+        "kanji": "取引先",
+        "jp": "とりひきさき",
+        "uz": "Mijoz, hamkor",
+        "en": "",
+        "ru": "Клиент; партнер при сделки",
+        "example": ""
+      },
+      {
+        "kanji": "利害が一致する",
+        "jp": "りがいがいっちする",
+        "uz": "Qiziqishlarning mos tushishi",
+        "en": "",
+        "ru": "Совпадают интересы",
+        "example": ""
+      },
+      {
+        "kanji": "契約",
+        "jp": "けいやく",
+        "uz": "Shartnoma",
+        "en": "",
+        "ru": "Договор",
+        "example": ""
+      },
+      {
+        "kanji": "～を積み重ねる",
+        "jp": "～をつみかさねる",
+        "uz": "(tajriba)yig'moq",
+        "en": "",
+        "ru": "Накапливать",
+        "example": ""
+      },
+      {
+        "kanji": "克服する",
+        "jp": "こくふくする",
+        "uz": "Yengib yetmoq",
+        "en": "",
+        "ru": "Преодолеть",
+        "example": ""
+      },
+      {
+        "kanji": "力仕事",
+        "jp": "ちからしごと",
+        "uz": "kuch talab qiladigan ish",
+        "en": "",
+        "ru": "работа требующий силы",
+        "example": ""
+      },
+      {
+        "kanji": "（予算）内",
+        "jp": "（よさん）ない",
+        "uz": "byudjet doirasida",
+        "en": "",
+        "ru": "в рамках бюджета",
+        "example": ""
+      },
+      {
+        "kanji": "一個人",
+        "jp": "いちこじん",
+        "uz": "shaxsiy",
+        "en": "",
+        "ru": "индивидуально",
+        "example": ""
+      },
+      {
+        "kanji": "有力者",
+        "jp": "ゆうりょくしゃ",
+        "uz": "Nufuzli,obro'li, kuchli",
+        "en": "",
+        "ru": "Влиятельный, сильный",
+        "example": ""
+      },
+      {
+        "kanji": "人生観",
+        "jp": "じんせいかん",
+        "uz": "Dunyoqarash",
+        "en": "",
+        "ru": "мировозрение",
+        "example": ""
+      },
+      {
+        "kanji": "支える",
+        "jp": "ささえる",
+        "uz": "Qo'llab-quvvatlash",
+        "en": "",
+        "ru": "Поддерживать",
+        "example": ""
+      },
+      {
+        "kanji": "優先",
+        "jp": "ゆうせん",
+        "uz": "Afzal ko'rmoq",
+        "en": "",
+        "ru": "Предпочтение",
+        "example": ""
+      },
+      {
+        "kanji": "重要視する",
+        "jp": "じゅうようしする",
+        "uz": "ahamiyat bermoq",
+        "en": "",
+        "ru": "придавать большое",
+        "example": ""
+      },
+      {
+        "kanji": "貴重",
+        "jp": "きちょう",
+        "uz": "Qimmatli, qadrli",
+        "en": "",
+        "ru": "Дорогой, ценный",
+        "example": ""
+      },
+      {
+        "kanji": "吐き出す",
+        "jp": "はきだす",
+        "uz": "(ichidan) chiqarmoq",
+        "en": "",
+        "ru": "Выпускать, отдавать",
+        "example": ""
+      },
+      {
+        "kanji": "増大させる",
+        "jp": "ぞうだいさせる",
+        "uz": "ko'paytirmoq",
+        "en": "",
+        "ru": "увеличивать",
+        "example": ""
+      },
+      {
+        "kanji": "いちいち",
+        "jp": "いちいち",
+        "uz": "har gal, birma-bir",
+        "en": "",
+        "ru": "каждый раз, постоянно",
+        "example": ""
+      },
+      {
+        "kanji": "パッケージ",
+        "jp": "パッケージ",
+        "uz": "qadoq",
+        "en": "",
+        "ru": "упаковка",
+        "example": ""
+      },
+      {
+        "kanji": "平凡な",
+        "jp": "へいぼんな",
+        "uz": "Oddiy",
+        "en": "",
+        "ru": "Обычный, простой",
+        "example": ""
+      },
+      {
+        "kanji": "面倒見がいい",
+        "jp": "めんどうみがいい",
+        "uz": "G'amxo'r",
+        "en": "",
+        "ru": "заботливый",
+        "example": ""
+      },
+      {
+        "kanji": "加減",
+        "jp": "かげん",
+        "uz": "Регулирование, дозировка",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "手数",
+        "jp": "てすう",
+        "uz": "Ovoragarchilik",
+        "en": "",
+        "ru": "Труд, забота, хлопоты",
+        "example": ""
+      },
+      {
+        "kanji": "おめでたい",
+        "jp": "おめでたい",
+        "uz": "Xursandchilik",
+        "en": "",
+        "ru": "Радостный, счастливый",
+        "example": ""
+      },
+      {
+        "kanji": "包む",
+        "jp": "つつむ",
+        "uz": "O'ramoq",
+        "en": "",
+        "ru": "Заворачивать",
+        "example": ""
+      },
+      {
+        "kanji": "含む",
+        "jp": "ふくむ",
+        "uz": "Ichiga olmoq",
+        "en": "",
+        "ru": "Включать, содержать",
+        "example": ""
+      },
+      {
+        "kanji": "帯びる",
+        "jp": "おびる",
+        "uz": "O'zi bilan olib yurmoq",
+        "en": "",
+        "ru": "Носить",
+        "example": ""
+      },
+      {
+        "kanji": "延期になる",
+        "jp": "えんきになる",
+        "uz": "(boshqa vaqtga)ko'chirmoq",
+        "en": "",
+        "ru": "продливать",
+        "example": ""
+      },
+      {
+        "kanji": "流れる",
+        "jp": "ながれる",
+        "uz": "bekor bo'lmoq",
+        "en": "",
+        "ru": "быть отмененным",
+        "example": ""
+      },
+      {
+        "kanji": "にわかに",
+        "jp": "にわかに",
+        "uz": "To'satdan",
+        "en": "",
+        "ru": "внезапно",
+        "example": ""
+      },
+      {
+        "kanji": "ぼんやり",
+        "jp": "ぼんやり",
+        "uz": "Noaniq; hayolparast",
+        "en": "",
+        "ru": "Рассеянный",
+        "example": ""
+      },
+      {
+        "kanji": "くっきりした",
+        "jp": "くっきりした",
+        "uz": "Aniq",
+        "en": "",
+        "ru": "Отчетливый, ясный",
+        "example": ""
+      },
+      {
+        "kanji": "いきなり",
+        "jp": "いきなり",
+        "uz": "To'satdan",
+        "en": "",
+        "ru": "внезапно",
+        "example": ""
+      },
+      {
+        "kanji": "覚めた（目）",
+        "jp": "さめた（め）",
+        "uz": "ob'yektiv",
+        "en": "",
+        "ru": "объективный",
+        "example": ""
+      },
+      {
+        "kanji": "冷静な",
+        "jp": "れいせいな",
+        "uz": "Sovuqqon",
+        "en": "",
+        "ru": "Хладнокровный, спокойный,",
+        "example": ""
+      },
+      {
+        "kanji": "鋭い",
+        "jp": "するどい",
+        "uz": "O'tkir,zehnli",
+        "en": "",
+        "ru": "Острый, тонкий(вкус),",
+        "example": ""
+      },
+      {
+        "kanji": "確かな",
+        "jp": "たしかな",
+        "uz": "Ehtimol",
+        "en": "",
+        "ru": "Наверное",
+        "example": ""
+      },
+      {
+        "kanji": "世間",
+        "jp": "せけん",
+        "uz": "Odamzod",
+        "en": "",
+        "ru": "Жизнь, люди, народ",
+        "example": ""
+      },
+      {
+        "kanji": "むりやり",
+        "jp": "むりやり",
+        "uz": "Majburlab",
+        "en": "",
+        "ru": "Силой, принудительно",
+        "example": ""
+      },
+      {
+        "kanji": "強引に",
+        "jp": "ごういんに",
+        "uz": "Majburlab",
+        "en": "",
+        "ru": "Силой, принудительно",
+        "example": ""
+      },
+      {
+        "kanji": "しきりに",
+        "jp": "しきりに",
+        "uz": "Ko'p, uzluksiz",
+        "en": "",
+        "ru": "Часто, непрерывно",
+        "example": ""
+      },
+      {
+        "kanji": "わざわざ",
+        "jp": "わざわざ",
+        "uz": "Ataylab",
+        "en": "",
+        "ru": "Специально",
+        "example": ""
+      },
+      {
+        "kanji": "サポートする",
+        "jp": "サポートする",
+        "uz": "Qo'llab-quvvatlamoq",
+        "en": "",
+        "ru": "Поддержка",
+        "example": ""
+      },
+      {
+        "kanji": "応援する",
+        "jp": "おうえんする",
+        "uz": "Qo'llab-quvvatlamoq",
+        "en": "",
+        "ru": "Поддержка",
+        "example": ""
+      },
+      {
+        "kanji": "仕上げる",
+        "jp": "しあげる",
+        "uz": "Oxiriga yetkazmoq",
+        "en": "",
+        "ru": "Заканчивать",
+        "example": ""
+      },
+      {
+        "kanji": "圧縮",
+        "jp": "あっしゅく",
+        "uz": "Kichraytirish, siqish",
+        "en": "",
+        "ru": "сжимать",
+        "example": ""
+      },
+      {
+        "kanji": "ぼろを出す",
+        "jp": "ぼろをだす",
+        "uz": "Kamchiligini ko'rintirib qo'ymoq",
+        "en": "",
+        "ru": "Выдавать себя, обнаруживать",
+        "example": ""
+      },
+      {
+        "kanji": "上等",
+        "jp": "じょうとう",
+        "uz": "Yuqori daraja",
+        "en": "",
+        "ru": "Высокое качество, первый",
+        "example": ""
+      },
+      {
+        "kanji": "規律",
+        "jp": "きりつ",
+        "uz": "Qoida",
+        "en": "",
+        "ru": "Порядок, дисциплина",
+        "example": ""
+      },
+      {
+        "kanji": "空想",
+        "jp": "くうそう",
+        "uz": "Quruq orzu",
+        "en": "",
+        "ru": "Фантазия, мечта",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 6,
+    "data": [
+      {
+        "kanji": "妥当な",
+        "jp": "だとうな",
+        "uz": "Oqilona,mos",
+        "en": "",
+        "ru": "разумный",
+        "example": ""
+      },
+      {
+        "kanji": "品質",
+        "jp": "ひんしつ",
+        "uz": "Sifat",
+        "en": "",
+        "ru": "качество",
+        "example": ""
+      },
+      {
+        "kanji": "血液",
+        "jp": "けつえき",
+        "uz": "Qon",
+        "en": "",
+        "ru": "Кровь",
+        "example": ""
+      },
+      {
+        "kanji": "循環",
+        "jp": "じゅんかん",
+        "uz": "Aylanishi",
+        "en": "",
+        "ru": "Обращение",
+        "example": ""
+      },
+      {
+        "kanji": "損得",
+        "jp": "そんとく",
+        "uz": "Foyda va zarar",
+        "en": "",
+        "ru": "прибыль и убыток",
+        "example": ""
+      },
+      {
+        "kanji": "衣食住",
+        "jp": "いしょくじゅう",
+        "uz": "Oziq-ovqat, kiyim-kechak va",
+        "en": "",
+        "ru": "boshpana",
+        "example": ""
+      },
+      {
+        "kanji": "順位をつける",
+        "jp": "じゅんいをつける",
+        "uz": "Daraja bermoq",
+        "en": "",
+        "ru": "классифицировать",
+        "example": ""
+      },
+      {
+        "kanji": "手間を省く",
+        "jp": "てまをはぶく",
+        "uz": "vaqtni tejash",
+        "en": "",
+        "ru": "Экономить время",
+        "example": ""
+      },
+      {
+        "kanji": "調理器具",
+        "jp": "ちょうりきぐ",
+        "uz": "Oshxona anjomlari",
+        "en": "",
+        "ru": "кухонная утварь",
+        "example": ""
+      },
+      {
+        "kanji": "微妙な",
+        "jp": "びみょうな",
+        "uz": "Noaniq, tushunarsiz, nozik",
+        "en": "",
+        "ru": "Тонкий, неуловимый,",
+        "example": ""
+      },
+      {
+        "kanji": "家計",
+        "jp": "かけい",
+        "uz": "Uy xo'jaligi byudjeti",
+        "en": "",
+        "ru": "семейный бюджет",
+        "example": ""
+      },
+      {
+        "kanji": "補う",
+        "jp": "おぎなう",
+        "uz": "to'ldirmoq, kompensatsiya qilmoq,",
+        "en": "",
+        "ru": "yetishmayotgan narsani qoplamoq",
+        "example": ""
+      },
+      {
+        "kanji": "装置",
+        "jp": "そうち",
+        "uz": "Qurilma",
+        "en": "",
+        "ru": "устройство",
+        "example": ""
+      },
+      {
+        "kanji": "出勤",
+        "jp": "しゅっきん",
+        "uz": "Ishga chiqish",
+        "en": "",
+        "ru": "выход на работу",
+        "example": ""
+      },
+      {
+        "kanji": "湖",
+        "jp": "みずうみ",
+        "uz": "Ko'l",
+        "en": "",
+        "ru": "озеро",
+        "example": ""
+      },
+      {
+        "kanji": "氷が解ける",
+        "jp": "こおりがとける",
+        "uz": "Muz (tabiiy) erimoq",
+        "en": "",
+        "ru": "(естественно)таять лед",
+        "example": ""
+      },
+      {
+        "kanji": "雨水をタンクにためる",
+        "jp": "あまみずをタンクにためる",
+        "uz": "Yomg'ir suvini konteynerga to'plamoq",
+        "en": "",
+        "ru": "Собирать дождевую воду в резервуар",
+        "example": ""
+      },
+      {
+        "kanji": "火災時",
+        "jp": "かさいじ",
+        "uz": "Yong'in paytida",
+        "en": "",
+        "ru": "во время пожара",
+        "example": ""
+      },
+      {
+        "kanji": "未解決",
+        "jp": "みかいけつ",
+        "uz": "Yechimsiz, hal qilinmagan",
+        "en": "",
+        "ru": "нераскрыто, нерешённый",
+        "example": ""
+      },
+      {
+        "kanji": "試運転",
+        "jp": "しうんてん",
+        "uz": "sinovdan o'tkazish",
+        "en": "",
+        "ru": "пробный запуск",
+        "example": ""
+      },
+      {
+        "kanji": "軍事力",
+        "jp": "ぐんじりょく",
+        "uz": "Harbiy kuch",
+        "en": "",
+        "ru": "военная сила",
+        "example": ""
+      },
+      {
+        "kanji": "頼る",
+        "jp": "たよる",
+        "uz": "Tayanmoq",
+        "en": "",
+        "ru": "полагаться",
+        "example": ""
+      },
+      {
+        "kanji": "外交",
+        "jp": "がいこう",
+        "uz": "Diplomatiya",
+        "en": "",
+        "ru": "дипломатия",
+        "example": ""
+      },
+      {
+        "kanji": "個人差",
+        "jp": "こじんさ",
+        "uz": "Individual farq",
+        "en": "",
+        "ru": "индивидуальные различия",
+        "example": ""
+      },
+      {
+        "kanji": "懐かしい",
+        "jp": "なつかしい",
+        "uz": "Nostalgiya, sog'inish",
+        "en": "",
+        "ru": "носталгия",
+        "example": ""
+      },
+      {
+        "kanji": "回復する",
+        "jp": "かいふくする",
+        "uz": "Qayta tiklanish",
+        "en": "",
+        "ru": "восстанавливаться",
+        "example": ""
+      },
+      {
+        "kanji": "納得する",
+        "jp": "なっとくする",
+        "uz": "Qoniqmoq",
+        "en": "",
+        "ru": "согласиться на",
+        "example": ""
+      },
+      {
+        "kanji": "了解する",
+        "jp": "りょうかいする",
+        "uz": "Tushunmoq",
+        "en": "",
+        "ru": "сознавать, понимать",
+        "example": ""
+      },
+      {
+        "kanji": "承認する",
+        "jp": "しょうにんする",
+        "uz": "Ma'qullash",
+        "en": "",
+        "ru": "утвердить",
+        "example": ""
+      },
+      {
+        "kanji": "説教",
+        "jp": "せっきょう",
+        "uz": "Va'z, nasihat",
+        "en": "",
+        "ru": "проповедь, нравоучение",
+        "example": ""
+      },
+      {
+        "kanji": "ワンパターン",
+        "jp": "ワンパターン",
+        "uz": "doimo bir xil",
+        "en": "",
+        "ru": "всегда одинаково",
+        "example": ""
+      },
+      {
+        "kanji": "相次ぐ",
+        "jp": "あいつぐ",
+        "uz": "Ketma-ket sodir bo'lmoq",
+        "en": "",
+        "ru": "происходить один за другим",
+        "example": ""
+      },
+      {
+        "kanji": "迷子",
+        "jp": "まいご",
+        "uz": "yo'qolgan bola",
+        "en": "",
+        "ru": "Потерявшийся ребенок",
+        "example": ""
+      },
+      {
+        "kanji": "はきはき",
+        "jp": "はきはき",
+        "uz": "jonli, aniq, dona-dona",
+        "en": "",
+        "ru": "четка",
+        "example": ""
+      },
+      {
+        "kanji": "泊りがけ",
+        "jp": "とまりがけ",
+        "uz": "yotib qoladigan",
+        "en": "",
+        "ru": "с ночовкой",
+        "example": ""
+      },
+      {
+        "kanji": "錯覚",
+        "jp": "さっかく",
+        "uz": "Illyuziya",
+        "en": "",
+        "ru": "иллюзия",
+        "example": ""
+      },
+      {
+        "kanji": "折り返し",
+        "jp": "おりかえし",
+        "uz": "Qayta",
+        "en": "",
+        "ru": "пере(звонить)",
+        "example": ""
+      },
+      {
+        "kanji": "それる",
+        "jp": "それる",
+        "uz": "Burilmoq; izdan chiqmoq",
+        "en": "",
+        "ru": "свернуть",
+        "example": ""
+      },
+      {
+        "kanji": "脱線する",
+        "jp": "だっせんする",
+        "uz": "Izdan chiqib ketmoq",
+        "en": "",
+        "ru": "сойти с рельсов",
+        "example": ""
+      },
+      {
+        "kanji": "翻訳する",
+        "jp": "ほんやくする",
+        "uz": "Yozma tarjima qilmoq",
+        "en": "",
+        "ru": "письменно переводить",
+        "example": ""
+      },
+      {
+        "kanji": "一気に",
+        "jp": "いっきに",
+        "uz": "Birdan",
+        "en": "",
+        "ru": "все вместе",
+        "example": ""
+      },
+      {
+        "kanji": "坂",
+        "jp": "さか",
+        "uz": "Nishab, tepalik",
+        "en": "",
+        "ru": "склон",
+        "example": ""
+      },
+      {
+        "kanji": "苦い顔",
+        "jp": "にがいかお",
+        "uz": "Yoqimsiz ko'rinish, Norozilik bilan qarash",
+        "en": "",
+        "ru": "Кислое лицо, Недовольное выражение",
+        "example": ""
+      },
+      {
+        "kanji": "不愉快な",
+        "jp": "ふゆかいな",
+        "uz": "Yoqimsiz",
+        "en": "",
+        "ru": "неприятный, Раздражающий",
+        "example": ""
+      },
+      {
+        "kanji": "真剣な",
+        "jp": "しんけんな",
+        "uz": "Jiddiy",
+        "en": "",
+        "ru": "серьезный",
+        "example": ""
+      },
+      {
+        "kanji": "得意な",
+        "jp": "とくいな",
+        "uz": "Shaxsiy kuchli taraf",
+        "en": "",
+        "ru": "сильная сторона",
+        "example": ""
+      },
+      {
+        "kanji": "レベルアップする",
+        "jp": "レベルアップする",
+        "uz": "O'sish, yaxshilanish",
+        "en": "",
+        "ru": "улучшать",
+        "example": ""
+      },
+      {
+        "kanji": "上達する",
+        "jp": "じょうたつする",
+        "uz": "O'sish, yaxshilanish",
+        "en": "",
+        "ru": "улучшать",
+        "example": ""
+      },
+      {
+        "kanji": "往復する",
+        "jp": "おうふくする",
+        "uz": "Borib kelmoq",
+        "en": "",
+        "ru": "идти туда и обратно",
+        "example": ""
+      },
+      {
+        "kanji": "あらわれ",
+        "jp": "あらわれ",
+        "uz": "Ifoda",
+        "en": "",
+        "ru": "проявление, выражение",
+        "example": ""
+      },
+      {
+        "kanji": "効力",
+        "jp": "こうりょく",
+        "uz": "Samaradorlik",
+        "en": "",
+        "ru": "эффективность",
+        "example": ""
+      },
+      {
+        "kanji": "仕事を任せる",
+        "jp": "しごとをまかせる",
+        "uz": "Vazifani yuklamoq",
+        "en": "",
+        "ru": "поручить задание",
+        "example": ""
+      },
+      {
+        "kanji": "見事な",
+        "jp": "みごとな",
+        "uz": "nihoyatda a'lo, go'zal, ustalik bilan bajarilgan",
+        "en": "",
+        "ru": "Превосходный, великолепный,",
+        "example": ""
+      },
+      {
+        "kanji": "開放",
+        "jp": "かいほう",
+        "uz": "ochiq (omma uchun)",
+        "en": "",
+        "ru": "открытo (для публики)",
+        "example": ""
+      },
+      {
+        "kanji": "画家",
+        "jp": "がか",
+        "uz": "Rassom",
+        "en": "",
+        "ru": "художник",
+        "example": ""
+      },
+      {
+        "kanji": "幼い",
+        "jp": "おさない",
+        "uz": "Yosh",
+        "en": "",
+        "ru": "молодой",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 7,
+    "data": [
+      {
+        "kanji": "勘定",
+        "jp": "かんじょう",
+        "uz": "Hisob-kitob",
+        "en": "",
+        "ru": "счет",
+        "example": ""
+      },
+      {
+        "kanji": "徹底的に",
+        "jp": "てっていてきに",
+        "uz": "Yaxshilab",
+        "en": "",
+        "ru": "тщательно",
+        "example": ""
+      },
+      {
+        "kanji": "干す",
+        "jp": "ほす",
+        "uz": "Quritmoq",
+        "en": "",
+        "ru": "сушить",
+        "example": ""
+      },
+      {
+        "kanji": "経営",
+        "jp": "けいえい",
+        "uz": "Boshqaruv",
+        "en": "",
+        "ru": "управление",
+        "example": ""
+      },
+      {
+        "kanji": "数年",
+        "jp": "数年",
+        "uz": "Bir necha yil",
+        "en": "",
+        "ru": "несколько лет",
+        "example": ""
+      },
+      {
+        "kanji": "下降する",
+        "jp": "かこうする",
+        "uz": "Pastga qarab ketish,",
+        "en": "",
+        "ru": "yomonlashish",
+        "example": ""
+      },
+      {
+        "kanji": "抱える",
+        "jp": "かかえる",
+        "uz": "Ushlamoq, bor bo'lmoq",
+        "en": "",
+        "ru": "держать",
+        "example": ""
+      },
+      {
+        "kanji": "敬う",
+        "jp": "うやまう",
+        "uz": "Hurmat qilmoq",
+        "en": "",
+        "ru": "уважать",
+        "example": ""
+      },
+      {
+        "kanji": "批評する",
+        "jp": "ひひょうする",
+        "uz": "Tanqid qilmoq",
+        "en": "",
+        "ru": "критиковать",
+        "example": ""
+      },
+      {
+        "kanji": "伝染する",
+        "jp": "でんせんする",
+        "uz": "Yuqmoq",
+        "en": "",
+        "ru": "заражать",
+        "example": ""
+      },
+      {
+        "kanji": "学問的に",
+        "jp": "がくもんてきに",
+        "uz": "Ilmiy",
+        "en": "",
+        "ru": "научно",
+        "example": ""
+      },
+      {
+        "kanji": "限りがある",
+        "jp": "かぎりがある",
+        "uz": "Chegarasi bor",
+        "en": "",
+        "ru": "иметь предел",
+        "example": ""
+      },
+      {
+        "kanji": "貴重な",
+        "jp": "きちょうな",
+        "uz": "Qimmatli, qadrli",
+        "en": "",
+        "ru": "ценное",
+        "example": ""
+      },
+      {
+        "kanji": "無駄な",
+        "jp": "むだな",
+        "uz": "Behuda",
+        "en": "",
+        "ru": "потеренное/бесполезное",
+        "example": ""
+      },
+      {
+        "kanji": "募集",
+        "jp": "ぼしゅう",
+        "uz": "Ishga qabul",
+        "en": "",
+        "ru": "набор персонала",
+        "example": ""
+      },
+      {
+        "kanji": "製造業",
+        "jp": "せいぞうぎょう",
+        "uz": "Ishlab chiqarish",
+        "en": "",
+        "ru": "производительная",
+        "example": ""
+      },
+      {
+        "kanji": "貿易",
+        "jp": "ぼうえき",
+        "uz": "Savdo",
+        "en": "",
+        "ru": "торговля",
+        "example": ""
+      },
+      {
+        "kanji": "未成年",
+        "jp": "みせいねん",
+        "uz": "Voyaga yetmagan",
+        "en": "",
+        "ru": "несовершеннолетний",
+        "example": ""
+      },
+      {
+        "kanji": "名文句",
+        "jp": "めいもんく",
+        "uz": "Mashhur ibora",
+        "en": "",
+        "ru": "известная фраза",
+        "example": ""
+      },
+      {
+        "kanji": "安定感",
+        "jp": "あんていかん",
+        "uz": "Barqarorlik hissi",
+        "en": "",
+        "ru": "чувство стабильности",
+        "example": ""
+      },
+      {
+        "kanji": "料理人",
+        "jp": "りょうりにん",
+        "uz": "oshpaz",
+        "en": "",
+        "ru": "повар",
+        "example": ""
+      },
+      {
+        "kanji": "数学者",
+        "jp": "すうがくしゃ",
+        "uz": "Matematik olim",
+        "en": "",
+        "ru": "ученый по математики",
+        "example": ""
+      },
+      {
+        "kanji": "謙虚な",
+        "jp": "けんきょな",
+        "uz": "Kamtarin",
+        "en": "",
+        "ru": "скромный",
+        "example": ""
+      },
+      {
+        "kanji": "地味な",
+        "jp": "じみな",
+        "uz": "oddiy, ko'zga tashlanmaydigan",
+        "en": "",
+        "ru": "простой, скромный, неброский",
+        "example": ""
+      },
+      {
+        "kanji": "丁寧な",
+        "jp": "ていねいな",
+        "uz": "Muloyim",
+        "en": "",
+        "ru": "вежливый",
+        "example": ""
+      },
+      {
+        "kanji": "腰",
+        "jp": "こし",
+        "uz": "Bel",
+        "en": "",
+        "ru": "поясница",
+        "example": ""
+      },
+      {
+        "kanji": "痛みを訴える",
+        "jp": "いたみをうったえる",
+        "uz": "Og'riqdan shikoyat qilmoq",
+        "en": "",
+        "ru": "жаловаться на боль",
+        "example": ""
+      },
+      {
+        "kanji": "落ち合う",
+        "jp": "おちあう",
+        "uz": "(kelishilgan joy,",
+        "en": "",
+        "ru": "vaqtda)uchrashmoq",
+        "example": ""
+      },
+      {
+        "kanji": "通行人",
+        "jp": "つうこうにん",
+        "uz": "Piyoda yo'lovchi",
+        "en": "",
+        "ru": "прохожий",
+        "example": ""
+      },
+      {
+        "kanji": "配る",
+        "jp": "くばる",
+        "uz": "Tarqatmoq",
+        "en": "",
+        "ru": "раздавать",
+        "example": ""
+      },
+      {
+        "kanji": "キャンペーン",
+        "jp": "キャンペーン",
+        "uz": "Aksiya(reklama)",
+        "en": "",
+        "ru": "кампания(акция, реклама)",
+        "example": ""
+      },
+      {
+        "kanji": "冒険家",
+        "jp": "ぼうけんか",
+        "uz": "Sarguzashtchi",
+        "en": "",
+        "ru": "авантюрист",
+        "example": ""
+      },
+      {
+        "kanji": "芸能人",
+        "jp": "げいのうじん",
+        "uz": "San'atkor",
+        "en": "",
+        "ru": "артист",
+        "example": ""
+      },
+      {
+        "kanji": "競技者",
+        "jp": "きょうぎしゃ",
+        "uz": "Musobaqa ishtirokchisi",
+        "en": "",
+        "ru": "участник",
+        "example": ""
+      },
+      {
+        "kanji": "いまに",
+        "jp": "いまに",
+        "uz": "Ayni paytda",
+        "en": "",
+        "ru": "на этот момент",
+        "example": ""
+      },
+      {
+        "kanji": "しきりに",
+        "jp": "しきりに",
+        "uz": "Tez-tez",
+        "en": "",
+        "ru": "упорно, часто",
+        "example": ""
+      },
+      {
+        "kanji": "いくぶん",
+        "jp": "いくぶん",
+        "uz": "bir oz, qisman",
+        "en": "",
+        "ru": "несколько, частично",
+        "example": ""
+      },
+      {
+        "kanji": "ひとまず",
+        "jp": "ひとまず",
+        "uz": "Avval, hozircha",
+        "en": "",
+        "ru": "сначала, пока",
+        "example": ""
+      },
+      {
+        "kanji": "疲れをとる",
+        "jp": "つかれをとる",
+        "uz": "Charchoqni olmoq",
+        "en": "",
+        "ru": "снимать усталость",
+        "example": ""
+      },
+      {
+        "kanji": "平気な",
+        "jp": "へいきな",
+        "uz": "Beparvo",
+        "en": "",
+        "ru": "равнодушный",
+        "example": ""
+      },
+      {
+        "kanji": "うそをつく",
+        "jp": "うそをつく",
+        "uz": "Yolg'on gapirmoq",
+        "en": "",
+        "ru": "врать",
+        "example": ""
+      },
+      {
+        "kanji": "やかましい",
+        "jp": "やかましい",
+        "uz": "Shovqinli",
+        "en": "",
+        "ru": "шумный, строгий,",
+        "example": ""
+      },
+      {
+        "kanji": "とんでもない",
+        "jp": "とんでもない",
+        "uz": "Bo'lishi mumkin emas",
+        "en": "",
+        "ru": "Абсурд",
+        "example": ""
+      },
+      {
+        "kanji": "やむを得ない",
+        "jp": "やむをえない",
+        "uz": "Muqarrar, ilojsiz",
+        "en": "",
+        "ru": "Неизбедный",
+        "example": ""
+      },
+      {
+        "kanji": "ライバル",
+        "jp": "ライバル",
+        "uz": "Raqiblar",
+        "en": "",
+        "ru": "Соперники",
+        "example": ""
+      },
+      {
+        "kanji": "欠ける",
+        "jp": "かける",
+        "uz": "Kamlik qilmoq",
+        "en": "",
+        "ru": "Не хватать",
+        "example": ""
+      },
+      {
+        "kanji": "（自信に）あふれた",
+        "jp": "（じしんに）あふれた",
+        "uz": "(o'ziga bo'lgan ishonch)",
+        "en": "",
+        "ru": "to'lib toshmoq",
+        "example": ""
+      },
+      {
+        "kanji": "満ちる",
+        "jp": "みちる",
+        "uz": "To'lib toshmoq",
+        "en": "",
+        "ru": "Переполнять",
+        "example": ""
+      },
+      {
+        "kanji": "輝く",
+        "jp": "かがやく",
+        "uz": "Porlamoq",
+        "en": "",
+        "ru": "Светиться",
+        "example": ""
+      },
+      {
+        "kanji": "甘える",
+        "jp": "あまえる",
+        "uz": "Erkalamoq",
+        "en": "",
+        "ru": "Баловать",
+        "example": ""
+      },
+      {
+        "kanji": "裏",
+        "jp": "うら",
+        "uz": "Teskari tarafi",
+        "en": "",
+        "ru": "Обратная сторона",
+        "example": ""
+      },
+      {
+        "kanji": "犯人",
+        "jp": "はんにん",
+        "uz": "Jinoyatchi",
+        "en": "",
+        "ru": "Преступник",
+        "example": ""
+      },
+      {
+        "kanji": "被害",
+        "jp": "ひがい",
+        "uz": "Zarar",
+        "en": "",
+        "ru": "Ущерб",
+        "example": ""
+      },
+      {
+        "kanji": "本来",
+        "jp": "ほんらい",
+        "uz": "Eng boshi, asli",
+        "en": "",
+        "ru": "(самое) начало; по природе",
+        "example": ""
+      },
+      {
+        "kanji": "現に",
+        "jp": "げんに",
+        "uz": "haqiqatan",
+        "en": "",
+        "ru": "на самом деле",
+        "example": ""
+      },
+      {
+        "kanji": "自ら",
+        "jp": "みずから",
+        "uz": "O'zi",
+        "en": "",
+        "ru": "Сам, лично",
+        "example": ""
+      },
+      {
+        "kanji": "手を取って",
+        "jp": "てをとって",
+        "uz": "yordam berib,",
+        "en": "",
+        "ru": "qo'llab-quvvatlab",
+        "example": ""
+      },
+      {
+        "kanji": "エラー",
+        "jp": "エラー",
+        "uz": "Xato",
+        "en": "",
+        "ru": "Ошибка",
+        "example": ""
+      },
+      {
+        "kanji": "誤り",
+        "jp": "あやまり",
+        "uz": "Xato",
+        "en": "",
+        "ru": "Ошибка",
+        "example": ""
+      },
+      {
+        "kanji": "破壊",
+        "jp": "はかい",
+        "uz": "Vayrona",
+        "en": "",
+        "ru": "Разрушение",
+        "example": ""
+      },
+      {
+        "kanji": "加減",
+        "jp": "かげん",
+        "uz": "Muvozanat, daraja, holat,",
+        "en": "",
+        "ru": "sozlash",
+        "example": ""
+      },
+      {
+        "kanji": "ねらい",
+        "jp": "ねらい",
+        "uz": "Ko'zlangan narsa / ko'zlangan",
+        "en": "",
+        "ru": "maqsad",
+        "example": ""
+      },
+      {
+        "kanji": "陽気な",
+        "jp": "ようきな",
+        "uz": "Xushchaqchaq",
+        "en": "",
+        "ru": "Веселый",
+        "example": ""
+      },
+      {
+        "kanji": "気配",
+        "jp": "けはい",
+        "uz": "Belgi",
+        "en": "",
+        "ru": "признак, предчуствие",
+        "example": ""
+      },
+      {
+        "kanji": "引用",
+        "jp": "いんよう",
+        "uz": "Iqtibos",
+        "en": "",
+        "ru": "цитирование",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 8,
+    "data": [
+      {
+        "kanji": "食器洗浄機",
+        "jp": "しょっきせんじょうき",
+        "uz": "Idish yuvish mashinasi",
+        "en": "",
+        "ru": "Посудомоечная машина",
+        "example": ""
+      },
+      {
+        "kanji": "後輩",
+        "jp": "こうはい",
+        "uz": "Kichikroq hamkasb",
+        "en": "",
+        "ru": "Младший коллега",
+        "example": ""
+      },
+      {
+        "kanji": "第一印象",
+        "jp": "だいいちいんしょう",
+        "uz": "Birinchi taassurot",
+        "en": "",
+        "ru": "Первое впечатление",
+        "example": ""
+      },
+      {
+        "kanji": "神経質な",
+        "jp": "しんけいしつな",
+        "uz": "Asabiy",
+        "en": "",
+        "ru": "Нервный",
+        "example": ""
+      },
+      {
+        "kanji": "途上国",
+        "jp": "とじょうこく",
+        "uz": "Rivojlanayotgan mamlakat",
+        "en": "",
+        "ru": "Развивающаяся страна",
+        "example": ""
+      },
+      {
+        "kanji": "収入を得る",
+        "jp": "しゅうにゅうをえる",
+        "uz": "Daromad olish",
+        "en": "",
+        "ru": "Получать доход",
+        "example": ""
+      },
+      {
+        "kanji": "裁縫",
+        "jp": "さいほう",
+        "uz": "Tikuvchilik",
+        "en": "",
+        "ru": "Шитье",
+        "example": ""
+      },
+      {
+        "kanji": "研修",
+        "jp": "けんしゅう",
+        "uz": "Malaka oshirish, trening",
+        "en": "",
+        "ru": "Стажировка",
+        "example": ""
+      },
+      {
+        "kanji": "経済",
+        "jp": "けいざい",
+        "uz": "Iqtisodiyot",
+        "en": "",
+        "ru": "Экономика",
+        "example": ""
+      },
+      {
+        "kanji": "有能",
+        "jp": "ゆうのう",
+        "uz": "Qobiliyatli",
+        "en": "",
+        "ru": "Способный",
+        "example": ""
+      },
+      {
+        "kanji": "意欲のある人",
+        "jp": "いよくのあるひと",
+        "uz": "ishtiyoqli odam",
+        "en": "",
+        "ru": "Мотивированный человек",
+        "example": ""
+      },
+      {
+        "kanji": "努力",
+        "jp": "どりょく",
+        "uz": "Harakat",
+        "en": "",
+        "ru": "Усилие",
+        "example": ""
+      },
+      {
+        "kanji": "成長",
+        "jp": "せいちょう",
+        "uz": "O'sish",
+        "en": "",
+        "ru": "Рост",
+        "example": ""
+      },
+      {
+        "kanji": "稼ぐ",
+        "jp": "かせぐ",
+        "uz": "Ishlab pul topmoq",
+        "en": "",
+        "ru": "заработать",
+        "example": ""
+      },
+      {
+        "kanji": "恥とする",
+        "jp": "はじとする",
+        "uz": "Uyalish",
+        "en": "",
+        "ru": "Стыдиться",
+        "example": ""
+      },
+      {
+        "kanji": "不正",
+        "jp": "ふせい",
+        "uz": "Noqonuniylik",
+        "en": "",
+        "ru": "Незаконность",
+        "example": ""
+      },
+      {
+        "kanji": "利益を得る",
+        "jp": "りえきをえる",
+        "uz": "Foyda olmoq",
+        "en": "",
+        "ru": "Получать выгоду",
+        "example": ""
+      },
+      {
+        "kanji": "離婚届",
+        "jp": "りこんとどけ",
+        "uz": "Ajralish hujjati",
+        "en": "",
+        "ru": "Заявление о разводе",
+        "example": ""
+      },
+      {
+        "kanji": "過去",
+        "jp": "かこ",
+        "uz": "O'tmish",
+        "en": "",
+        "ru": "Прошлое",
+        "example": ""
+      },
+      {
+        "kanji": "分析する",
+        "jp": "ぶんせきする",
+        "uz": "Tahlil qilmoq",
+        "en": "",
+        "ru": "Анализировать",
+        "example": ""
+      },
+      {
+        "kanji": "身につける",
+        "jp": "みにつける",
+        "uz": "(Bilimni)egallamoq;",
+        "en": "",
+        "ru": "o'rganmoq",
+        "example": ""
+      },
+      {
+        "kanji": "砂糖",
+        "jp": "さとう",
+        "uz": "Shakar",
+        "en": "",
+        "ru": "Сахар",
+        "example": ""
+      },
+      {
+        "kanji": "天然の調味料",
+        "jp": "てんねんのちょうみりょう",
+        "uz": "Tabiiy ziravorlar",
+        "en": "",
+        "ru": "Натуральные приправы",
+        "example": ""
+      },
+      {
+        "kanji": "我が社",
+        "jp": "わがしゃ",
+        "uz": "Bizning kompaniya",
+        "en": "",
+        "ru": "Наша компания",
+        "example": ""
+      },
+      {
+        "kanji": "～に力を注ぐ",
+        "jp": "～にちからをそそぐ",
+        "uz": "~ga kuch sarflash",
+        "en": "",
+        "ru": "Вкладывать силы в ~",
+        "example": ""
+      },
+      {
+        "kanji": "第一線",
+        "jp": "だいいっせん",
+        "uz": "eng oldi, yetakchi",
+        "en": "",
+        "ru": "передовой, лидер",
+        "example": ""
+      },
+      {
+        "kanji": "活躍する",
+        "jp": "かつやくする",
+        "uz": "Faol bo'lmoq, faoliyat",
+        "en": "",
+        "ru": "ko'rsatmoq",
+        "example": ""
+      },
+      {
+        "kanji": "現住所",
+        "jp": "げんじゅうしょ",
+        "uz": "Hozirgi turar joy manzili",
+        "en": "",
+        "ru": "нынешний адрес",
+        "example": ""
+      },
+      {
+        "kanji": "悪天候",
+        "jp": "あくてんこう",
+        "uz": "Yomon ob-havo",
+        "en": "",
+        "ru": "Плохая погода",
+        "example": ""
+      },
+      {
+        "kanji": "引き返す",
+        "jp": "ひきかえす",
+        "uz": "Qaytib kelmoq",
+        "en": "",
+        "ru": "Возвращаться",
+        "example": ""
+      },
+      {
+        "kanji": "安全面",
+        "jp": "あんぜんめん",
+        "uz": "xavfsizlik jihati",
+        "en": "",
+        "ru": "с точки зрения безопасности",
+        "example": ""
+      },
+      {
+        "kanji": "不格好",
+        "jp": "ぶかっこう",
+        "uz": "yomon ko'rinish",
+        "en": "",
+        "ru": "плохой внешний вид",
+        "example": ""
+      },
+      {
+        "kanji": "だぶだぶ",
+        "jp": "だぶだぶ",
+        "uz": "Keng",
+        "en": "",
+        "ru": "Широкий",
+        "example": ""
+      },
+      {
+        "kanji": "近々",
+        "jp": "ちかぢか",
+        "uz": "Yaqin orada",
+        "en": "",
+        "ru": "Скоро",
+        "example": ""
+      },
+      {
+        "kanji": "夢中になる",
+        "jp": "むちゅうになる",
+        "uz": "Mukkasidan ketib qolmoq",
+        "en": "",
+        "ru": "Увлекаться",
+        "example": ""
+      },
+      {
+        "kanji": "ハンデ",
+        "jp": "ハンデ",
+        "uz": "to'sqinlik",
+        "en": "",
+        "ru": "невыгодые условия",
+        "example": ""
+      },
+      {
+        "kanji": "（喜びを）覚える",
+        "jp": "（よろこびを）おぼえる",
+        "uz": "(Xursandchilikni) his qilmoq",
+        "en": "",
+        "ru": "Испытывать (радость)",
+        "example": ""
+      },
+      {
+        "kanji": "主要",
+        "jp": "しゅよう",
+        "uz": "Asosiy",
+        "en": "",
+        "ru": "Основной",
+        "example": ""
+      },
+      {
+        "kanji": "もったいない",
+        "jp": "もったいない",
+        "uz": "Behuda",
+        "en": "",
+        "ru": "Неразумно",
+        "example": ""
+      },
+      {
+        "kanji": "みっともない",
+        "jp": "みっともない",
+        "uz": "Uyat",
+        "en": "",
+        "ru": "позорный, стыдный",
+        "example": ""
+      },
+      {
+        "kanji": "ものすごい",
+        "jp": "ものすごい",
+        "uz": "Ajoyib",
+        "en": "",
+        "ru": "Удивительный",
+        "example": ""
+      },
+      {
+        "kanji": "たっぷり",
+        "jp": "たっぷり",
+        "uz": "Yetarlicha",
+        "en": "",
+        "ru": "Достаточно",
+        "example": ""
+      },
+      {
+        "kanji": "油断する",
+        "jp": "ゆだんする",
+        "uz": "E'tiborsizlik qilmoq",
+        "en": "",
+        "ru": "Быть невнимательным",
+        "example": ""
+      },
+      {
+        "kanji": "～の締め切りに追われる",
+        "jp": "～のしめきりにおわれる",
+        "uz": "~ning muddatini ta'qib qilmoq",
+        "en": "",
+        "ru": "Следить за сроком ~",
+        "example": ""
+      },
+      {
+        "kanji": "怠慢",
+        "jp": "たいまん",
+        "uz": "dangasalik qilib beparvo",
+        "en": "",
+        "ru": "bo'lish",
+        "example": ""
+      },
+      {
+        "kanji": "停止",
+        "jp": "ていし",
+        "uz": "To'xtash",
+        "en": "",
+        "ru": "Остановка",
+        "example": ""
+      },
+      {
+        "kanji": "休暇",
+        "jp": "きゅうか",
+        "uz": "Ta'til",
+        "en": "",
+        "ru": "Отпуск",
+        "example": ""
+      },
+      {
+        "kanji": "節約する",
+        "jp": "せつやくする",
+        "uz": "Tejash",
+        "en": "",
+        "ru": "Экономить",
+        "example": ""
+      },
+      {
+        "kanji": "解約する",
+        "jp": "かいやくする",
+        "uz": "Shartnomani bekor qilmoq",
+        "en": "",
+        "ru": "Расторгнуть контракт",
+        "example": ""
+      },
+      {
+        "kanji": "減少する",
+        "jp": "げんしょうする",
+        "uz": "Kamaytirish",
+        "en": "",
+        "ru": "Сокращать",
+        "example": ""
+      },
+      {
+        "kanji": "信頼する",
+        "jp": "しんらいする",
+        "uz": "Ishonmoq",
+        "en": "",
+        "ru": "Доверять",
+        "example": ""
+      },
+      {
+        "kanji": "ざっと",
+        "jp": "ざっと",
+        "uz": "Taxminan",
+        "en": "",
+        "ru": "Приблизительно",
+        "example": ""
+      },
+      {
+        "kanji": "法律に触れる",
+        "jp": "ほうりつにふれる",
+        "uz": "Qonunni buzmoq",
+        "en": "",
+        "ru": "нарушать закон",
+        "example": ""
+      },
+      {
+        "kanji": "違反する",
+        "jp": "いはんする",
+        "uz": "Qoida buzmoq",
+        "en": "",
+        "ru": "Нарушать, идти вразрез",
+        "example": ""
+      },
+      {
+        "kanji": "おおよそ",
+        "jp": "おおよそ",
+        "uz": "Taxminan",
+        "en": "",
+        "ru": "Приблизительно",
+        "example": ""
+      },
+      {
+        "kanji": "ふすま",
+        "jp": "ふすま",
+        "uz": "Fusuma (yapon suriladigan",
+        "en": "",
+        "ru": "eshigi)",
+        "example": ""
+      },
+      {
+        "kanji": "架空",
+        "jp": "かくう",
+        "uz": "Hayoliy",
+        "en": "",
+        "ru": "Выдуманный",
+        "example": ""
+      },
+      {
+        "kanji": "想像",
+        "jp": "そうぞう",
+        "uz": "Tasavvur",
+        "en": "",
+        "ru": "Представление",
+        "example": ""
+      },
+      {
+        "kanji": "信仰",
+        "jp": "しんこう",
+        "uz": "E'tiqod",
+        "en": "",
+        "ru": "Вера",
+        "example": ""
+      },
+      {
+        "kanji": "不思議な",
+        "jp": "ふしぎな",
+        "uz": "Sirli",
+        "en": "",
+        "ru": "Загадочный",
+        "example": ""
+      },
+      {
+        "kanji": "特色、カラー",
+        "jp": "とくしょく",
+        "uz": "Xususiyat, o'ziga xoslik",
+        "en": "",
+        "ru": "особенность",
+        "example": ""
+      },
+      {
+        "kanji": "方針",
+        "jp": "ほうしん",
+        "uz": "Yondashuv, siyosat, tamoyil",
+        "en": "",
+        "ru": "Политика",
+        "example": ""
+      },
+      {
+        "kanji": "伝統",
+        "jp": "でんとう",
+        "uz": "An'ana",
+        "en": "",
+        "ru": "Традиция",
+        "example": ""
+      },
+      {
+        "kanji": "警告",
+        "jp": "けいこく",
+        "uz": "Ogohlantirish",
+        "en": "",
+        "ru": "Предупреждение",
+        "example": ""
+      },
+      {
+        "kanji": "つながり",
+        "jp": "つながり",
+        "uz": "rishta, aloqa",
+        "en": "",
+        "ru": "связь",
+        "example": ""
+      },
+      {
+        "kanji": "余計",
+        "jp": "よけい",
+        "uz": "Ortiqcha, keraksiz",
+        "en": "",
+        "ru": "Лишний",
+        "example": ""
+      },
+      {
+        "kanji": "世間",
+        "jp": "せけん",
+        "uz": "Jamiyat",
+        "en": "",
+        "ru": "Общество",
+        "example": ""
+      },
+      {
+        "kanji": "交代",
+        "jp": "こうたい",
+        "uz": "Almashinuv",
+        "en": "",
+        "ru": "Смена, замещение",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 9,
+    "data": [
+      {
+        "kanji": "標準的な",
+        "jp": "ひょうじゅんてきな",
+        "uz": "Standard",
+        "en": "",
+        "ru": "стандартный",
+        "example": ""
+      },
+      {
+        "kanji": "悩む",
+        "jp": "なやむ",
+        "uz": "Nolimoq",
+        "en": "",
+        "ru": "страдать",
+        "example": ""
+      },
+      {
+        "kanji": "国会",
+        "jp": "こっかい",
+        "uz": "Parlament",
+        "en": "",
+        "ru": "парламент",
+        "example": ""
+      },
+      {
+        "kanji": "与党／野党",
+        "jp": "よとう／やとう",
+        "uz": "Hukumat partiyasi/oppozitsiya partiyasi",
+        "en": "",
+        "ru": "правительственная партия/",
+        "example": ""
+      },
+      {
+        "kanji": "攻防",
+        "jp": "こうぼう",
+        "uz": "Hujum va himoya",
+        "en": "",
+        "ru": "нападение и защита",
+        "example": ""
+      },
+      {
+        "kanji": "人間ドック",
+        "jp": "にんげんドック",
+        "uz": "To'liq tibbiy ko'rik",
+        "en": "",
+        "ru": "полное медицинское",
+        "example": ""
+      },
+      {
+        "kanji": "医師",
+        "jp": "いし",
+        "uz": "Shifokor",
+        "en": "",
+        "ru": "врач",
+        "example": ""
+      },
+      {
+        "kanji": "１対１",
+        "jp": "いったいいち/ いちたいいち",
+        "uz": "Birga bir",
+        "en": "",
+        "ru": "один на один",
+        "example": ""
+      },
+      {
+        "kanji": "検査結果",
+        "jp": "けんさけっか",
+        "uz": "Tahlil natijalari",
+        "en": "",
+        "ru": "Ответы анализов",
+        "example": ""
+      },
+      {
+        "kanji": "詳しい",
+        "jp": "くわしい",
+        "uz": "batafsil",
+        "en": "",
+        "ru": "детальный",
+        "example": ""
+      },
+      {
+        "kanji": "欠陥",
+        "jp": "けっかん",
+        "uz": "Nuqson",
+        "en": "",
+        "ru": "недостаток",
+        "example": ""
+      },
+      {
+        "kanji": "主張",
+        "jp": "しゅちょう",
+        "uz": "Ta'kid",
+        "en": "",
+        "ru": "утверждение",
+        "example": ""
+      },
+      {
+        "kanji": "国道",
+        "jp": "こくどう",
+        "uz": "Avtomagistral",
+        "en": "",
+        "ru": "автомагистраль",
+        "example": ""
+      },
+      {
+        "kanji": "～沿い",
+        "jp": "～ぞい",
+        "uz": "-bo'ylab",
+        "en": "",
+        "ru": "Следуя, вдоль -",
+        "example": ""
+      },
+      {
+        "kanji": "立て看板",
+        "jp": "たてかんばん",
+        "uz": "Banner, peshtaxta",
+        "en": "",
+        "ru": "Баннер(Рекламный щит)",
+        "example": ""
+      },
+      {
+        "kanji": "自己流",
+        "jp": "じこりゅう",
+        "uz": "Shaxsiy stil', uslub",
+        "en": "",
+        "ru": "Личный стиль",
+        "example": ""
+      },
+      {
+        "kanji": "記事",
+        "jp": "きじ",
+        "uz": "Maqola",
+        "en": "",
+        "ru": "статья",
+        "example": ""
+      },
+      {
+        "kanji": "地方",
+        "jp": "ちほう",
+        "uz": "Viloyat",
+        "en": "",
+        "ru": "область",
+        "example": ""
+      },
+      {
+        "kanji": "予想外",
+        "jp": "よそうがい",
+        "uz": "Kutilmagan",
+        "en": "",
+        "ru": "неожиданный",
+        "example": ""
+      },
+      {
+        "kanji": "依頼",
+        "jp": "いらい",
+        "uz": "Iltimos",
+        "en": "",
+        "ru": "просьба",
+        "example": ""
+      },
+      {
+        "kanji": "揺らぐ",
+        "jp": "ゆらぐ",
+        "uz": "Chayqalmoq",
+        "en": "",
+        "ru": "шататься, колебаться",
+        "example": ""
+      },
+      {
+        "kanji": "予期せぬ",
+        "jp": "よきせぬ",
+        "uz": "Kutilmagan",
+        "en": "",
+        "ru": "неожиданный",
+        "example": ""
+      },
+      {
+        "kanji": "連続",
+        "jp": "れんぞく",
+        "uz": "Davomiy",
+        "en": "",
+        "ru": "продолжаться, длиться",
+        "example": ""
+      },
+      {
+        "kanji": "くよくよする",
+        "jp": "くよくよする",
+        "uz": "Uzoq vaqt aziyat chekmoq",
+        "en": "",
+        "ru": "беспокоиться; переживать",
+        "example": ""
+      },
+      {
+        "kanji": "内容が濃い",
+        "jp": "ないようがこい",
+        "uz": "Mazmunga boy",
+        "en": "",
+        "ru": "глубокое содержание",
+        "example": ""
+      },
+      {
+        "kanji": "満足する",
+        "jp": "まんぞくする",
+        "uz": "Qoniqmoq",
+        "en": "",
+        "ru": "быть довольным",
+        "example": ""
+      },
+      {
+        "kanji": "地雷",
+        "jp": "じらい",
+        "uz": "Mina",
+        "en": "",
+        "ru": "мина",
+        "example": ""
+      },
+      {
+        "kanji": "無差別",
+        "jp": "むさべつ",
+        "uz": "Farqlamasdan",
+        "en": "",
+        "ru": "без различия, без",
+        "example": ""
+      },
+      {
+        "kanji": "狙う",
+        "jp": "ねらう",
+        "uz": "Maqsad qilmoq, mo'ljallamoq",
+        "en": "",
+        "ru": "целиться",
+        "example": ""
+      },
+      {
+        "kanji": "恐ろしい",
+        "jp": "おそろしい",
+        "uz": "Qo'rqinchli",
+        "en": "",
+        "ru": "страшный",
+        "example": ""
+      },
+      {
+        "kanji": "兵器",
+        "jp": "へいき",
+        "uz": "Qurol",
+        "en": "",
+        "ru": "оружие",
+        "example": ""
+      },
+      {
+        "kanji": "途中",
+        "jp": "とちゅう",
+        "uz": "Yo'lda, o'rtasida",
+        "en": "",
+        "ru": "по дороге",
+        "example": ""
+      },
+      {
+        "kanji": "ひったくれる",
+        "jp": "ひったくれる",
+        "uz": "Tortib olmoq",
+        "en": "",
+        "ru": "выхватить",
+        "example": ""
+      },
+      {
+        "kanji": "運動量",
+        "jp": "うんどうりょう",
+        "uz": "jismoniy tarbiya miqdori",
+        "en": "",
+        "ru": "объём упражнений",
+        "example": ""
+      },
+      {
+        "kanji": "地方紙",
+        "jp": "ちほうし",
+        "uz": "viloyat gazetasi",
+        "en": "",
+        "ru": "областная/местная газета",
+        "example": ""
+      },
+      {
+        "kanji": "依頼心",
+        "jp": "いらいしん",
+        "uz": "boshqalarga yuklash,",
+        "en": "",
+        "ru": "boshqalarga bogliqlik'",
+        "example": ""
+      },
+      {
+        "kanji": "そそっかしい",
+        "jp": "そそっかしい",
+        "uz": "shoshqaloq, beparvo",
+        "en": "",
+        "ru": "постешный, неосторожный",
+        "example": ""
+      },
+      {
+        "kanji": "おしい",
+        "jp": "おしい",
+        "uz": "Afsus",
+        "en": "",
+        "ru": "жаль",
+        "example": ""
+      },
+      {
+        "kanji": "（リズムが）狂う",
+        "jp": "（リズムが）くるう",
+        "uz": "",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "ケース",
+        "jp": "ケース",
+        "uz": "hodisa",
+        "en": "",
+        "ru": "случаи",
+        "example": ""
+      },
+      {
+        "kanji": "右肩上がり",
+        "jp": "みぎかたあがり",
+        "uz": "o'sish, ko'tarilish, ko'payish",
+        "en": "",
+        "ru": "увеличение",
+        "example": ""
+      },
+      {
+        "kanji": "世代",
+        "jp": "せだい",
+        "uz": "Avlod",
+        "en": "",
+        "ru": "поколение",
+        "example": ""
+      },
+      {
+        "kanji": "わざと",
+        "jp": "わざと",
+        "uz": "ataylab",
+        "en": "",
+        "ru": "специально, нарочно",
+        "example": ""
+      },
+      {
+        "kanji": "異常",
+        "jp": "いじょう",
+        "uz": "odatdagidan farqli, nojo'ya",
+        "en": "",
+        "ru": "holat",
+        "example": ""
+      },
+      {
+        "kanji": "疲労",
+        "jp": "ひろう",
+        "uz": "Charchoq",
+        "en": "",
+        "ru": "усталость",
+        "example": ""
+      },
+      {
+        "kanji": "奨学金",
+        "jp": "しょうがくきん",
+        "uz": "Stipendiya",
+        "en": "",
+        "ru": "стипендия",
+        "example": ""
+      },
+      {
+        "kanji": "保証金",
+        "jp": "ほしょうきん",
+        "uz": "Depozit",
+        "en": "",
+        "ru": "депозит",
+        "example": ""
+      },
+      {
+        "kanji": "入学金",
+        "jp": "にゅうがくきん",
+        "uz": "O'qishga kirgandan keyingi to'lov",
+        "en": "",
+        "ru": "вступительный взнос (при",
+        "example": ""
+      },
+      {
+        "kanji": "進学する",
+        "jp": "しんがくする",
+        "uz": "O'qishni keyingi bosqichda",
+        "en": "",
+        "ru": "davom ettirish",
+        "example": ""
+      },
+      {
+        "kanji": "あわただしい",
+        "jp": "あわただしい",
+        "uz": "Shoshqaloq",
+        "en": "",
+        "ru": "торопливый",
+        "example": ""
+      },
+      {
+        "kanji": "さっさと",
+        "jp": "さっさと",
+        "uz": "Tez",
+        "en": "",
+        "ru": "быстро",
+        "example": ""
+      },
+      {
+        "kanji": "さかさまに",
+        "jp": "さかさまに",
+        "uz": "Teskari",
+        "en": "",
+        "ru": "перевёрнутый",
+        "example": ""
+      },
+      {
+        "kanji": "考慮に入れる",
+        "jp": "こうりょにいれる",
+        "uz": "E'tiborga olmoq",
+        "en": "",
+        "ru": "приминмать во внимание",
+        "example": ""
+      },
+      {
+        "kanji": "無視する",
+        "jp": "むしする",
+        "uz": "E'tibor bermaslik",
+        "en": "",
+        "ru": "игнорировать",
+        "example": ""
+      },
+      {
+        "kanji": "着々と",
+        "jp": "ちゃくちゃくと",
+        "uz": "Barqaror, rejadagidek",
+        "en": "",
+        "ru": "медленно, но верно",
+        "example": ""
+      },
+      {
+        "kanji": "順調に",
+        "jp": "じゅんちょうに",
+        "uz": "Barqaror, rejadagidek",
+        "en": "",
+        "ru": "все по маслу( о ходе дела и",
+        "example": ""
+      },
+      {
+        "kanji": "徐々に",
+        "jp": "じょじょに",
+        "uz": "Asta-sekin",
+        "en": "",
+        "ru": "понемногу",
+        "example": ""
+      },
+      {
+        "kanji": "急速に",
+        "jp": "きゅうそくに",
+        "uz": "Keskin",
+        "en": "",
+        "ru": "интенсивно, резко",
+        "example": ""
+      },
+      {
+        "kanji": "意外に",
+        "jp": "いがいに",
+        "uz": "Kutilmagan",
+        "en": "",
+        "ru": "вопреки ожиданиям",
+        "example": ""
+      },
+      {
+        "kanji": "たかが～と言って",
+        "jp": "たかが～といって",
+        "uz": "Faqat(atigi) – deb",
+        "en": "",
+        "ru": "сказав --всего лишь",
+        "example": ""
+      },
+      {
+        "kanji": "甘く見る",
+        "jp": "あまくみる",
+        "uz": "Yengil qaramoq",
+        "en": "",
+        "ru": "не воспринимать серьёзно",
+        "example": ""
+      },
+      {
+        "kanji": "中断する",
+        "jp": "ちゅうだんする",
+        "uz": "Uzmoq, to'xtatmoq",
+        "en": "",
+        "ru": "приостанавливать",
+        "example": ""
+      },
+      {
+        "kanji": "マンネリ化する",
+        "jp": "マンネリかする",
+        "uz": "Bir xillik, zerikarli",
+        "en": "",
+        "ru": "однообразие",
+        "example": ""
+      },
+      {
+        "kanji": "悲しみ",
+        "jp": "かなしみ",
+        "uz": "G'am",
+        "en": "",
+        "ru": "печаль",
+        "example": ""
+      },
+      {
+        "kanji": "失う",
+        "jp": "うしなう",
+        "uz": "Yo'qotmoq",
+        "en": "",
+        "ru": "потерять",
+        "example": ""
+      },
+      {
+        "kanji": "推定する",
+        "jp": "すいていする",
+        "uz": "Taxmin qilmoq",
+        "en": "",
+        "ru": "предполагать",
+        "example": ""
+      },
+      {
+        "kanji": "血圧",
+        "jp": "けつあつ",
+        "uz": "Qon bosimi",
+        "en": "",
+        "ru": "кровяное давление",
+        "example": ""
+      },
+      {
+        "kanji": "秘密",
+        "jp": "ひみつ",
+        "uz": "Sir",
+        "en": "",
+        "ru": "тайна, секрет",
+        "example": ""
+      },
+      {
+        "kanji": "ごぶさた",
+        "jp": "ごぶさた",
+        "uz": "Uzoq vaqt uchrashmaslik, xabar",
+        "en": "",
+        "ru": "olmaslikj",
+        "example": ""
+      },
+      {
+        "kanji": "単純な",
+        "jp": "たんじゅんな",
+        "uz": "Sodda",
+        "en": "",
+        "ru": "наивный, простой",
+        "example": ""
+      },
+      {
+        "kanji": "足元",
+        "jp": "あしもと",
+        "uz": "oyoq tagi,yurish uslubi",
+        "en": "",
+        "ru": "походка; шаг",
+        "example": ""
+      },
+      {
+        "kanji": "離れる",
+        "jp": "はなれる",
+        "uz": "Uzoqlashmoq, tashlab ketmoq",
+        "en": "",
+        "ru": "уйти, отдаляться",
+        "example": ""
+      },
+      {
+        "kanji": "超過",
+        "jp": "ちょうか",
+        "uz": "Oshib ketmoq",
+        "en": "",
+        "ru": "превышение",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 10,
+    "data": [
+      {
+        "kanji": "入荷する",
+        "jp": "にゅうかする",
+        "uz": "Omborga yetkazib berish",
+        "en": "",
+        "ru": "поставить на склад",
+        "example": ""
+      },
+      {
+        "kanji": "有無",
+        "jp": "うむ",
+        "uz": "Bor yoqligi",
+        "en": "",
+        "ru": "присутствие или отсутствие",
+        "example": ""
+      },
+      {
+        "kanji": "懐かしい",
+        "jp": "なつかしい",
+        "uz": "Sog'inch",
+        "en": "",
+        "ru": "тоска",
+        "example": ""
+      },
+      {
+        "kanji": "新鮮な",
+        "jp": "しんせんな",
+        "uz": "Yangi",
+        "en": "",
+        "ru": "Свежий",
+        "example": ""
+      },
+      {
+        "kanji": "就職",
+        "jp": "しゅうしょく",
+        "uz": "Ishga kirish",
+        "en": "",
+        "ru": "найти работу",
+        "example": ""
+      },
+      {
+        "kanji": "慰める",
+        "jp": "なぐさめる",
+        "uz": "Yupatmoq, tasalli bermoq",
+        "en": "",
+        "ru": "утешать",
+        "example": ""
+      },
+      {
+        "kanji": "落ち込む",
+        "jp": "おちこむ",
+        "uz": "Tushkunlikka tushmoq",
+        "en": "",
+        "ru": "впадать в депрессию",
+        "example": ""
+      },
+      {
+        "kanji": "亡くなる",
+        "jp": "なくなる",
+        "uz": "Vafot etmoq",
+        "en": "",
+        "ru": "умиреть",
+        "example": ""
+      },
+      {
+        "kanji": "土地",
+        "jp": "とち",
+        "uz": "Yer",
+        "en": "",
+        "ru": "земля",
+        "example": ""
+      },
+      {
+        "kanji": "財産",
+        "jp": "ざいさん",
+        "uz": "Mulk",
+        "en": "",
+        "ru": "имущество",
+        "example": ""
+      },
+      {
+        "kanji": "相続する",
+        "jp": "そうぞくする",
+        "uz": "Meros olmoq",
+        "en": "",
+        "ru": "Наследовать",
+        "example": ""
+      },
+      {
+        "kanji": "対照的な",
+        "jp": "たいしょうてきな",
+        "uz": "Qiyosiy",
+        "en": "",
+        "ru": "сравнительный,",
+        "example": ""
+      },
+      {
+        "kanji": "覚える",
+        "jp": "おぼえる",
+        "uz": "Yod olmoq, esda tutmoq",
+        "en": "",
+        "ru": "запомнить, выучить",
+        "example": ""
+      },
+      {
+        "kanji": "解答",
+        "jp": "かいとう",
+        "uz": "Javob",
+        "en": "",
+        "ru": "ответ",
+        "example": ""
+      },
+      {
+        "kanji": "乾杯",
+        "jp": "かんぱい",
+        "uz": "Qadah ko'tarish",
+        "en": "",
+        "ru": "тост",
+        "example": ""
+      },
+      {
+        "kanji": "逆らう",
+        "jp": "さからう",
+        "uz": "Qarshilik ko'rsatmoq",
+        "en": "",
+        "ru": "сопротивляться",
+        "example": ""
+      },
+      {
+        "kanji": "公衆電話",
+        "jp": "こうしゅうでんわ",
+        "uz": "Jamoat foydalanadigan telefon",
+        "en": "",
+        "ru": "общественный телефон",
+        "example": ""
+      },
+      {
+        "kanji": "前時代的",
+        "jp": "ぜんじだいてき",
+        "uz": "O'tgan asrga xos",
+        "en": "",
+        "ru": "прошлый прошловековый",
+        "example": ""
+      },
+      {
+        "kanji": "税金",
+        "jp": "ぜいきん",
+        "uz": "Soliq",
+        "en": "",
+        "ru": "налог",
+        "example": ""
+      },
+      {
+        "kanji": "使い道",
+        "jp": "つかいみち",
+        "uz": "Ishlatish usuli",
+        "en": "",
+        "ru": "способ применения",
+        "example": ""
+      },
+      {
+        "kanji": "無関心",
+        "jp": "むかんしん",
+        "uz": "Befarq",
+        "en": "",
+        "ru": "равнодушный",
+        "example": ""
+      },
+      {
+        "kanji": "厳しい",
+        "jp": "きびしめ",
+        "uz": "Qattiq qo'l",
+        "en": "",
+        "ru": "строгий",
+        "example": ""
+      },
+      {
+        "kanji": "しつけ",
+        "jp": "しつけ",
+        "uz": "Tarbiya, xulq, intizom",
+        "en": "",
+        "ru": "воспитание, поведение",
+        "example": ""
+      },
+      {
+        "kanji": "逆効果",
+        "jp": "ぎゃくこうか",
+        "uz": "Teskari ta'sir,teskari natija",
+        "en": "",
+        "ru": "противоположный результат",
+        "example": ""
+      },
+      {
+        "kanji": "保護者",
+        "jp": "ほごしゃ",
+        "uz": "Ota-ona yoki vasiy",
+        "en": "",
+        "ru": "опекун",
+        "example": ""
+      },
+      {
+        "kanji": "交代制",
+        "jp": "こうたいせい",
+        "uz": "Galma-gal tizim",
+        "en": "",
+        "ru": "система очередности",
+        "example": ""
+      },
+      {
+        "kanji": "相手側",
+        "jp": "あいてがわ",
+        "uz": "Boshqa tomon",
+        "en": "",
+        "ru": "другая сторона",
+        "example": ""
+      },
+      {
+        "kanji": "移動手段",
+        "jp": "いどうしゅだん",
+        "uz": "Harakatlanish vositasi,",
+        "en": "",
+        "ru": "transport",
+        "example": ""
+      },
+      {
+        "kanji": "成功を収める",
+        "jp": "せいこうをおさめる",
+        "uz": "Muvaffaqiyatga erishmoq",
+        "en": "",
+        "ru": "достигнуть успеха",
+        "example": ""
+      },
+      {
+        "kanji": "たちまち",
+        "jp": "たちまち",
+        "uz": "Bir zumda",
+        "en": "",
+        "ru": "немедленно",
+        "example": ""
+      },
+      {
+        "kanji": "ターゲット",
+        "jp": "ターゲット",
+        "uz": "Maqsad",
+        "en": "",
+        "ru": "цель",
+        "example": ""
+      },
+      {
+        "kanji": "発売",
+        "jp": "はつばい",
+        "uz": "Sotuv",
+        "en": "",
+        "ru": "продажа",
+        "example": ""
+      },
+      {
+        "kanji": "価格競争",
+        "jp": "かかくきょうそう",
+        "uz": "Narxdagi raqobat",
+        "en": "",
+        "ru": "ценовая конкуренция",
+        "example": ""
+      },
+      {
+        "kanji": "ありがたい",
+        "jp": "ありがたい",
+        "uz": "Minnatdorlik hissi, marhamat, foyda",
+        "en": "",
+        "ru": "благодарный, милосердный,",
+        "example": ""
+      },
+      {
+        "kanji": "想像力",
+        "jp": "そうぞうりょく",
+        "uz": "Tasavvur kuchi",
+        "en": "",
+        "ru": "сила воображения",
+        "example": ""
+      },
+      {
+        "kanji": "恵まれる",
+        "jp": "めぐまれる",
+        "uz": "Ne'mat qilib berilmoq, marhamat",
+        "en": "",
+        "ru": "qilinmoq, -ga boy bo'lmoq",
+        "example": ""
+      },
+      {
+        "kanji": "はるかに",
+        "jp": "はるかに",
+        "uz": "Ancha",
+        "en": "",
+        "ru": "гораздо, более",
+        "example": ""
+      },
+      {
+        "kanji": "神話",
+        "jp": "しんわ",
+        "uz": "Afsona",
+        "en": "",
+        "ru": "миф",
+        "example": ""
+      },
+      {
+        "kanji": "共通する",
+        "jp": "きょうつうする",
+        "uz": "Umumiy xususiyat, hislatga",
+        "en": "",
+        "ru": "ega bo'lmoq, o'xshamoq",
+        "example": ""
+      },
+      {
+        "kanji": "世界各地",
+        "jp": "せかいかくち",
+        "uz": "Dunyoning har yeri",
+        "en": "",
+        "ru": "везде",
+        "example": ""
+      },
+      {
+        "kanji": "トピック",
+        "jp": "トピック",
+        "uz": "Mavzu",
+        "en": "",
+        "ru": "тема",
+        "example": ""
+      },
+      {
+        "kanji": "検索する",
+        "jp": "けんさくする",
+        "uz": "Izlamoq",
+        "en": "",
+        "ru": "искать",
+        "example": ""
+      },
+      {
+        "kanji": "当日",
+        "jp": "とうじつ",
+        "uz": "O'sha kuni",
+        "en": "",
+        "ru": "в тот день",
+        "example": ""
+      },
+      {
+        "kanji": "あいにく",
+        "jp": "あいにく",
+        "uz": "Baxtga qarshi, afsuski",
+        "en": "",
+        "ru": "к сожалению",
+        "example": ""
+      },
+      {
+        "kanji": "担がれる",
+        "jp": "かつがれる",
+        "uz": "Aldanmoq",
+        "en": "",
+        "ru": "быть одманутым",
+        "example": ""
+      },
+      {
+        "kanji": "だまされる",
+        "jp": "だまされる",
+        "uz": "Aldanmoq",
+        "en": "",
+        "ru": "быть одманутым",
+        "example": ""
+      },
+      {
+        "kanji": "断る",
+        "jp": "ことわる",
+        "uz": "Rad etmoq",
+        "en": "",
+        "ru": "отказать",
+        "example": ""
+      },
+      {
+        "kanji": "馬鹿にする",
+        "jp": "ばかにする",
+        "uz": "Kamsitmoq, haqorat qilmoq",
+        "en": "",
+        "ru": "презирать",
+        "example": ""
+      },
+      {
+        "kanji": "根",
+        "jp": "ね",
+        "uz": "Ildiz",
+        "en": "",
+        "ru": "корень",
+        "example": ""
+      },
+      {
+        "kanji": "結構な",
+        "jp": "けっこうな",
+        "uz": "Yetarli",
+        "en": "",
+        "ru": "достаточный",
+        "example": ""
+      },
+      {
+        "kanji": "調整",
+        "jp": "ちょうせい",
+        "uz": "Moslamoq",
+        "en": "",
+        "ru": "регулировать",
+        "example": ""
+      },
+      {
+        "kanji": "日程",
+        "jp": "にってい",
+        "uz": "Reja; jadval",
+        "en": "",
+        "ru": "расписание",
+        "example": ""
+      },
+      {
+        "kanji": "都会",
+        "jp": "とかい",
+        "uz": "Katta shahar",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "住宅地",
+        "jp": "じゅうたくち",
+        "uz": "Turar-joy kompleksi; istiqomat",
+        "en": "",
+        "ru": "qiladigan hudud",
+        "example": ""
+      },
+      {
+        "kanji": "暖房／冷房",
+        "jp": "だんぼう／れいぼう",
+        "uz": "Isitgich/ sovutgich",
+        "en": "",
+        "ru": "обогреватель, кондиционер",
+        "example": ""
+      },
+      {
+        "kanji": "荒れる",
+        "jp": "あれる",
+        "uz": "Qo'pol, dag'al bo'lmoq",
+        "en": "",
+        "ru": "Бушевать, грубеть",
+        "example": ""
+      },
+      {
+        "kanji": "すきずき",
+        "jp": "すきずき",
+        "uz": "Did",
+        "en": "",
+        "ru": "вкус, дело вкуса",
+        "example": ""
+      },
+      {
+        "kanji": "嫌な仕事",
+        "jp": "いやなしごと",
+        "uz": "Yoqimsiz ish",
+        "en": "",
+        "ru": "неприятная работа",
+        "example": ""
+      },
+      {
+        "kanji": "透明",
+        "jp": "とうめい",
+        "uz": "Shaffof, tiniq",
+        "en": "",
+        "ru": "прозрачный",
+        "example": ""
+      },
+      {
+        "kanji": "見当",
+        "jp": "けんとう",
+        "uz": "Taxmin, hisob-kitob",
+        "en": "",
+        "ru": "Предположение, расчет",
+        "example": ""
+      },
+      {
+        "kanji": "トランプ占い",
+        "jp": "トランプうらない",
+        "uz": "Kartada fol ochish",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "表情",
+        "jp": "ひょうじょう",
+        "uz": "Yuz ifodasi",
+        "en": "",
+        "ru": "выражение лица",
+        "example": ""
+      },
+      {
+        "kanji": "申請",
+        "jp": "しんせい",
+        "uz": "Ariza, murojaatnoma",
+        "en": "",
+        "ru": "заявление",
+        "example": ""
+      },
+      {
+        "kanji": "窓際の席",
+        "jp": "まどぎわのせき",
+        "uz": "Oyna tarafdagi o'rindiq/joy",
+        "en": "",
+        "ru": "место со стороны окна",
+        "example": ""
+      },
+      {
+        "kanji": "借金",
+        "jp": "しゃっきん",
+        "uz": "Qarz",
+        "en": "",
+        "ru": "долг",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 11,
+    "data": [
+      {
+        "kanji": "睡眠障害",
+        "jp": "すいみんしょうがい",
+        "uz": "Uyqu buzilishi",
+        "en": "",
+        "ru": "расстройство сна",
+        "example": ""
+      },
+      {
+        "kanji": "人類",
+        "jp": "じんるい",
+        "uz": "Insoniyat",
+        "en": "",
+        "ru": "человечество",
+        "example": ""
+      },
+      {
+        "kanji": "相当する",
+        "jp": "そうとうする",
+        "uz": "Mos tushmoq",
+        "en": "",
+        "ru": "соответствовать",
+        "example": ""
+      },
+      {
+        "kanji": "少子化",
+        "jp": "しょうしか",
+        "uz": "Bolalar tug'ilishini kamayib",
+        "en": "",
+        "ru": "borishi",
+        "example": ""
+      },
+      {
+        "kanji": "傾向がある",
+        "jp": "けいこうがある",
+        "uz": "Moyilligi bor",
+        "en": "",
+        "ru": "есть склонность",
+        "example": ""
+      },
+      {
+        "kanji": "磨く",
+        "jp": "みがく",
+        "uz": "Tozalamoq, charhlamoq",
+        "en": "",
+        "ru": "чистить, оттачивать(навыки)",
+        "example": ""
+      },
+      {
+        "kanji": "力を発揮する",
+        "jp": "ちからをはっきする",
+        "uz": "qobiliyatini ko'rsatmoq",
+        "en": "",
+        "ru": "проявлять силы",
+        "example": ""
+      },
+      {
+        "kanji": "国際強盗団",
+        "jp": "こくさいごうとうだん",
+        "uz": "Xalqaro o'g'rilar guruhi",
+        "en": "",
+        "ru": "банда международных",
+        "example": ""
+      },
+      {
+        "kanji": "被害を受ける",
+        "jp": "ひがいをうける",
+        "uz": "Zarar ko'rmoq",
+        "en": "",
+        "ru": "потерпеть ущерб",
+        "example": ""
+      },
+      {
+        "kanji": "衝突",
+        "jp": "しょうとつ",
+        "uz": "To'qnashuv",
+        "en": "",
+        "ru": "столкновение",
+        "example": ""
+      },
+      {
+        "kanji": "直前",
+        "jp": "ちょくぜん",
+        "uz": "-dan oldin",
+        "en": "",
+        "ru": "прямо перед (чем либо)",
+        "example": ""
+      },
+      {
+        "kanji": "停止する",
+        "jp": "ていしする",
+        "uz": "To'xtamoq",
+        "en": "",
+        "ru": "останавливать(ся)",
+        "example": ""
+      },
+      {
+        "kanji": "尽くす",
+        "jp": "つくす",
+        "uz": "Kuch sarflamoq, bag'ishlamoq",
+        "en": "",
+        "ru": "Прилагать усилие",
+        "example": ""
+      },
+      {
+        "kanji": "敬意を払う",
+        "jp": "けいいをはらう",
+        "uz": "Hurmat ko'rsatmoq",
+        "en": "",
+        "ru": "проявлять уважение",
+        "example": ""
+      },
+      {
+        "kanji": "改める",
+        "jp": "あらためる",
+        "uz": "Yangilamoq; yaxshiroq qilmoq",
+        "en": "",
+        "ru": "улучшать",
+        "example": ""
+      },
+      {
+        "kanji": "注目度",
+        "jp": "ちゅうもくど",
+        "uz": "E'tibor, diqqat darajasi",
+        "en": "",
+        "ru": "уровень внимание",
+        "example": ""
+      },
+      {
+        "kanji": "高性能",
+        "jp": "こうせいのう",
+        "uz": "Yuqori funksiyalar",
+        "en": "",
+        "ru": "высоко функциональный",
+        "example": ""
+      },
+      {
+        "kanji": "計画案",
+        "jp": "けいかくあん",
+        "uz": "Plan; qoralama",
+        "en": "",
+        "ru": "вариант плана, проекта",
+        "example": ""
+      },
+      {
+        "kanji": "～に過ぎない",
+        "jp": "～に過ぎない",
+        "uz": "-dan ortiq emas, bor yog'i -",
+        "en": "",
+        "ru": "всего лишь",
+        "example": ""
+      },
+      {
+        "kanji": "別行動をとる",
+        "jp": "べつこうどうをとる",
+        "uz": "Alohida harakat",
+        "en": "",
+        "ru": "qilmoq/yurmoq",
+        "example": ""
+      },
+      {
+        "kanji": "消火器",
+        "jp": "しょうかき",
+        "uz": "O't o'chirish uskunasi",
+        "en": "",
+        "ru": "огнетушитель",
+        "example": ""
+      },
+      {
+        "kanji": "前方",
+        "jp": "ぜんぽう",
+        "uz": "Oldinga, oldinda",
+        "en": "",
+        "ru": "впереди",
+        "example": ""
+      },
+      {
+        "kanji": "正式な服装",
+        "jp": "せいしきなふくそう",
+        "uz": "Rasmiy kiyim",
+        "en": "",
+        "ru": "официальная одежда",
+        "example": ""
+      },
+      {
+        "kanji": "タキシード",
+        "jp": "タキシード",
+        "uz": "смокинг",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "適切な",
+        "jp": "てきせつな",
+        "uz": "To'g'ri, mos",
+        "en": "",
+        "ru": "правильный",
+        "example": ""
+      },
+      {
+        "kanji": "器用",
+        "jp": "きよう",
+        "uz": "Mohir",
+        "en": "",
+        "ru": "ловкость",
+        "example": ""
+      },
+      {
+        "kanji": "皮肉",
+        "jp": "ひにく",
+        "uz": "Kinoya, kesatish",
+        "en": "",
+        "ru": "сарказм",
+        "example": ""
+      },
+      {
+        "kanji": "くれぐれも",
+        "jp": "くれぐれも",
+        "uz": "Albatta, eng, doimo",
+        "en": "",
+        "ru": "как можно, самый",
+        "example": ""
+      },
+      {
+        "kanji": "景気",
+        "jp": "けいき",
+        "uz": "Iqtisodiy holat",
+        "en": "",
+        "ru": "экономическое положение",
+        "example": ""
+      },
+      {
+        "kanji": "回復する",
+        "jp": "かいふくする",
+        "uz": "Qayta tiklanmoq",
+        "en": "",
+        "ru": "восстанавиваться",
+        "example": ""
+      },
+      {
+        "kanji": "失望する",
+        "jp": "しつぼうする",
+        "uz": "Umidini uzmoq",
+        "en": "",
+        "ru": "быть разочарованным",
+        "example": ""
+      },
+      {
+        "kanji": "内閣",
+        "jp": "ないかく",
+        "uz": "Vazirlar mahkamasi",
+        "en": "",
+        "ru": "кабинет министров",
+        "example": ""
+      },
+      {
+        "kanji": "巡り会う",
+        "jp": "めぐりあう",
+        "uz": "Uchratmoq (taqdir)",
+        "en": "",
+        "ru": "встретить",
+        "example": ""
+      },
+      {
+        "kanji": "運がいい",
+        "jp": "うんがいい",
+        "uz": "Omadli",
+        "en": "",
+        "ru": "удачный",
+        "example": ""
+      },
+      {
+        "kanji": "シンプル",
+        "jp": "シンプル",
+        "uz": "Oddiy, sodda",
+        "en": "",
+        "ru": "простой",
+        "example": ""
+      },
+      {
+        "kanji": "一段と",
+        "jp": "いちだんと",
+        "uz": "Oldingidan ham, yanada",
+        "en": "",
+        "ru": "еще больше",
+        "example": ""
+      },
+      {
+        "kanji": "ますます",
+        "jp": "ますます",
+        "uz": "Yanada",
+        "en": "",
+        "ru": "все больше и больше",
+        "example": ""
+      },
+      {
+        "kanji": "ふるわない",
+        "jp": "ふるわない",
+        "uz": "Yomon ahvolda bo'lmoq",
+        "en": "",
+        "ru": "Быть в плохом состоянии",
+        "example": ""
+      },
+      {
+        "kanji": "不調",
+        "jp": "ふちょう",
+        "uz": "Yomon holat",
+        "en": "",
+        "ru": "плохое состояние",
+        "example": ""
+      },
+      {
+        "kanji": "ものさし",
+        "jp": "ものさし",
+        "uz": "Lineyka",
+        "en": "",
+        "ru": "линейка",
+        "example": ""
+      },
+      {
+        "kanji": "あつかましい",
+        "jp": "あつかましい",
+        "uz": "Uyalmaydigan",
+        "en": "",
+        "ru": "Наглый, бесстыдный",
+        "example": ""
+      },
+      {
+        "kanji": "勝手に使う",
+        "jp": "かってにつかう",
+        "uz": "So'ramasdan ishlatmoq",
+        "en": "",
+        "ru": "брать без спроса",
+        "example": ""
+      },
+      {
+        "kanji": "やつ",
+        "jp": "やつ",
+        "uz": "Парень, малый, тип",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "のんきな",
+        "jp": "のんきな",
+        "uz": "Beparvo; g'ami yoq",
+        "en": "",
+        "ru": "Беззаботливый, безпечный",
+        "example": ""
+      },
+      {
+        "kanji": "気楽な",
+        "jp": "きらくな",
+        "uz": "Beparvo; g'ami yoq",
+        "en": "",
+        "ru": "Безхлопотный, беззаботный",
+        "example": ""
+      },
+      {
+        "kanji": "無愛想な",
+        "jp": "ぶあいそうな",
+        "uz": "Xushmuomala emas",
+        "en": "",
+        "ru": "Неприветливый, не",
+        "example": ""
+      },
+      {
+        "kanji": "無遠慮な",
+        "jp": "ぶえんりょな",
+        "uz": "Uyalmaydigan",
+        "en": "",
+        "ru": "безстыдный",
+        "example": ""
+      },
+      {
+        "kanji": "広告主",
+        "jp": "こうこくぬし",
+        "uz": "Reklama beruvchi",
+        "en": "",
+        "ru": "рекламадатель",
+        "example": ""
+      },
+      {
+        "kanji": "スポンサー",
+        "jp": "スポンサー",
+        "uz": "Reklama beruvchi",
+        "en": "",
+        "ru": "рекламадатель",
+        "example": ""
+      },
+      {
+        "kanji": "協力者",
+        "jp": "きょうりょくしゃ",
+        "uz": "Hamkor",
+        "en": "",
+        "ru": "человек оказывающий",
+        "example": ""
+      },
+      {
+        "kanji": "指導者",
+        "jp": "しどうしゃ",
+        "uz": "Rahbar(ilmiy ishga)",
+        "en": "",
+        "ru": "руководитель",
+        "example": ""
+      },
+      {
+        "kanji": "責任者",
+        "jp": "せきにんしゃ",
+        "uz": "Javobgar",
+        "en": "",
+        "ru": "ответственный",
+        "example": ""
+      },
+      {
+        "kanji": "合流する",
+        "jp": "ごうりゅうする",
+        "uz": "Yig'ilmoq",
+        "en": "",
+        "ru": "собраться",
+        "example": ""
+      },
+      {
+        "kanji": "野外学習",
+        "jp": "やがいがくしゅう",
+        "uz": "Ta'lim muassasidan",
+        "en": "",
+        "ru": "tashqarida mashg'ulot",
+        "example": ""
+      },
+      {
+        "kanji": "製作する",
+        "jp": "せいさくする",
+        "uz": "Yaratmoq(film)",
+        "en": "",
+        "ru": "создавать",
+        "example": ""
+      },
+      {
+        "kanji": "でたらめ",
+        "jp": "でたらめ",
+        "uz": "Bema'nilik",
+        "en": "",
+        "ru": "бред, без смыленный",
+        "example": ""
+      },
+      {
+        "kanji": "肯定的",
+        "jp": "こうていてき",
+        "uz": "Ijobiy",
+        "en": "",
+        "ru": "положительный",
+        "example": ""
+      },
+      {
+        "kanji": "要旨",
+        "jp": "ようし",
+        "uz": "Qisqacha mazmun, annotasiya",
+        "en": "",
+        "ru": "краткое содержание",
+        "example": ""
+      },
+      {
+        "kanji": "演説",
+        "jp": "えんぜつ",
+        "uz": "Nutq",
+        "en": "",
+        "ru": "речь",
+        "example": ""
+      },
+      {
+        "kanji": "指定",
+        "jp": "してい",
+        "uz": "Ko'rsatilgan(joy)",
+        "en": "",
+        "ru": "указание",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 12,
+    "data": [
+      {
+        "kanji": "現地の人々",
+        "jp": "げんちのひとびと",
+        "uz": "Mahaliy xalq",
+        "en": "",
+        "ru": "местные",
+        "example": ""
+      },
+      {
+        "kanji": "身につける",
+        "jp": "みにつける",
+        "uz": "O'zlashtirmoq, o'rganmoq",
+        "en": "",
+        "ru": "овладеть (навыкам)",
+        "example": ""
+      },
+      {
+        "kanji": "就く",
+        "jp": "つく",
+        "uz": "Ish topmoq",
+        "en": "",
+        "ru": "получить работу",
+        "example": ""
+      },
+      {
+        "kanji": "援助",
+        "jp": "えんじょ",
+        "uz": "Yordam",
+        "en": "",
+        "ru": "помощь",
+        "example": ""
+      },
+      {
+        "kanji": "汗をかく",
+        "jp": "あせをかく",
+        "uz": "Terlamoq",
+        "en": "",
+        "ru": "потеть",
+        "example": ""
+      },
+      {
+        "kanji": "調節する",
+        "jp": "ちょうせつする",
+        "uz": "Moslamoq",
+        "en": "",
+        "ru": "регулировать",
+        "example": ""
+      },
+      {
+        "kanji": "機能",
+        "jp": "きのう",
+        "uz": "Funksiya",
+        "en": "",
+        "ru": "функция",
+        "example": ""
+      },
+      {
+        "kanji": "起床",
+        "jp": "きしょう",
+        "uz": "Uyg'onish",
+        "en": "",
+        "ru": "просыпаться",
+        "example": ""
+      },
+      {
+        "kanji": "太陽光線",
+        "jp": "たいようこうせん",
+        "uz": "Qoyush nurlarida",
+        "en": "",
+        "ru": "солнечные лучи",
+        "example": ""
+      },
+      {
+        "kanji": "浴びる",
+        "jp": "あびる",
+        "uz": "cho'milmoq",
+        "en": "",
+        "ru": "Греться",
+        "example": ""
+      },
+      {
+        "kanji": "熱中",
+        "jp": "ねっちゅう",
+        "uz": "Ishtioyoq",
+        "en": "",
+        "ru": "энтузиазм",
+        "example": ""
+      },
+      {
+        "kanji": "（席を）譲る",
+        "jp": "（せきを）ゆずる",
+        "uz": "\u0000Joy\u0000 bermoq",
+        "en": "",
+        "ru": "уступить",
+        "example": ""
+      },
+      {
+        "kanji": "化学物質",
+        "jp": "かがくぶっしつ",
+        "uz": "Kimyoviy modda",
+        "en": "",
+        "ru": "химическое вещество",
+        "example": ""
+      },
+      {
+        "kanji": "安全性",
+        "jp": "あんぜんせい",
+        "uz": "Havfsizlik",
+        "en": "",
+        "ru": "безопасность",
+        "example": ""
+      },
+      {
+        "kanji": "有効期限",
+        "jp": "ゆうこうきげん",
+        "uz": "Amal qilish muddati",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "祖父",
+        "jp": "そふ",
+        "uz": "Doda",
+        "en": "",
+        "ru": "дедушка",
+        "example": ""
+      },
+      {
+        "kanji": "消耗する",
+        "jp": "しょうもうする",
+        "uz": "Isrof qilmoq; charchatmoq",
+        "en": "",
+        "ru": "Растрачивать, истощать",
+        "example": ""
+      },
+      {
+        "kanji": "占める",
+        "jp": "しめる",
+        "uz": "O'z ichiga olmoq",
+        "en": "",
+        "ru": "занимать",
+        "example": ""
+      },
+      {
+        "kanji": "緑豊かな",
+        "jp": "みどりゆたかな",
+        "uz": "Ko'klamga boy",
+        "en": "",
+        "ru": "богатая природа",
+        "example": ""
+      },
+      {
+        "kanji": "国土",
+        "jp": "こくど",
+        "uz": "Davlat chegarasi",
+        "en": "",
+        "ru": "государственная территория",
+        "example": ""
+      },
+      {
+        "kanji": "要領を得ない話",
+        "jp": "ようりょうをえないはなし",
+        "uz": "Noaniq, ikki ma'noli gap",
+        "en": "",
+        "ru": "не ясный, двухсмысленный",
+        "example": ""
+      },
+      {
+        "kanji": "総人口",
+        "jp": "そうじんこう",
+        "uz": "Jami aholi",
+        "en": "",
+        "ru": "общее население",
+        "example": ""
+      },
+      {
+        "kanji": "減少する",
+        "jp": "げんしょうする",
+        "uz": "Kamaymoq",
+        "en": "",
+        "ru": "уменьшаться",
+        "example": ""
+      },
+      {
+        "kanji": "再出発",
+        "jp": "さいしゅっぱつ",
+        "uz": "Qaytadan boshlash,",
+        "en": "",
+        "ru": "yangidan boshlash",
+        "example": ""
+      },
+      {
+        "kanji": "勤務先",
+        "jp": "きんむさき",
+        "uz": "Ishlash joyi",
+        "en": "",
+        "ru": "место работы",
+        "example": ""
+      },
+      {
+        "kanji": "現場",
+        "jp": "げんば",
+        "uz": "Voqae sodir bo'layotgan joy",
+        "en": "",
+        "ru": "Место происшествие",
+        "example": ""
+      },
+      {
+        "kanji": "生放送",
+        "jp": "なまほうそう",
+        "uz": "Jonli efir",
+        "en": "",
+        "ru": "прямой эфир",
+        "example": ""
+      },
+      {
+        "kanji": "一苦労",
+        "jp": "ひとくろう",
+        "uz": "ancha qiyin",
+        "en": "",
+        "ru": "достаточно тяжело",
+        "example": ""
+      },
+      {
+        "kanji": "反抗期",
+        "jp": "はんこうき",
+        "uz": "Quloqsizlik davri",
+        "en": "",
+        "ru": "период не послушания",
+        "example": ""
+      },
+      {
+        "kanji": "いわゆる",
+        "jp": "いわゆる",
+        "uz": "Bir so'z bilan aytganda",
+        "en": "",
+        "ru": "так называемый",
+        "example": ""
+      },
+      {
+        "kanji": "あらゆる",
+        "jp": "あらゆる",
+        "uz": "Barcha",
+        "en": "",
+        "ru": "все, каждый",
+        "example": ""
+      },
+      {
+        "kanji": "やたらに",
+        "jp": "やたらに",
+        "uz": "Farqlamay, fahmlamay",
+        "en": "",
+        "ru": "безразбора, безума",
+        "example": ""
+      },
+      {
+        "kanji": "嚙む／噛む",
+        "jp": "かむ",
+        "uz": "Chaynamoq",
+        "en": "",
+        "ru": "жевать",
+        "example": ""
+      },
+      {
+        "kanji": "刺激する",
+        "jp": "しげきする",
+        "uz": "Ta'sir ko'rsatmoq",
+        "en": "",
+        "ru": "стимулировать",
+        "example": ""
+      },
+      {
+        "kanji": "活字離れ",
+        "jp": "かつじばなれ",
+        "uz": "Босма чоп этишдан",
+        "en": "",
+        "ru": "узоклашиш",
+        "example": ""
+      },
+      {
+        "kanji": "ブーム",
+        "jp": "ブーム",
+        "uz": "Keng tarqalish, juda ham",
+        "en": "",
+        "ru": "zo'r rivojlanish",
+        "example": ""
+      },
+      {
+        "kanji": "声優",
+        "jp": "せいゆう",
+        "uz": "Aktyor ovozi",
+        "en": "",
+        "ru": "голос актера",
+        "example": ""
+      },
+      {
+        "kanji": "人気の職業",
+        "jp": "にんきのしょくぎょう",
+        "uz": "Mashhur kasb",
+        "en": "",
+        "ru": "популярная профессия",
+        "example": ""
+      },
+      {
+        "kanji": "保証",
+        "jp": "ほしょう",
+        "uz": "Kafolat",
+        "en": "",
+        "ru": "гарантия",
+        "example": ""
+      },
+      {
+        "kanji": "担当",
+        "jp": "たんとう",
+        "uz": "Rahbarlik, javobgarlik",
+        "en": "",
+        "ru": "заведование",
+        "example": ""
+      },
+      {
+        "kanji": "承知",
+        "jp": "しょうち",
+        "uz": "Tushunish",
+        "en": "",
+        "ru": "понимание",
+        "example": ""
+      },
+      {
+        "kanji": "責任",
+        "jp": "せきにん",
+        "uz": "Ma'suliyat",
+        "en": "",
+        "ru": "ответственность",
+        "example": ""
+      },
+      {
+        "kanji": "不利",
+        "jp": "ふり",
+        "uz": "Yutqazadigan pozisiyada",
+        "en": "",
+        "ru": "bo'lmoq",
+        "example": ""
+      },
+      {
+        "kanji": "不可",
+        "jp": "ふか",
+        "uz": "Iloji yoq",
+        "en": "",
+        "ru": "невозможно",
+        "example": ""
+      },
+      {
+        "kanji": "農業",
+        "jp": "のうぎょう",
+        "uz": "Qishloq xo'jaligi",
+        "en": "",
+        "ru": "сельское хозяйство",
+        "example": ""
+      },
+      {
+        "kanji": "魅力を感じる",
+        "jp": "みりょくをかんじる",
+        "uz": "Jozibador ko'rinmoq",
+        "en": "",
+        "ru": "казаться привлекательным",
+        "example": ""
+      },
+      {
+        "kanji": "純粋な",
+        "jp": "じゅんすいな",
+        "uz": "sof, asl",
+        "en": "",
+        "ru": "чистота, истина, невинность",
+        "example": ""
+      },
+      {
+        "kanji": "（店を）たたむ",
+        "jp": "（みせを）たたむ",
+        "uz": "(Do'konni) yopish",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "しいんと",
+        "jp": "しいんと",
+        "uz": "Juda ham tinch, suv",
+        "en": "",
+        "ru": "qo'ygandek jimjit",
+        "example": ""
+      },
+      {
+        "kanji": "改造する",
+        "jp": "かいぞうする",
+        "uz": "Qayta qurish, yangi narsa yaratish",
+        "en": "",
+        "ru": "uchun allaqachon mavjud bo'lgan",
+        "example": ""
+      },
+      {
+        "kanji": "縁",
+        "jp": "えん",
+        "uz": "Aloqa, bog'liqlik",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "ストレートな",
+        "jp": "ストレートな",
+        "uz": "To'g'ridan-to'g'ri,",
+        "en": "",
+        "ru": "uyalmasdan",
+        "example": ""
+      },
+      {
+        "kanji": "恐縮",
+        "jp": "きょうしゅく",
+        "uz": "Uyalmoq, kechirib so'rash",
+        "en": "",
+        "ru": "смущение, извините",
+        "example": ""
+      },
+      {
+        "kanji": "泊まる",
+        "jp": "とまる",
+        "uz": "Tunamoq",
+        "en": "",
+        "ru": "оставаться на ночь",
+        "example": ""
+      },
+      {
+        "kanji": "ごちそうになる",
+        "jp": "ごちそうになる",
+        "uz": "Mehmon qilmoq",
+        "en": "",
+        "ru": "гоститься",
+        "example": ""
+      },
+      {
+        "kanji": "大勢の人",
+        "jp": "おおぜいのひと",
+        "uz": "Ko'p odam",
+        "en": "",
+        "ru": "много людей",
+        "example": ""
+      },
+      {
+        "kanji": "心当たり",
+        "jp": "こころあたり",
+        "uz": "Tushuncha, bilim",
+        "en": "",
+        "ru": "Понятие, представление",
+        "example": ""
+      },
+      {
+        "kanji": "打ち明ける",
+        "jp": "うちあける",
+        "uz": "Dilidagini aytmoq",
+        "en": "",
+        "ru": "быть откровенным",
+        "example": ""
+      },
+      {
+        "kanji": "さわやか",
+        "jp": "さわやか",
+        "uz": "Tetiklantiradigan, yoqimli",
+        "en": "",
+        "ru": "свежий, приятный",
+        "example": ""
+      },
+      {
+        "kanji": "焦点",
+        "jp": "しょうてん",
+        "uz": "Focus",
+        "en": "",
+        "ru": "фокус",
+        "example": ""
+      },
+      {
+        "kanji": "企画",
+        "jp": "きかく",
+        "uz": "Loyiha",
+        "en": "",
+        "ru": "план, проект",
+        "example": ""
+      },
+      {
+        "kanji": "考慮",
+        "jp": "こうりょ",
+        "uz": "hisobga olish",
+        "en": "",
+        "ru": "",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 13,
+    "data": [
+      {
+        "kanji": "太平洋",
+        "jp": "たいへいよう",
+        "uz": "Tinch okeani",
+        "en": "",
+        "ru": "тихий океан",
+        "example": ""
+      },
+      {
+        "kanji": "高気圧",
+        "jp": "こうけつあつ",
+        "uz": "Antisiklon",
+        "en": "",
+        "ru": "антициклон",
+        "example": ""
+      },
+      {
+        "kanji": "～に覆われる",
+        "jp": "～におおわれる",
+        "uz": "Qoplanib olmoq",
+        "en": "",
+        "ru": "быть покрытым",
+        "example": ""
+      },
+      {
+        "kanji": "抜群にいい",
+        "jp": "ばつぐんにいい",
+        "uz": "Zo'r, ajralib turadigan darajada yaxshi",
+        "en": "",
+        "ru": "отличный, Исключительно хорошо",
+        "example": ""
+      },
+      {
+        "kanji": "博物館",
+        "jp": "はくぶつかん",
+        "uz": "Muzey",
+        "en": "",
+        "ru": "музей",
+        "example": ""
+      },
+      {
+        "kanji": "鯨",
+        "jp": "くじら",
+        "uz": "Kit(baliq)",
+        "en": "",
+        "ru": "кит",
+        "example": ""
+      },
+      {
+        "kanji": "標本",
+        "jp": "ひょうほん",
+        "uz": "Namuna",
+        "en": "",
+        "ru": "образец",
+        "example": ""
+      },
+      {
+        "kanji": "実感する",
+        "jp": "じっかんする",
+        "uz": "His etmoq, boshidan",
+        "en": "",
+        "ru": "o'tkazmoq",
+        "example": ""
+      },
+      {
+        "kanji": "作業が鈍い",
+        "jp": "さぎょうがにぶい",
+        "uz": "Ishlashi sekin",
+        "en": "",
+        "ru": "медленно работает",
+        "example": ""
+      },
+      {
+        "kanji": "貢献する",
+        "jp": "こうけんする",
+        "uz": "Hissa qo'shmoq",
+        "en": "",
+        "ru": "внести вклад",
+        "example": ""
+      },
+      {
+        "kanji": "過大評価",
+        "jp": "かだいひょうか",
+        "uz": "Ortiqcha baho bermoq",
+        "en": "",
+        "ru": "переоценивание",
+        "example": ""
+      },
+      {
+        "kanji": "世界記録",
+        "jp": "せかいきろく",
+        "uz": "Jahon rekordi",
+        "en": "",
+        "ru": "мировой рекорд",
+        "example": ""
+      },
+      {
+        "kanji": "縮める",
+        "jp": "ちぢめる",
+        "uz": "Kaltalatmoq, qisqartirmoq",
+        "en": "",
+        "ru": "уменшать, укоротить",
+        "example": ""
+      },
+      {
+        "kanji": "最終決定",
+        "jp": "さいしゅうけってい",
+        "uz": "Oxirgi qaror",
+        "en": "",
+        "ru": "последнее решение",
+        "example": ""
+      },
+      {
+        "kanji": "家事と育児",
+        "jp": "かじといくじ",
+        "uz": "Uy ishlari va farzand tarbiyasi",
+        "en": "",
+        "ru": "домашняя работа и",
+        "example": ""
+      },
+      {
+        "kanji": "分担する",
+        "jp": "ぶんたんする",
+        "uz": "Ishni taqsimlamoq",
+        "en": "",
+        "ru": "разделить работу",
+        "example": ""
+      },
+      {
+        "kanji": "税金を納める",
+        "jp": "ぜいきんをおさめる",
+        "uz": "Soliqni to'lamoq",
+        "en": "",
+        "ru": "платить налоги",
+        "example": ""
+      },
+      {
+        "kanji": "義務",
+        "jp": "ぎむ",
+        "uz": "Burch",
+        "en": "",
+        "ru": "долг",
+        "example": ""
+      },
+      {
+        "kanji": "多目的",
+        "jp": "たもくてき",
+        "uz": "Ko'p maqsadli",
+        "en": "",
+        "ru": "многоцелевой",
+        "example": ""
+      },
+      {
+        "kanji": "初体験",
+        "jp": "はつたいけん",
+        "uz": "Ilk tajriba",
+        "en": "",
+        "ru": "первый опыт",
+        "example": ""
+      },
+      {
+        "kanji": "完成",
+        "jp": "かんせい",
+        "uz": "Tugallanish",
+        "en": "",
+        "ru": "завершение",
+        "example": ""
+      },
+      {
+        "kanji": "年度末",
+        "jp": "ねんどまつ",
+        "uz": "moliyaviy yilning tugashi , o'quv yilining",
+        "en": "",
+        "ru": "tugashi",
+        "example": ""
+      },
+      {
+        "kanji": "年齢層",
+        "jp": "ねんれいそう",
+        "uz": "Yosh qatlami",
+        "en": "",
+        "ru": "возрастная группа",
+        "example": ""
+      },
+      {
+        "kanji": "本降り",
+        "jp": "ほんぶり",
+        "uz": "kuchli va davomiy yomg'ir",
+        "en": "",
+        "ru": "сильный дождь и",
+        "example": ""
+      },
+      {
+        "kanji": "蒸発",
+        "jp": "じょうはつ",
+        "uz": "Bug'lanmoq",
+        "en": "",
+        "ru": "Испарение",
+        "example": ""
+      },
+      {
+        "kanji": "削除",
+        "jp": "さくじょ",
+        "uz": "O'chirmoq",
+        "en": "",
+        "ru": "удалить",
+        "example": ""
+      },
+      {
+        "kanji": "消費",
+        "jp": "しょうひ",
+        "uz": "Iste'mol",
+        "en": "",
+        "ru": "потребление",
+        "example": ""
+      },
+      {
+        "kanji": "思い切って",
+        "jp": "おもいきって",
+        "uz": "Shartta",
+        "en": "",
+        "ru": "решительно",
+        "example": ""
+      },
+      {
+        "kanji": "捨てる",
+        "jp": "すてる",
+        "uz": "Tashlab yubormoq",
+        "en": "",
+        "ru": "выбросить",
+        "example": ""
+      },
+      {
+        "kanji": "すっきり",
+        "jp": "すっきり",
+        "uz": "Saranjom",
+        "en": "",
+        "ru": "аккуратный",
+        "example": ""
+      },
+      {
+        "kanji": "すっかり",
+        "jp": "すっかり",
+        "uz": "Butunlay",
+        "en": "",
+        "ru": "полностью",
+        "example": ""
+      },
+      {
+        "kanji": "物質的に",
+        "jp": "ぶっしつてきに",
+        "uz": "Moddiy",
+        "en": "",
+        "ru": "материальный",
+        "example": ""
+      },
+      {
+        "kanji": "精神的に",
+        "jp": "せいしんてきに",
+        "uz": "Ma'naviy",
+        "en": "",
+        "ru": "духовный",
+        "example": ""
+      },
+      {
+        "kanji": "飢える",
+        "jp": "うえる",
+        "uz": "Och bo'lmoq",
+        "en": "",
+        "ru": "голод",
+        "example": ""
+      },
+      {
+        "kanji": "砂漠",
+        "jp": "さばく",
+        "uz": "Cho'l",
+        "en": "",
+        "ru": "пустыня",
+        "example": ""
+      },
+      {
+        "kanji": "強大な",
+        "jp": "きょうだいな",
+        "uz": "Qudratli",
+        "en": "",
+        "ru": "могущественный",
+        "example": ""
+      },
+      {
+        "kanji": "多大な",
+        "jp": "ただいな",
+        "uz": "Katta miqdorda",
+        "en": "",
+        "ru": "большое количество",
+        "example": ""
+      },
+      {
+        "kanji": "膨大な",
+        "jp": "ぼうだいな",
+        "uz": "Ulkan(kattalashmoq)",
+        "en": "",
+        "ru": "огромный",
+        "example": ""
+      },
+      {
+        "kanji": "巨大な",
+        "jp": "きょだいな",
+        "uz": "Katta, bahaybat",
+        "en": "",
+        "ru": "огромный",
+        "example": ""
+      },
+      {
+        "kanji": "そびえる",
+        "jp": "そびえる",
+        "uz": "Qad ko'tarmoq",
+        "en": "",
+        "ru": "возвышаться",
+        "example": ""
+      },
+      {
+        "kanji": "マイナーな",
+        "jp": "マイナーな",
+        "uz": "Kichik, tanilmagan",
+        "en": "",
+        "ru": "второстепенны",
+        "example": ""
+      },
+      {
+        "kanji": "教育課程",
+        "jp": "きょういくかてい",
+        "uz": "O'quv dasturi",
+        "en": "",
+        "ru": "учебная программа",
+        "example": ""
+      },
+      {
+        "kanji": "脱出経路",
+        "jp": "だっしゅつけいろ",
+        "uz": "Qochish yo'li",
+        "en": "",
+        "ru": "Путь эвакуации",
+        "example": ""
+      },
+      {
+        "kanji": "脱出経路が断たれる",
+        "jp": "だっしゅつけいろがたたれる",
+        "uz": "Qochish yo'li yopiq",
+        "en": "",
+        "ru": "bo'lmoq(zilzila paytida)",
+        "example": ""
+      },
+      {
+        "kanji": "盛りを過ぎる",
+        "jp": "さかりをすぎる",
+        "uz": "Yoshi/mashhurligi o'tmoq",
+        "en": "",
+        "ru": "прошел рассвет",
+        "example": ""
+      },
+      {
+        "kanji": "～の有効性／効力",
+        "jp": "～のゆうこうせい／こうりょく",
+        "uz": "Foyda, ta'sir",
+        "en": "",
+        "ru": "эффект, влияние",
+        "example": ""
+      },
+      {
+        "kanji": "いっせいに",
+        "jp": "いっせいに",
+        "uz": "hammasi birdaniga, bir vaqtda",
+        "en": "",
+        "ru": "Все сразу",
+        "example": ""
+      },
+      {
+        "kanji": "察する／見抜く",
+        "jp": "さっする／みぬく",
+        "uz": "E'tibor bermaslik, ko'rmay",
+        "en": "",
+        "ru": "qolmoq",
+        "example": ""
+      },
+      {
+        "kanji": "リークする／口外する",
+        "jp": "リークする／こうがいする",
+        "uz": "(ma'lumot)sizmoq, chiqmoq",
+        "en": "",
+        "ru": "утечка",
+        "example": ""
+      },
+      {
+        "kanji": "測定する",
+        "jp": "そくていする",
+        "uz": "Baholamoq",
+        "en": "",
+        "ru": "оценивание",
+        "example": ""
+      },
+      {
+        "kanji": "筋が通る",
+        "jp": "すじがとおる",
+        "uz": "Mantiqqa to'g'ri kelmoq",
+        "en": "",
+        "ru": "соответствовать логике",
+        "example": ""
+      },
+      {
+        "kanji": "ひきょう",
+        "jp": "ひきょう",
+        "uz": "Qo'rqoqlik",
+        "en": "",
+        "ru": "трусость",
+        "example": ""
+      },
+      {
+        "kanji": "見解",
+        "jp": "けんかい",
+        "uz": "Dunyoqarash",
+        "en": "",
+        "ru": "мнение",
+        "example": ""
+      },
+      {
+        "kanji": "清書",
+        "jp": "せいしょ",
+        "uz": "Oqlama",
+        "en": "",
+        "ru": "беловик",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 14,
+    "data": [
+      {
+        "kanji": "議員",
+        "jp": "ぎいん",
+        "uz": "Deputat",
+        "en": "",
+        "ru": "депутат",
+        "example": ""
+      },
+      {
+        "kanji": "辞める",
+        "jp": "やめる",
+        "uz": "voz kechish, iste'foga chiqish",
+        "en": "",
+        "ru": "уйди (в отставку)",
+        "example": ""
+      },
+      {
+        "kanji": "LED電球",
+        "jp": "LEDでんきゅう",
+        "uz": "LED chiroqlari",
+        "en": "",
+        "ru": "LED лампочки",
+        "example": ""
+      },
+      {
+        "kanji": "消費電力",
+        "jp": "しょうひでんりょく",
+        "uz": "elektr energiyasi iste'moli",
+        "en": "",
+        "ru": "потребление",
+        "example": ""
+      },
+      {
+        "kanji": "寿命",
+        "jp": "じゅみょう",
+        "uz": "Umr",
+        "en": "",
+        "ru": "продолжительность жизни",
+        "example": ""
+      },
+      {
+        "kanji": "明確な",
+        "jp": "めいかくな",
+        "uz": "Aniq",
+        "en": "",
+        "ru": "ясный, точный",
+        "example": ""
+      },
+      {
+        "kanji": "逆戻りする",
+        "jp": "ぎゃくもどりする",
+        "uz": "Qaytalamoq",
+        "en": "",
+        "ru": "идти назад",
+        "example": ""
+      },
+      {
+        "kanji": "時間の観念",
+        "jp": "じかんのかんねん",
+        "uz": "Vaqt tushunchasi",
+        "en": "",
+        "ru": "понятие времени",
+        "example": ""
+      },
+      {
+        "kanji": "余裕を持つ",
+        "jp": "よゆうをもつ",
+        "uz": "Ortiqcha vaqtga ega bo'lmoq",
+        "en": "",
+        "ru": "иметь излишек времени",
+        "example": ""
+      },
+      {
+        "kanji": "壊れる",
+        "jp": "こわれる",
+        "uz": "sinmoq, buzilmoq",
+        "en": "",
+        "ru": "быть сломанным, разбиться",
+        "example": ""
+      },
+      {
+        "kanji": "公共料金",
+        "jp": "こうきょうりょうきん",
+        "uz": "Kommunal to'lov",
+        "en": "",
+        "ru": "плата за коммунальные",
+        "example": ""
+      },
+      {
+        "kanji": "校則",
+        "jp": "こうそく",
+        "uz": "Maktab qoidasi",
+        "en": "",
+        "ru": "школьные правила",
+        "example": ""
+      },
+      {
+        "kanji": "少年犯罪",
+        "jp": "しょうねんはんざい",
+        "uz": "Voyaga yetmaganlar jinoyati",
+        "en": "",
+        "ru": "преступность среди",
+        "example": ""
+      },
+      {
+        "kanji": "空き巣",
+        "jp": "あきす",
+        "uz": "Odam yoq uyga o'qirlikka",
+        "en": "",
+        "ru": "tushish",
+        "example": ""
+      },
+      {
+        "kanji": "被害に遭う",
+        "jp": "ひがいにあう",
+        "uz": "Qurbon bo'lish",
+        "en": "",
+        "ru": "стать жертвой",
+        "example": ""
+      },
+      {
+        "kanji": "手続き",
+        "jp": "てつづき",
+        "uz": "Tartib",
+        "en": "",
+        "ru": "процедура",
+        "example": ""
+      },
+      {
+        "kanji": "小冊子",
+        "jp": "しょうさっし",
+        "uz": "Kichik buklet",
+        "en": "",
+        "ru": "буклет",
+        "example": ""
+      },
+      {
+        "kanji": "一人前",
+        "jp": "いちにんまえ",
+        "uz": "Mustaqil, tajribaga ega",
+        "en": "",
+        "ru": "полноценный,",
+        "example": ""
+      },
+      {
+        "kanji": "芸能人",
+        "jp": "げいのうじん",
+        "uz": "San'atkor",
+        "en": "",
+        "ru": "артист",
+        "example": ""
+      },
+      {
+        "kanji": "私生活",
+        "jp": "しせいかつ",
+        "uz": "shaxsiy hayot",
+        "en": "",
+        "ru": "личная жизнь",
+        "example": ""
+      },
+      {
+        "kanji": "書き立てる",
+        "jp": "かきたてる",
+        "uz": "Yozmoq",
+        "en": "",
+        "ru": "писать",
+        "example": ""
+      },
+      {
+        "kanji": "生活圏",
+        "jp": "せいかつけん",
+        "uz": "Yashash hududi",
+        "en": "",
+        "ru": "жилая территория",
+        "example": ""
+      },
+      {
+        "kanji": "先着順",
+        "jp": "せんちゃくじゅん",
+        "uz": "Birinchi kelganlar tartibi",
+        "en": "",
+        "ru": "bo'yicha",
+        "example": ""
+      },
+      {
+        "kanji": "就任する",
+        "jp": "しゅうにんする",
+        "uz": "Lavozimni egallamoq",
+        "en": "",
+        "ru": "занимать должность",
+        "example": ""
+      },
+      {
+        "kanji": "追い抜く",
+        "jp": "おいぬく",
+        "uz": "Quvib o'tmoq",
+        "en": "",
+        "ru": "обогнать",
+        "example": ""
+      },
+      {
+        "kanji": "児童",
+        "jp": "じどう",
+        "uz": "Bolajonlar",
+        "en": "",
+        "ru": "дети",
+        "example": ""
+      },
+      {
+        "kanji": "後任",
+        "jp": "こうにん",
+        "uz": "Voris",
+        "en": "",
+        "ru": "преемник",
+        "example": ""
+      },
+      {
+        "kanji": "深刻な",
+        "jp": "しんこくな",
+        "uz": "Jiddiy, chuqur (muammo)",
+        "en": "",
+        "ru": "глубокая",
+        "example": ""
+      },
+      {
+        "kanji": "真剣",
+        "jp": "しんけん",
+        "uz": "Jiddiy",
+        "en": "",
+        "ru": "серьезный",
+        "example": ""
+      },
+      {
+        "kanji": "純粋に",
+        "jp": "じゅんすいに",
+        "uz": "sof, chinakam",
+        "en": "",
+        "ru": "настоящий, искренний",
+        "example": ""
+      },
+      {
+        "kanji": "平等",
+        "jp": "びょうどう",
+        "uz": "Tenglik, adolat",
+        "en": "",
+        "ru": "равноправие",
+        "example": ""
+      },
+      {
+        "kanji": "陽気",
+        "jp": "ようき",
+        "uz": "Quvnoq",
+        "en": "",
+        "ru": "веселый",
+        "example": ""
+      },
+      {
+        "kanji": "面倒",
+        "jp": "めんどう",
+        "uz": "Muammoli, ovoragarchilik",
+        "en": "",
+        "ru": "хлопатный",
+        "example": ""
+      },
+      {
+        "kanji": "厳重に",
+        "jp": "げんじゅうに",
+        "uz": "Qattiq",
+        "en": "",
+        "ru": "строго",
+        "example": ""
+      },
+      {
+        "kanji": "競馬",
+        "jp": "けいば",
+        "uz": "Ot poygasi",
+        "en": "",
+        "ru": "скачки",
+        "example": ""
+      },
+      {
+        "kanji": "ダービーに勝つ",
+        "jp": "ダービーにかつ",
+        "uz": "erbida g'alaba qozonish",
+        "en": "",
+        "ru": "выиграть дерби",
+        "example": ""
+      },
+      {
+        "kanji": "誇り",
+        "jp": "ほこり",
+        "uz": "g'urur",
+        "en": "",
+        "ru": "гордость",
+        "example": ""
+      },
+      {
+        "kanji": "見ばえ",
+        "jp": "みばえ",
+        "uz": "Tashqi ko'rinish",
+        "en": "",
+        "ru": "внешний вид",
+        "example": ""
+      },
+      {
+        "kanji": "そろそろ",
+        "jp": "そろそろ",
+        "uz": "vaqt bo'ldi (endi bizga ruxsat ma'nosida)",
+        "en": "",
+        "ru": "Пришло время (Пора возвращаться",
+        "example": ""
+      },
+      {
+        "kanji": "条例",
+        "jp": "じょうれい",
+        "uz": "Farmon",
+        "en": "",
+        "ru": "приказ, постановление",
+        "example": ""
+      },
+      {
+        "kanji": "改正",
+        "jp": "かいせい",
+        "uz": "Tuzatish",
+        "en": "",
+        "ru": "поправка",
+        "example": ""
+      },
+      {
+        "kanji": "発言",
+        "jp": "はつげん",
+        "uz": "Izoh",
+        "en": "",
+        "ru": "комментарий",
+        "example": ""
+      },
+      {
+        "kanji": "ヒートアップ",
+        "jp": "ヒートアップ",
+        "uz": "davra qizishi, suhbat avjiga chiqishi",
+        "en": "",
+        "ru": "Разгореться (беседа), Накаляться",
+        "example": ""
+      },
+      {
+        "kanji": "打ち消す／否定する",
+        "jp": "うちけす／ひていする",
+        "uz": "bekor qilish / rad etish",
+        "en": "",
+        "ru": "отменить, отказать",
+        "example": ""
+      },
+      {
+        "kanji": "修正する",
+        "jp": "しゅうせいする",
+        "uz": "Tuzatish",
+        "en": "",
+        "ru": "исправить",
+        "example": ""
+      },
+      {
+        "kanji": "伝達する",
+        "jp": "でんたつする",
+        "uz": "Uzatmoq; yetkamoq",
+        "en": "",
+        "ru": "Передавать",
+        "example": ""
+      },
+      {
+        "kanji": "記録する",
+        "jp": "きろくする",
+        "uz": "rekord",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "鋭い／優れている",
+        "jp": "するどい／すぐれている",
+        "uz": "O'tkir, zehnli",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "始終",
+        "jp": "ししゅう",
+        "uz": "Boshidan oxirigacha, doimo",
+        "en": "",
+        "ru": "всегда, от начало до конца",
+        "example": ""
+      },
+      {
+        "kanji": "せいぜい",
+        "jp": "せいぜい",
+        "uz": "ko'pi bilan, maksimum",
+        "en": "",
+        "ru": "максимум, насколько можно",
+        "example": ""
+      },
+      {
+        "kanji": "実施する",
+        "jp": "じっしする",
+        "uz": "Amalga oshirmoq",
+        "en": "",
+        "ru": "реализовать",
+        "example": ""
+      },
+      {
+        "kanji": "メリット／有利な点",
+        "jp": "メリット／ゆうりなてん",
+        "uz": "Foydali tomonlari",
+        "en": "",
+        "ru": "положительная сторона,",
+        "example": ""
+      },
+      {
+        "kanji": "大半",
+        "jp": "たいはん",
+        "uz": "Kata qism",
+        "en": "",
+        "ru": "большая часть",
+        "example": ""
+      },
+      {
+        "kanji": "頼る",
+        "jp": "たよる",
+        "uz": "Suyanmoq",
+        "en": "",
+        "ru": "полагаться",
+        "example": ""
+      },
+      {
+        "kanji": "証拠",
+        "jp": "しょうこ",
+        "uz": "Dalil",
+        "en": "",
+        "ru": "доказательство",
+        "example": ""
+      },
+      {
+        "kanji": "株",
+        "jp": "かぶ",
+        "uz": "Aksiya; qimmatbaho qag'ozlar",
+        "en": "",
+        "ru": "акция",
+        "example": ""
+      },
+      {
+        "kanji": "口実",
+        "jp": "こうじつ",
+        "uz": "Bahona",
+        "en": "",
+        "ru": "отговорка",
+        "example": ""
+      },
+      {
+        "kanji": "あいまいな",
+        "jp": "あいまいな",
+        "uz": "Noaniq",
+        "en": "",
+        "ru": "невнятный, неясный",
+        "example": ""
+      },
+      {
+        "kanji": "要点",
+        "jp": "ようてん",
+        "uz": "Asosiy bandlar",
+        "en": "",
+        "ru": "основные моменты",
+        "example": ""
+      },
+      {
+        "kanji": "故郷",
+        "jp": "こきょう",
+        "uz": "Vatan",
+        "en": "",
+        "ru": "родина",
+        "example": ""
+      },
+      {
+        "kanji": "頭痛",
+        "jp": "ずつう",
+        "uz": "Bosh og'riq",
+        "en": "",
+        "ru": "головная боль",
+        "example": ""
+      },
+      {
+        "kanji": "効き目",
+        "jp": "ききめ",
+        "uz": "Foyda, ta'siri",
+        "en": "",
+        "ru": "эффект",
+        "example": ""
+      },
+      {
+        "kanji": "持続する",
+        "jp": "じぞくする",
+        "uz": "Davomiy",
+        "en": "",
+        "ru": "продолжительный",
+        "example": ""
+      },
+      {
+        "kanji": "和菓子",
+        "jp": "わがし",
+        "uz": "Yapon shirinliklari",
+        "en": "",
+        "ru": "японские сладости",
+        "example": ""
+      }
+    ]
+  },
+  {
+    "lesson": 15,
+    "data": [
+      {
+        "kanji": "低下する",
+        "jp": "ていかする",
+        "uz": "Tushmoq, pasaymoq (narx,",
+        "en": "",
+        "ru": "temperatura va h.k.)",
+        "example": ""
+      },
+      {
+        "kanji": "手抜き",
+        "jp": "てぬき",
+        "uz": "Chala ish, qo'l uchida",
+        "en": "",
+        "ru": "(умышленная )недоделка",
+        "example": ""
+      },
+      {
+        "kanji": "床",
+        "jp": "ゆか",
+        "uz": "Pol",
+        "en": "",
+        "ru": "пол",
+        "example": ""
+      },
+      {
+        "kanji": "床が沈む",
+        "jp": "ゆかがしずむ",
+        "uz": "polning cho'kishi",
+        "en": "",
+        "ru": "Пол проседает, Пол",
+        "example": ""
+      },
+      {
+        "kanji": "関心事",
+        "jp": "かんしんじ",
+        "uz": "Biror voqea- hodisaga qiziqish",
+        "en": "",
+        "ru": "Центр внимания",
+        "example": ""
+      },
+      {
+        "kanji": "異常気象",
+        "jp": "いじょうきしょう",
+        "uz": "Noodatiy ob-havo",
+        "en": "",
+        "ru": "Аномальная погода",
+        "example": ""
+      },
+      {
+        "kanji": "農産物",
+        "jp": "のうさんぶつ",
+        "uz": "Qishloq xo'jaligi mahsuloti",
+        "en": "",
+        "ru": "сельское хозяйство",
+        "example": ""
+      },
+      {
+        "kanji": "安全基準",
+        "jp": "あんぜんきじゅん",
+        "uz": "Xavfsizlik standarti",
+        "en": "",
+        "ru": "стандарты безопасности",
+        "example": ""
+      },
+      {
+        "kanji": "病",
+        "jp": "やまい",
+        "uz": "Kasallik",
+        "en": "",
+        "ru": "болезнь",
+        "example": ""
+      },
+      {
+        "kanji": "診断する",
+        "jp": "しんだんする",
+        "uz": "Tashxis qo'ymoq",
+        "en": "",
+        "ru": "ставить диагноз",
+        "example": ""
+      },
+      {
+        "kanji": "劇場",
+        "jp": "げきじょう",
+        "uz": "Teatr binosi",
+        "en": "",
+        "ru": "театр(здание)",
+        "example": ""
+      },
+      {
+        "kanji": "上着",
+        "jp": "うわぎ",
+        "uz": "Ustki kiyim",
+        "en": "",
+        "ru": "верхняя одежда",
+        "example": ""
+      },
+      {
+        "kanji": "クローク",
+        "jp": "クローク",
+        "uz": "Garderob хona",
+        "en": "",
+        "ru": "гардероб(комната)",
+        "example": ""
+      },
+      {
+        "kanji": "預ける",
+        "jp": "あずける",
+        "uz": "Saqlashga berish",
+        "en": "",
+        "ru": "сдавать на хранение",
+        "example": ""
+      },
+      {
+        "kanji": "利口",
+        "jp": "りこう",
+        "uz": "Aqilli",
+        "en": "",
+        "ru": "умница , молодец",
+        "example": ""
+      },
+      {
+        "kanji": "研修",
+        "jp": "けんしゅう",
+        "uz": "Malaka oshirish",
+        "en": "",
+        "ru": "стажировка(обучение)",
+        "example": ""
+      },
+      {
+        "kanji": "宝石店",
+        "jp": "ほうせきてん",
+        "uz": "Zargarlik do'koni",
+        "en": "",
+        "ru": "ювелирный магазин",
+        "example": ""
+      },
+      {
+        "kanji": "何者",
+        "jp": "なにもの",
+        "uz": "Kimdir",
+        "en": "",
+        "ru": "кто-то",
+        "example": ""
+      },
+      {
+        "kanji": "盗まれる",
+        "jp": "ぬすまれる",
+        "uz": "o'g'irlanmoq",
+        "en": "",
+        "ru": "Быть украденным",
+        "example": ""
+      },
+      {
+        "kanji": "かつて",
+        "jp": "かつて",
+        "uz": "Oldin, avval",
+        "en": "",
+        "ru": "давным-давно",
+        "example": ""
+      },
+      {
+        "kanji": "反体制運動",
+        "jp": "はんたいせいうんどう",
+        "uz": "Tizimga qarshi harakat",
+        "en": "",
+        "ru": "движение против политики",
+        "example": ""
+      },
+      {
+        "kanji": "自信家",
+        "jp": "じしんか",
+        "uz": "O'ziga ishongan odam",
+        "en": "",
+        "ru": "уверенный в себе человек",
+        "example": ""
+      },
+      {
+        "kanji": "広範囲",
+        "jp": "こうはんい",
+        "uz": "Keng diapazon; keng qamrov",
+        "en": "",
+        "ru": "широкий диапазон(широкая",
+        "example": ""
+      },
+      {
+        "kanji": "～におよぶ",
+        "jp": "～におよぶ",
+        "uz": "Tarqalish",
+        "en": "",
+        "ru": "распространение",
+        "example": ""
+      },
+      {
+        "kanji": "好印象を与える",
+        "jp": "こういんしょうをあたえる",
+        "uz": "Yaxshi taassurot qoldirish",
+        "en": "",
+        "ru": "оставить приятное",
+        "example": ""
+      },
+      {
+        "kanji": "少年期",
+        "jp": "しょうねんき",
+        "uz": "bolalik davri",
+        "en": "",
+        "ru": "Детство",
+        "example": ""
+      },
+      {
+        "kanji": "失業者",
+        "jp": "しつぎょうしゃ",
+        "uz": "Ishsiz odam",
+        "en": "",
+        "ru": "безработный",
+        "example": ""
+      },
+      {
+        "kanji": "ようするに",
+        "jp": "ようするに",
+        "uz": "qisqasi, bir so'z bilan aytganda",
+        "en": "",
+        "ru": "короче говоря, одним",
+        "example": ""
+      },
+      {
+        "kanji": "不景気",
+        "jp": "ふけいき",
+        "uz": "Iqtisodning yomon holat",
+        "en": "",
+        "ru": "bo'lishi",
+        "example": ""
+      },
+      {
+        "kanji": "原因",
+        "jp": "げんいん",
+        "uz": "Sabab",
+        "en": "",
+        "ru": "причина",
+        "example": ""
+      },
+      {
+        "kanji": "修理",
+        "jp": "しゅうり",
+        "uz": "Ta'mirlash",
+        "en": "",
+        "ru": "отремонтировать",
+        "example": ""
+      },
+      {
+        "kanji": "組み立てる",
+        "jp": "くみたてる",
+        "uz": "Yig'ib yasamoq",
+        "en": "",
+        "ru": "собирать (пр: собирать лего)",
+        "example": ""
+      },
+      {
+        "kanji": "狭き門",
+        "jp": "せまきもん",
+        "uz": "Tor darvoza",
+        "en": "",
+        "ru": "узкий проход, ворота",
+        "example": ""
+      },
+      {
+        "kanji": "打ち抜く",
+        "jp": "うちぬく",
+        "uz": "Urib teshmoq",
+        "en": "",
+        "ru": "пробивать",
+        "example": ""
+      },
+      {
+        "kanji": "出し抜く",
+        "jp": "だしぬく",
+        "uz": "hammadan oldin, ortda",
+        "en": "",
+        "ru": "qoldirmoq",
+        "example": ""
+      },
+      {
+        "kanji": "引き抜く",
+        "jp": "ひきぬく",
+        "uz": "Sug'urib olmoq",
+        "en": "",
+        "ru": "Вырывать, вытаскивать",
+        "example": ""
+      },
+      {
+        "kanji": "勝ち抜く",
+        "jp": "かちぬく",
+        "uz": "Yutib chiqmoq",
+        "en": "",
+        "ru": "выигрывать",
+        "example": ""
+      },
+      {
+        "kanji": "侵入する",
+        "jp": "しんにゅうする",
+        "uz": "Bostirib kirish",
+        "en": "",
+        "ru": "вторгаться",
+        "example": ""
+      },
+      {
+        "kanji": "進入する",
+        "jp": "しんにゅうする",
+        "uz": "Kirib olmoq",
+        "en": "",
+        "ru": "Входить, въезжать;",
+        "example": ""
+      },
+      {
+        "kanji": "加入する",
+        "jp": "かにゅうする",
+        "uz": "Qo'shilmoq, Birlashmoq",
+        "en": "",
+        "ru": "присоединиться",
+        "example": ""
+      },
+      {
+        "kanji": "移入する",
+        "jp": "いにゅうする",
+        "uz": "Olib kirish",
+        "en": "",
+        "ru": "внести",
+        "example": ""
+      },
+      {
+        "kanji": "～にふさわしい",
+        "jp": "～にふさわしい",
+        "uz": "Munosib, muvofiq",
+        "en": "",
+        "ru": "заслуживающий,",
+        "example": ""
+      },
+      {
+        "kanji": "人物",
+        "jp": "じんぶつ",
+        "uz": "Odam, shaxs",
+        "en": "",
+        "ru": "человек",
+        "example": ""
+      },
+      {
+        "kanji": "プラス",
+        "jp": "プラス",
+        "uz": "foyda, ijobiy ta'sir",
+        "en": "",
+        "ru": "Польза, плюс",
+        "example": ""
+      },
+      {
+        "kanji": "託児所",
+        "jp": "たくじしょ",
+        "uz": "Bolalar bog'chasi",
+        "en": "",
+        "ru": "ясля, детский садик(",
+        "example": ""
+      },
+      {
+        "kanji": "設備",
+        "jp": "せつび",
+        "uz": "Uskuna",
+        "en": "",
+        "ru": "oборудование, устройство",
+        "example": ""
+      },
+      {
+        "kanji": "完備",
+        "jp": "かんび",
+        "uz": "To'liq(texnika bilan)",
+        "en": "",
+        "ru": "ta'minlangan",
+        "example": ""
+      },
+      {
+        "kanji": "建設",
+        "jp": "けんせつ",
+        "uz": "Qurilish",
+        "en": "",
+        "ru": "строительство",
+        "example": ""
+      },
+      {
+        "kanji": "意識が薄い",
+        "jp": "意識が薄い",
+        "uz": "bilimi yetishmaslik",
+        "en": "",
+        "ru": "слабое сознание, недостаток",
+        "example": ""
+      },
+      {
+        "kanji": "連想する",
+        "jp": "れんそうする",
+        "uz": "Tassavur qilmoq (bog'lab)",
+        "en": "",
+        "ru": "ассоциировать",
+        "example": ""
+      },
+      {
+        "kanji": "思い浮かべる",
+        "jp": "おもいうかべる",
+        "uz": "Esga/hayolga kelmoq",
+        "en": "",
+        "ru": "Вспонимать, представлять",
+        "example": ""
+      },
+      {
+        "kanji": "思い当たる",
+        "jp": "おもいあたる",
+        "uz": "Eslamoq",
+        "en": "",
+        "ru": "вспоминаться, приходить на",
+        "example": ""
+      },
+      {
+        "kanji": "万一",
+        "jp": "まんいち",
+        "uz": "Mabodo",
+        "en": "",
+        "ru": "в крайном случае, не дай бог",
+        "example": ""
+      },
+      {
+        "kanji": "サークル活動",
+        "jp": "サークルかつどう",
+        "uz": "To'garak faoliyati",
+        "en": "",
+        "ru": "кружок, клубное занятие",
+        "example": ""
+      },
+      {
+        "kanji": "いちいち",
+        "jp": "いちいち",
+        "uz": "birma-bir, alohida",
+        "en": "",
+        "ru": "по одному, отдельно,",
+        "example": ""
+      },
+      {
+        "kanji": "口を出す",
+        "jp": "くちをだす",
+        "uz": "Gapirmoq, eslatmoq",
+        "en": "",
+        "ru": "говорить, высказывать",
+        "example": ""
+      },
+      {
+        "kanji": "過去",
+        "jp": "かこ",
+        "uz": "Прошлое; о'tmish",
+        "en": "",
+        "ru": "",
+        "example": ""
+      },
+      {
+        "kanji": "速度",
+        "jp": "そくど",
+        "uz": "Tezlik, temp",
+        "en": "",
+        "ru": "скорость",
+        "example": ""
+      },
+      {
+        "kanji": "みじめ",
+        "jp": "みじめ",
+        "uz": "Kambag'al, bechora",
+        "en": "",
+        "ru": "бедный",
+        "example": ""
+      },
+      {
+        "kanji": "具合",
+        "jp": "ぐあい",
+        "uz": "Holat",
+        "en": "",
+        "ru": "обстоятельство",
+        "example": ""
+      },
+      {
+        "kanji": "世の中",
+        "jp": "よのなか",
+        "uz": "Dunyo",
+        "en": "",
+        "ru": "мир",
+        "example": ""
+      },
+      {
+        "kanji": "雑音",
+        "jp": "ざつおん",
+        "uz": "Shovqin (xalaqit beruvchi)",
+        "en": "",
+        "ru": "мешающий шум(звук)",
+        "example": ""
+      },
+      {
+        "kanji": "拡張",
+        "jp": "かくちょう",
+        "uz": "Kengaytirish, kattalashtirish",
+        "en": "",
+        "ru": "расширение, увеличение",
+        "example": ""
+      },
+      {
+        "kanji": "景色",
+        "jp": "けしき",
+        "uz": "Manzara",
+        "en": "",
+        "ru": "пейзаж",
+        "example": ""
+      }
+    ]
+  }
+]
