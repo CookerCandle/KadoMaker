@@ -802,7 +802,7 @@
         "jp": "だらしない",
         "uz": "Dangasa",
         "en": "",
-        "ru": "неряшливый, неопрятный, недисциплинированный, нерадивый",
+        "ru": "неряшливый, недисциплинированный",
         "example": "彼はだらしない生活をしています。"
       },
       {
@@ -818,7 +818,7 @@
         "jp": "しきゅう",
         "uz": "ta'minlash; to'lash; nafaqa berish",
         "en": "",
-        "ru": "обеспечение, предоставление; оплата, пособие",
+        "ru": "обеспечение, предоставление",
         "example": "彼は会社から支給を受けています。"
       }
     ]
@@ -855,7 +855,7 @@
         "jp": "きんせんかんかく",
         "uz": "Puldan foydalanish hissi",
         "en": "",
-        "ru": "чувство денег (умение правильно обращаться с деньгами)",
+        "ru": "чувство денег (правильно обращаться с деньгами)",
         "example": "彼は金銭感覚が鈍いです。"
       },
       {
@@ -975,7 +975,7 @@
         "jp": "あくまでも",
         "uz": "Nima bo'lishidan qat'iy nazar",
         "en": "",
-        "ru": "несмотря ни на что; упорно, настойчиво, до конца",
+        "ru": "несмотря ни на что; настойчиво, до конца",
         "example": "あくまでも自分の信念を貫きます。"
       },
       {
@@ -1399,7 +1399,7 @@
       {
         "kanji": "補う",
         "jp": "おぎなう",
-        "uz": "to'ldirmoq, kompensatsiya qilmoq, yetishmayotgan narsani qoplamoq",
+        "uz": "to'ldirmoq, yetishmayotgan narsani qoplamoq",
         "en": "",
         "ru": "Дополнять, Компенсировать, Восполнять",
         "example": "不足している部分を補う必要があります。"
@@ -2555,7 +2555,7 @@
       {
         "kanji": "恵まれる",
         "jp": "めぐまれる",
-        "uz": "Ne'mat qilib berilmoq, marhamat qilinmoq, -ga boy bo'lmoq",
+        "uz": "Ne'mat qilib berilmoq, marhamat qilinmoq",
         "en": "",
         "ru": "благоприятствовать,одарить",
         "example": "恵まれた環境で育ちました。"
@@ -2563,7 +2563,7 @@
       {
         "kanji": "共通する",
         "jp": "きょうつうする",
-        "uz": "Umumiy xususiyat, hislatga ega bo'lmoq, o'xshamoq",
+        "uz": "Umumiy xususiyat, hislatga ega bo'lmoq",
         "en": "",
         "ru": "Иметь общего",
         "example": "私たちは共通の趣味を持っています。"
@@ -3109,7 +3109,7 @@
       {
         "kanji": "改造する",
         "jp": "かいぞうする",
-        "uz": "Qayta qurish, yangi narsa yaratish uchun allaqachon mavjud bo'lgan narsani o'zgartirish",
+        "uz": "Mavjud narsani yangilash",
         "en": "",
         "ru": "",
         "example": "彼は車を改造しました。"
@@ -3274,7 +3274,7 @@
       {
         "kanji": "年度末",
         "jp": "ねんどまつ",
-        "uz": "moliyaviy yilning tugashi , o'quv yilining tugashi",
+        "uz": "moliyaviy yilning tugashi, o'quv yili tugashi",
         "en": "",
         "ru": "конец финансового года, завершение учебного года",
         "example": "年度末の報告書を作成しています。"
